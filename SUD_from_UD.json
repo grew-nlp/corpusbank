@@ -1,0 +1,37 @@
+[
+  {
+    "id": "SUD_Bambara-CRB@conv",
+    "config": "sud",
+    "lang": "bm",
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_Bambara-CRB",
+    "src": "UD_Bambara-CRB@dev",
+    "grs": "${GRSROOT}/converter/grs/UD_to_SUD.grs"
+  },
+  {
+    "id": "SUD_Breton-KEB@conv",
+    "config": "sud",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_Breton-KEB",
+    "src": "UD_Breton-KEB@dev",
+    "grs": "${GRSROOT}/converter/grs/br_UD_to_SUD.grs",
+    "strat": "br_main"
+  },
+  {
+    "id": "SUD_German-GSD@conv",
+    "config": "sud",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_German-GSD",
+    "src": "UD_German-GSD@dev",
+    "grs": "${GRSROOT}/converter/grs/de_UD_to_SUD.grs",
+    "strat": "de_main"
+  },
+  {
+    "id": "SUD_Wolof-WTB@conv",
+    "config": "sud",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_Wolof-WTB",
+    "src": "UD_Wolof-WTB@dev",
+    "grs": "${GRSROOT}/converter/grs/wo_UD_to_SUD.grs",
+    "strat": "wo_main"
+  }
+]

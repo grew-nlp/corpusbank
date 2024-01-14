@@ -1,0 +1,2135 @@
+[
+  {
+    "id": "UD_Abaza-ATB@2.13",
+    "config": "ud",
+    "lang": "abq",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Abaza-ATB",
+    "github": "https://github.com/UniversalDependencies/UD_Abaza-ATB",
+    "parallels": ["SUD_Abaza-ATB@2.13"]
+  },
+  {
+    "id": "UD_Afrikaans-AfriBooms@2.13",
+    "config": "ud",
+    "lang": "af",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Afrikaans-AfriBooms",
+    "github": "https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms",
+    "parallels": ["SUD_Afrikaans-AfriBooms@2.13"]
+  },
+  {
+    "id": "UD_Akkadian-PISANDUB@2.13",
+    "config": "ud",
+    "lang": "akk",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Akkadian-PISANDUB",
+    "github": "https://github.com/UniversalDependencies/UD_Akkadian-PISANDUB",
+    "parallels": ["SUD_Akkadian-PISANDUB@2.13"]
+  },
+  {
+    "id": "UD_Akkadian-RIAO@2.13",
+    "config": "ud",
+    "lang": "akk",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Akkadian-RIAO",
+    "github": "https://github.com/UniversalDependencies/UD_Akkadian-RIAO",
+    "parallels": ["SUD_Akkadian-RIAO@2.13"]
+  },
+  {
+    "id": "UD_Akuntsu-TuDeT@2.13",
+    "config": "ud",
+    "lang": "aqz",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Akuntsu-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT",
+    "parallels": ["SUD_Akuntsu-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Albanian-TSA@2.13",
+    "config": "ud",
+    "lang": "sq",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Albanian-TSA",
+    "github": "https://github.com/UniversalDependencies/UD_Albanian-TSA",
+    "parallels": ["SUD_Albanian-TSA@2.13"]
+  },
+  {
+    "id": "UD_Amharic-ATT@2.13",
+    "config": "ud",
+    "lang": "am",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Amharic-ATT",
+    "github": "https://github.com/UniversalDependencies/UD_Amharic-ATT",
+    "parallels": ["SUD_Amharic-ATT@2.13"]
+  },
+  {
+    "id": "UD_Ancient_Greek-PROIEL@2.13",
+    "config": "ud",
+    "lang": "grc",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Ancient_Greek-PROIEL",
+    "github": "https://github.com/UniversalDependencies/UD_Ancient_Greek-PROIEL",
+    "parallels": ["SUD_Ancient_Greek-PROIEL@2.13"]
+  },
+  {
+    "id": "UD_Ancient_Greek-PTNK@2.13",
+    "config": "ud",
+    "lang": "grc",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Ancient_Greek-PTNK",
+    "github": "https://github.com/UniversalDependencies/UD_Ancient_Greek-PTNK",
+    "parallels": ["SUD_Ancient_Greek-PTNK@2.13"]
+  },
+  {
+    "id": "UD_Ancient_Greek-Perseus@2.13",
+    "config": "ud",
+    "lang": "grc",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Ancient_Greek-Perseus",
+    "github": "https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus",
+    "parallels": ["SUD_Ancient_Greek-Perseus@2.13"]
+  },
+  {
+    "id": "UD_Ancient_Hebrew-PTNK@2.13",
+    "config": "ud",
+    "lang": "hbo",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Ancient_Hebrew-PTNK",
+    "github": "https://github.com/UniversalDependencies/UD_Ancient_Hebrew-PTNK",
+    "parallels": ["SUD_Ancient_Hebrew-PTNK@2.13"]
+  },
+  {
+    "id": "UD_Apurina-UFPA@2.13",
+    "config": "ud",
+    "lang": "apu",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Apurina-UFPA",
+    "github": "https://github.com/UniversalDependencies/UD_Apurina-UFPA",
+    "parallels": ["SUD_Apurina-UFPA@2.13"]
+  },
+  {
+    "id": "UD_Arabic-NYUAD@2.13",
+    "config": "ud",
+    "lang": "ar",
+    "rtl": true,
+    "no_word": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Arabic-NYUAD",
+    "github": "https://github.com/UniversalDependencies/UD_Arabic-NYUAD",
+    "parallels": ["SUD_Arabic-NYUAD@2.13"]
+  },
+  {
+    "id": "UD_Arabic-PADT@2.13",
+    "config": "ud",
+    "lang": "ar",
+    "rtl": true,
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Arabic-PADT",
+    "github": "https://github.com/UniversalDependencies/UD_Arabic-PADT",
+    "parallels": ["SUD_Arabic-PADT@2.13"]
+  },
+  {
+    "id": "UD_Arabic-PUD@2.13",
+    "config": "ud",
+    "lang": "ar",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Arabic-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Arabic-PUD",
+    "parallels": ["SUD_Arabic-PUD@2.13"]
+  },
+  {
+    "id": "UD_Armenian-ArmTDP@2.13",
+    "config": "ud",
+    "lang": "hy",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Armenian-ArmTDP",
+    "github": "https://github.com/UniversalDependencies/UD_Armenian-ArmTDP",
+    "parallels": ["SUD_Armenian-ArmTDP@2.13"]
+  },
+  {
+    "id": "UD_Armenian-BSUT@2.13",
+    "config": "ud",
+    "lang": "hy",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Armenian-BSUT",
+    "github": "https://github.com/UniversalDependencies/UD_Armenian-BSUT",
+    "parallels": ["SUD_Armenian-BSUT@2.13"]
+  },
+  {
+    "id": "UD_Assyrian-AS@2.13",
+    "config": "ud",
+    "lang": "aii",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Assyrian-AS",
+    "github": "https://github.com/UniversalDependencies/UD_Assyrian-AS",
+    "parallels": ["SUD_Assyrian-AS@2.13"]
+  },
+  {
+    "id": "UD_Bambara-CRB@2.13",
+    "config": "ud",
+    "lang": "bm",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Bambara-CRB",
+    "github": "https://github.com/UniversalDependencies/UD_Bambara-CRB",
+    "parallels": ["SUD_Bambara-CRB@2.13"]
+  },
+  {
+    "id": "UD_Basque-BDT@2.13",
+    "config": "ud",
+    "lang": "eu",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Basque-BDT",
+    "github": "https://github.com/UniversalDependencies/UD_Basque-BDT",
+    "parallels": ["SUD_Basque-BDT@2.13"]
+  },
+  {
+    "id": "UD_Beja-NSC@2.13",
+    "config": "ud",
+    "lang": "bej",
+    "audio": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Beja-NSC",
+    "github": "https://github.com/UniversalDependencies/UD_Beja-NSC",
+    "parallels": ["SUD_Beja-NSC@2.13"]
+  },
+  {
+    "id": "UD_Belarusian-HSE@2.13",
+    "config": "ud",
+    "lang": "be",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Belarusian-HSE",
+    "github": "https://github.com/UniversalDependencies/UD_Belarusian-HSE",
+    "parallels": ["SUD_Belarusian-HSE@2.13"]
+  },
+  {
+    "id": "UD_Bengali-BRU@2.13",
+    "config": "ud",
+    "lang": "bn",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Bengali-BRU",
+    "github": "https://github.com/UniversalDependencies/UD_Bengali-BRU",
+    "parallels": ["SUD_Bengali-BRU@2.13"]
+  },
+  {
+    "id": "UD_Bhojpuri-BHTB@2.13",
+    "config": "ud",
+    "lang": "bho",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Bhojpuri-BHTB",
+    "github": "https://github.com/UniversalDependencies/UD_Bhojpuri-BHTB",
+    "parallels": ["SUD_Bhojpuri-BHTB@2.13"]
+  },
+  {
+    "id": "UD_Bororo-BDT@2.13",
+    "config": "ud",
+    "lang": "bor",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Bororo-BDT",
+    "github": "https://github.com/UniversalDependencies/UD_Bororo-BDT",
+    "parallels": ["SUD_Bororo-BDT@2.13"]
+  },
+  {
+    "id": "UD_Breton-KEB@2.13",
+    "config": "ud",
+    "lang": "br",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Breton-KEB",
+    "github": "https://github.com/UniversalDependencies/UD_Breton-KEB",
+    "parallels": ["SUD_Breton-KEB@2.13"]
+  },
+  {
+    "id": "UD_Bulgarian-BTB@2.13",
+    "config": "ud",
+    "lang": "bg",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Bulgarian-BTB",
+    "github": "https://github.com/UniversalDependencies/UD_Bulgarian-BTB",
+    "parallels": ["SUD_Bulgarian-BTB@2.13"]
+  },
+  {
+    "id": "UD_Buryat-BDT@2.13",
+    "config": "ud",
+    "lang": "bxr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Buryat-BDT",
+    "github": "https://github.com/UniversalDependencies/UD_Buryat-BDT",
+    "parallels": ["SUD_Buryat-BDT@2.13"]
+  },
+  {
+    "id": "UD_Cantonese-HK@2.13",
+    "config": "ud",
+    "lang": "yue",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Cantonese-HK",
+    "github": "https://github.com/UniversalDependencies/UD_Cantonese-HK",
+    "parallels": ["SUD_Cantonese-HK@2.13"]
+  },
+  {
+    "id": "UD_Catalan-AnCora@2.13",
+    "config": "ud",
+    "lang": "ca",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Catalan-AnCora",
+    "github": "https://github.com/UniversalDependencies/UD_Catalan-AnCora",
+    "parallels": ["SUD_Catalan-AnCora@2.13"]
+  },
+  {
+    "id": "UD_Cebuano-GJA@2.13",
+    "config": "ud",
+    "lang": "ceb",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Cebuano-GJA",
+    "github": "https://github.com/UniversalDependencies/UD_Cebuano-GJA",
+    "parallels": ["SUD_Cebuano-GJA@2.13"]
+  },
+  {
+    "id": "UD_Chinese-Beginner@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-Beginner",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-Beginner",
+    "parallels": ["SUD_Chinese-Beginner@2.13"]
+  },
+  {
+    "id": "UD_Chinese-CFL@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-CFL",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-CFL",
+    "parallels": ["SUD_Chinese-CFL@2.13"]
+  },
+  {
+    "id": "UD_Chinese-GSD@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-GSD",
+    "parallels": ["SUD_Chinese-GSD@2.13"]
+  },
+  {
+    "id": "UD_Chinese-GSDSimp@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-GSDSimp",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-GSDSimp",
+    "parallels": ["SUD_Chinese-GSDSimp@2.13"]
+  },
+  {
+    "id": "UD_Chinese-HK@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-HK",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-HK",
+    "parallels": ["SUD_Chinese-HK@2.13"]
+  },
+  {
+    "id": "UD_Chinese-PUD@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-PUD",
+    "parallels": ["SUD_Chinese-PUD@2.13"]
+  },
+  {
+    "id": "UD_Chinese-PatentChar@2.13",
+    "config": "ud",
+    "lang": "zh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chinese-PatentChar",
+    "github": "https://github.com/UniversalDependencies/UD_Chinese-PatentChar",
+    "parallels": ["SUD_Chinese-PatentChar@2.13"]
+  },
+  {
+    "id": "UD_Chukchi-HSE@2.13",
+    "config": "ud",
+    "lang": "ckt",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Chukchi-HSE",
+    "github": "https://github.com/UniversalDependencies/UD_Chukchi-HSE",
+    "parallels": ["SUD_Chukchi-HSE@2.13"]
+  },
+  {
+    "id": "UD_Classical_Armenian-CAVaL@2.13",
+    "config": "ud",
+    "lang": "xcl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Classical_Armenian-CAVaL",
+    "github": "https://github.com/UniversalDependencies/UD_Classical_Armenian-CAVaL",
+    "parallels": ["SUD_Classical_Armenian-CAVaL@2.13"]
+  },
+  {
+    "id": "UD_Classical_Chinese-Kyoto@2.13",
+    "config": "ud",
+    "lang": "lzh",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Classical_Chinese-Kyoto",
+    "github": "https://github.com/UniversalDependencies/UD_Classical_Chinese-Kyoto",
+    "parallels": ["SUD_Classical_Chinese-Kyoto@2.13"]
+  },
+  {
+    "id": "UD_Coptic-Scriptorium@2.13",
+    "config": "ud",
+    "lang": "cop",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Coptic-Scriptorium",
+    "github": "https://github.com/UniversalDependencies/UD_Coptic-Scriptorium",
+    "parallels": ["SUD_Coptic-Scriptorium@2.13"]
+  },
+  {
+    "id": "UD_Croatian-SET@2.13",
+    "config": "ud",
+    "lang": "hr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Croatian-SET",
+    "github": "https://github.com/UniversalDependencies/UD_Croatian-SET",
+    "parallels": ["SUD_Croatian-SET@2.13"]
+  },
+  {
+    "id": "UD_Czech-CAC@2.13",
+    "config": "ud",
+    "lang": "cs",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Czech-CAC",
+    "github": "https://github.com/UniversalDependencies/UD_Czech-CAC",
+    "parallels": ["SUD_Czech-CAC@2.13"]
+  },
+  {
+    "id": "UD_Czech-CLTT@2.13",
+    "config": "ud",
+    "lang": "cs",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Czech-CLTT",
+    "github": "https://github.com/UniversalDependencies/UD_Czech-CLTT",
+    "parallels": ["SUD_Czech-CLTT@2.13"]
+  },
+  {
+    "id": "UD_Czech-FicTree@2.13",
+    "config": "ud",
+    "lang": "cs",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Czech-FicTree",
+    "github": "https://github.com/UniversalDependencies/UD_Czech-FicTree",
+    "parallels": ["SUD_Czech-FicTree@2.13"]
+  },
+  {
+    "id": "UD_Czech-PDT@2.13",
+    "config": "ud",
+    "lang": "cs",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Czech-PDT",
+    "github": "https://github.com/UniversalDependencies/UD_Czech-PDT",
+    "parallels": ["SUD_Czech-PDT@2.13"]
+  },
+  {
+    "id": "UD_Czech-PUD@2.13",
+    "config": "ud",
+    "lang": "cs",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Czech-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Czech-PUD",
+    "parallels": ["SUD_Czech-PUD@2.13"]
+  },
+  {
+    "id": "UD_Czech-Poetry@2.13",
+    "config": "ud",
+    "lang": "cs",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Czech-Poetry",
+    "github": "https://github.com/UniversalDependencies/UD_Czech-Poetry",
+    "parallels": ["SUD_Czech-Poetry@2.13"]
+  },
+  {
+    "id": "UD_Danish-DDT@2.13",
+    "config": "ud",
+    "lang": "da",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Danish-DDT",
+    "github": "https://github.com/UniversalDependencies/UD_Danish-DDT",
+    "parallels": ["SUD_Danish-DDT@2.13"]
+  },
+  {
+    "id": "UD_Dutch-Alpino@2.13",
+    "config": "ud",
+    "lang": "nl",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Dutch-Alpino",
+    "github": "https://github.com/UniversalDependencies/UD_Dutch-Alpino",
+    "parallels": ["SUD_Dutch-Alpino@2.13"]
+  },
+  {
+    "id": "UD_Dutch-LassySmall@2.13",
+    "config": "ud",
+    "lang": "nl",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Dutch-LassySmall",
+    "github": "https://github.com/UniversalDependencies/UD_Dutch-LassySmall",
+    "parallels": ["SUD_Dutch-LassySmall@2.13"]
+  },
+  {
+    "id": "UD_English-Atis@2.13",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-Atis",
+    "github": "https://github.com/UniversalDependencies/UD_English-Atis",
+    "parallels": ["SUD_English-Atis@2.13"]
+  },
+  {
+    "id": "UD_English-ESLSpok@2.13",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-ESLSpok",
+    "github": "https://github.com/UniversalDependencies/UD_English-ESLSpok",
+    "parallels": ["SUD_English-ESLSpok@2.13"]
+  },
+  {
+    "id": "UD_English-EWT@2.13",
+    "config": "ud",
+    "lang": "en",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-EWT",
+    "github": "https://github.com/UniversalDependencies/UD_English-EWT",
+    "parallels": ["SUD_English-EWT@2.13"]
+  },
+  {
+    "id": "UD_English-GENTLE@2.13",
+    "config": "ud",
+    "lang": "en",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-GENTLE",
+    "github": "https://github.com/UniversalDependencies/UD_English-GENTLE",
+    "parallels": ["SUD_English-GENTLE@2.13"]
+  },
+  {
+    "id": "UD_English-GUM@2.13",
+    "config": "ud",
+    "lang": "en",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-GUM",
+    "github": "https://github.com/UniversalDependencies/UD_English-GUM",
+    "parallels": ["SUD_English-GUM@2.13"]
+  },
+  {
+    "id": "UD_English-GUMReddit@2.13",
+    "config": "ud",
+    "lang": "en",
+    "enhanced": true,
+    "no_word": true,
+      "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-GUMReddit",
+    "github": "https://github.com/UniversalDependencies/UD_English-GUMReddit",
+    "parallels": ["SUD_English-GUMReddit@2.13"]
+  },
+  {
+    "id": "UD_English-LinES@2.13",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-LinES",
+    "github": "https://github.com/UniversalDependencies/UD_English-LinES",
+    "parallels": ["SUD_English-LinES@2.13"]
+  },
+  {
+    "id": "UD_English-PUD@2.13",
+    "config": "ud",
+    "lang": "en",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_English-PUD",
+    "parallels": ["SUD_English-PUD@2.13"]
+  },
+  {
+    "id": "UD_English-ParTUT@2.13",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-ParTUT",
+    "github": "https://github.com/UniversalDependencies/UD_English-ParTUT",
+    "parallels": ["SUD_English-ParTUT@2.13"]
+  },
+  {
+    "id": "UD_English-Pronouns@2.13",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_English-Pronouns",
+    "github": "https://github.com/UniversalDependencies/UD_English-Pronouns",
+    "parallels": ["SUD_English-Pronouns@2.13"]
+  },
+  {
+    "id": "UD_Erzya-JR@2.13",
+    "config": "ud",
+    "lang": "myv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Erzya-JR",
+    "github": "https://github.com/UniversalDependencies/UD_Erzya-JR",
+    "parallels": ["SUD_Erzya-JR@2.13"]
+  },
+  {
+    "id": "UD_Estonian-EDT@2.13",
+    "config": "ud",
+    "lang": "et",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Estonian-EDT",
+    "github": "https://github.com/UniversalDependencies/UD_Estonian-EDT",
+    "parallels": ["SUD_Estonian-EDT@2.13"]
+  },
+  {
+    "id": "UD_Estonian-EWT@2.13",
+    "config": "ud",
+    "lang": "et",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Estonian-EWT",
+    "github": "https://github.com/UniversalDependencies/UD_Estonian-EWT",
+    "parallels": ["SUD_Estonian-EWT@2.13"]
+  },
+  {
+    "id": "UD_Faroese-FarPaHC@2.13",
+    "config": "ud",
+    "lang": "fo",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Faroese-FarPaHC",
+    "github": "https://github.com/UniversalDependencies/UD_Faroese-FarPaHC",
+    "parallels": ["SUD_Faroese-FarPaHC@2.13"]
+  },
+  {
+    "id": "UD_Faroese-OFT@2.13",
+    "config": "ud",
+    "lang": "fo",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Faroese-OFT",
+    "github": "https://github.com/UniversalDependencies/UD_Faroese-OFT",
+    "parallels": ["SUD_Faroese-OFT@2.13"]
+  },
+  {
+    "id": "UD_Finnish-FTB@2.13",
+    "config": "ud",
+    "lang": "fi",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Finnish-FTB",
+    "github": "https://github.com/UniversalDependencies/UD_Finnish-FTB",
+    "parallels": ["SUD_Finnish-FTB@2.13"]
+  },
+  {
+    "id": "UD_Finnish-OOD@2.13",
+    "config": "ud",
+    "lang": "fi",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Finnish-OOD",
+    "github": "https://github.com/UniversalDependencies/UD_Finnish-OOD",
+    "parallels": ["SUD_Finnish-OOD@2.13"]
+  },
+  {
+    "id": "UD_Finnish-PUD@2.13",
+    "config": "ud",
+    "lang": "fi",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Finnish-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Finnish-PUD",
+    "parallels": ["SUD_Finnish-PUD@2.13"]
+  },
+  {
+    "id": "UD_Finnish-TDT@2.13",
+    "config": "ud",
+    "lang": "fi",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Finnish-TDT",
+    "github": "https://github.com/UniversalDependencies/UD_Finnish-TDT",
+    "parallels": ["SUD_Finnish-TDT@2.13"]
+  },
+  {
+    "id": "UD_French-FQB@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-FQB",
+    "github": "https://github.com/UniversalDependencies/UD_French-FQB",
+    "parallels": ["SUD_French-FQB@2.13"]
+  },
+  {
+    "id": "UD_French-GSD@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_French-GSD",
+    "parallels": ["SUD_French-GSD@2.13"]
+  },
+  {
+    "id": "UD_French-PUD@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_French-PUD",
+    "parallels": ["SUD_French-PUD@2.13"]
+  },
+  {
+    "id": "UD_French-ParTUT@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-ParTUT",
+    "github": "https://github.com/UniversalDependencies/UD_French-ParTUT",
+    "parallels": ["SUD_French-ParTUT@2.13"]
+  },
+  {
+    "id": "UD_French-ParisStories@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "audio": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-ParisStories",
+    "github": "https://github.com/UniversalDependencies/UD_French-ParisStories",
+    "parallels": ["SUD_French-ParisStories@2.13"]
+  },
+  {
+    "id": "UD_French-Rhapsodie@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-Rhapsodie",
+    "github": "https://github.com/UniversalDependencies/UD_French-Rhapsodie",
+    "parallels": ["SUD_French-Rhapsodie@2.13"]
+  },
+  {
+    "id": "UD_French-Sequoia@2.13",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_French-Sequoia",
+    "github": "https://github.com/UniversalDependencies/UD_French-Sequoia",
+    "parallels": ["SUD_French-Sequoia@2.13"]
+  },
+  {
+    "id": "UD_Frisian_Dutch-Fame@2.13",
+    "config": "ud",
+    "lang": "qfn",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Frisian_Dutch-Fame",
+    "github": "https://github.com/UniversalDependencies/UD_Frisian_Dutch-Fame",
+    "parallels": ["SUD_Frisian_Dutch-Fame@2.13"]
+  },
+  {
+    "id": "UD_Galician-CTG@2.13",
+    "config": "ud",
+    "lang": "gl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Galician-CTG",
+    "github": "https://github.com/UniversalDependencies/UD_Galician-CTG",
+    "parallels": ["SUD_Galician-CTG@2.13"]
+  },
+  {
+    "id": "UD_Galician-TreeGal@2.13",
+    "config": "ud",
+    "lang": "gl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Galician-TreeGal",
+    "github": "https://github.com/UniversalDependencies/UD_Galician-TreeGal",
+    "parallels": ["SUD_Galician-TreeGal@2.13"]
+  },
+  {
+    "id": "UD_Georgian-GLC@2.13",
+    "config": "ud",
+    "lang": "ka",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Georgian-GLC",
+    "github": "https://github.com/UniversalDependencies/UD_Georgian-GLC",
+    "parallels": ["SUD_Georgian-GLC@2.13"]
+  },
+  {
+    "id": "UD_German-GSD@2.13",
+    "config": "ud",
+    "lang": "de",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_German-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_German-GSD",
+    "parallels": ["SUD_German-GSD@2.13"]
+  },
+  {
+    "id": "UD_German-HDT@2.13",
+    "config": "ud",
+    "lang": "de",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_German-HDT",
+    "github": "https://github.com/UniversalDependencies/UD_German-HDT",
+    "parallels": ["SUD_German-HDT@2.13"]
+  },
+  {
+    "id": "UD_German-LIT@2.13",
+    "config": "ud",
+    "lang": "de",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_German-LIT",
+    "github": "https://github.com/UniversalDependencies/UD_German-LIT",
+    "parallels": ["SUD_German-LIT@2.13"]
+  },
+  {
+    "id": "UD_German-PUD@2.13",
+    "config": "ud",
+    "lang": "de",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_German-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_German-PUD",
+    "parallels": ["SUD_German-PUD@2.13"]
+  },
+  {
+    "id": "UD_Gheg-GPS@2.13",
+    "config": "ud",
+    "lang": "aln",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Gheg-GPS",
+    "github": "https://github.com/UniversalDependencies/UD_Gheg-GPS",
+    "parallels": ["SUD_Gheg-GPS@2.13"]
+  },
+  {
+    "id": "UD_Gothic-PROIEL@2.13",
+    "config": "ud",
+    "lang": "got",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Gothic-PROIEL",
+    "github": "https://github.com/UniversalDependencies/UD_Gothic-PROIEL",
+    "parallels": ["SUD_Gothic-PROIEL@2.13"]
+  },
+  {
+    "id": "UD_Greek-GDT@2.13",
+    "config": "ud",
+    "lang": "el",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Greek-GDT",
+    "github": "https://github.com/UniversalDependencies/UD_Greek-GDT",
+    "parallels": ["SUD_Greek-GDT@2.13"]
+  },
+  {
+    "id": "UD_Greek-GUD@2.13",
+    "config": "ud",
+    "lang": "el",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Greek-GUD",
+    "github": "https://github.com/UniversalDependencies/UD_Greek-GUD",
+    "parallels": ["SUD_Greek-GUD@2.13"]
+  },
+  {
+    "id": "UD_Guajajara-TuDeT@2.13",
+    "config": "ud",
+    "lang": "gub",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Guajajara-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Guajajara-TuDeT",
+    "parallels": ["SUD_Guajajara-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Guarani-OldTuDeT@2.13",
+    "config": "ud",
+    "lang": "gn",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Guarani-OldTuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Guarani-OldTuDeT",
+    "parallels": ["SUD_Guarani-OldTuDeT@2.13"]
+  },
+  {
+    "id": "UD_Haitian_Creole-Autogramm@2.13",
+    "config": "ud",
+    "lang": "ht",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Haitian_Creole-Autogramm",
+    "github": "https://github.com/UniversalDependencies/UD_Haitian_Creole-Autogramm",
+    "parallels": ["SUD_Haitian_Creole-Autogramm@2.13"]
+  },
+  {
+    "id": "UD_Hebrew-HTB@2.13",
+    "config": "ud",
+    "lang": "he",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Hebrew-HTB",
+    "github": "https://github.com/UniversalDependencies/UD_Hebrew-HTB",
+    "parallels": ["SUD_Hebrew-HTB@2.13"]
+  },
+  {
+    "id": "UD_Hebrew-IAHLTwiki@2.13",
+    "config": "ud",
+    "lang": "he",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Hebrew-IAHLTwiki",
+    "github": "https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki",
+    "parallels": ["SUD_Hebrew-IAHLTwiki@2.13"]
+  },
+  {
+    "id": "UD_Highland_Puebla_Nahuatl-ITML@2.13",
+    "config": "ud",
+    "lang": "azz",
+    "rtl": true,
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Highland_Puebla_Nahuatl-ITML",
+    "github": "https://github.com/UniversalDependencies/UD_Highland_Puebla_Nahuatl-ITML",
+    "parallels": ["SUD_Highland_Puebla_Nahuatl-ITML@2.13"]
+  },
+  {
+    "id": "UD_Hindi-HDTB@2.13",
+    "config": "ud",
+    "lang": "hi",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Hindi-HDTB",
+    "github": "https://github.com/UniversalDependencies/UD_Hindi-HDTB",
+    "parallels": ["SUD_Hindi-HDTB@2.13"]
+  },
+  {
+    "id": "UD_Hindi-PUD@2.13",
+    "config": "ud",
+    "lang": "hi",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Hindi-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Hindi-PUD",
+    "parallels": ["SUD_Hindi-PUD@2.13"]
+  },
+  {
+    "id": "UD_Hittite-HitTB@2.13",
+    "config": "ud",
+    "lang": "hit",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Hittite-HitTB",
+    "github": "https://github.com/UniversalDependencies/UD_Hittite-HitTB",
+    "parallels": ["SUD_Hittite-HitTB@2.13"]
+  },
+  {
+    "id": "UD_Hungarian-Szeged@2.13",
+    "config": "ud",
+    "lang": "hu",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Hungarian-Szeged",
+    "github": "https://github.com/UniversalDependencies/UD_Hungarian-Szeged",
+    "parallels": ["SUD_Hungarian-Szeged@2.13"]
+  },
+  {
+    "id": "UD_Icelandic-GC@2.13",
+    "config": "ud",
+    "lang": "is",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Icelandic-GC",
+    "github": "https://github.com/UniversalDependencies/UD_Icelandic-GC",
+    "parallels": ["SUD_Icelandic-GC@2.13"]
+  },
+  {
+    "id": "UD_Icelandic-IcePaHC@2.13",
+    "config": "ud",
+    "lang": "is",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Icelandic-IcePaHC",
+    "github": "https://github.com/UniversalDependencies/UD_Icelandic-IcePaHC",
+    "parallels": ["SUD_Icelandic-IcePaHC@2.13"]
+  },
+  {
+    "id": "UD_Icelandic-Modern@2.13",
+    "config": "ud",
+    "lang": "is",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Icelandic-Modern",
+    "github": "https://github.com/UniversalDependencies/UD_Icelandic-Modern",
+    "parallels": ["SUD_Icelandic-Modern@2.13"]
+  },
+  {
+    "id": "UD_Icelandic-PUD@2.13",
+    "config": "ud",
+    "lang": "is",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Icelandic-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Icelandic-PUD",
+    "parallels": ["SUD_Icelandic-PUD@2.13"]
+  },
+  {
+    "id": "UD_Indonesian-CSUI@2.13",
+    "config": "ud",
+    "lang": "id",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Indonesian-CSUI",
+    "github": "https://github.com/UniversalDependencies/UD_Indonesian-CSUI",
+    "parallels": ["SUD_Indonesian-CSUI@2.13"]
+  },
+  {
+    "id": "UD_Indonesian-GSD@2.13",
+    "config": "ud",
+    "lang": "id",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Indonesian-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Indonesian-GSD",
+    "parallels": ["SUD_Indonesian-GSD@2.13"]
+  },
+  {
+    "id": "UD_Indonesian-PUD@2.13",
+    "config": "ud",
+    "lang": "id",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Indonesian-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Indonesian-PUD",
+    "parallels": ["SUD_Indonesian-PUD@2.13"]
+  },
+  {
+    "id": "UD_Irish-Cadhan@2.13",
+    "config": "ud",
+    "lang": "ga",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Irish-Cadhan",
+    "github": "https://github.com/UniversalDependencies/UD_Irish-Cadhan",
+    "parallels": ["SUD_Irish-Cadhan@2.13"]
+  },
+  {
+    "id": "UD_Irish-IDT@2.13",
+    "config": "ud",
+    "lang": "ga",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Irish-IDT",
+    "github": "https://github.com/UniversalDependencies/UD_Irish-IDT",
+    "parallels": ["SUD_Irish-IDT@2.13"]
+  },
+  {
+    "id": "UD_Irish-TwittIrish@2.13",
+    "config": "ud",
+    "lang": "ga",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Irish-TwittIrish",
+    "github": "https://github.com/UniversalDependencies/UD_Irish-TwittIrish",
+    "parallels": ["SUD_Irish-TwittIrish@2.13"]
+  },
+  {
+    "id": "UD_Italian-ISDT@2.13",
+    "config": "ud",
+    "lang": "it",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-ISDT",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-ISDT",
+    "parallels": ["SUD_Italian-ISDT@2.13"]
+  },
+  {
+    "id": "UD_Italian-MarkIT@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-MarkIT",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-MarkIT",
+    "parallels": ["SUD_Italian-MarkIT@2.13"]
+  },
+  {
+    "id": "UD_Italian-Old@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-Old",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-Old",
+    "parallels": ["SUD_Italian-Old@2.13"]
+  },
+  {
+    "id": "UD_Italian-PUD@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-PUD",
+    "parallels": ["SUD_Italian-PUD@2.13"]
+  },
+  {
+    "id": "UD_Italian-ParTUT@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-ParTUT",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-ParTUT",
+    "parallels": ["SUD_Italian-ParTUT@2.13"]
+  },
+  {
+    "id": "UD_Italian-ParlaMint@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-ParlaMint",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-ParlaMint",
+    "parallels": ["SUD_Italian-ParlaMint@2.13"]
+  },
+  {
+    "id": "UD_Italian-PoSTWITA@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-PoSTWITA",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-PoSTWITA",
+    "parallels": ["SUD_Italian-PoSTWITA@2.13"]
+  },
+  {
+    "id": "UD_Italian-TWITTIRO@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-TWITTIRO",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-TWITTIRO",
+    "parallels": ["SUD_Italian-TWITTIRO@2.13"]
+  },
+  {
+    "id": "UD_Italian-VIT@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-VIT",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-VIT",
+    "parallels": ["SUD_Italian-VIT@2.13"]
+  },
+  {
+    "id": "UD_Italian-Valico@2.13",
+    "config": "ud",
+    "lang": "it",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Italian-Valico",
+    "github": "https://github.com/UniversalDependencies/UD_Italian-Valico",
+    "parallels": ["SUD_Italian-Valico@2.13"]
+  },
+  {
+    "id": "UD_Japanese-BCCWJ@2.13",
+    "config": "ud",
+    "lang": "ja",
+    "no_word": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Japanese-BCCWJ",
+    "github": "https://github.com/UniversalDependencies/UD_Japanese-BCCWJ",
+    "parallels": ["SUD_Japanese-BCCWJ@2.13"]
+  },
+  {
+    "id": "UD_Japanese-BCCWJLUW@2.13",
+    "config": "ud",
+    "lang": "ja",
+    "no_word": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Japanese-BCCWJLUW",
+    "github": "https://github.com/UniversalDependencies/UD_Japanese-BCCWJLUW",
+    "parallels": ["SUD_Japanese-BCCWJLUW@2.13"]
+  },
+  {
+    "id": "UD_Japanese-GSD@2.13",
+    "config": "ud",
+    "lang": "ja",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Japanese-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Japanese-GSD",
+    "parallels": ["SUD_Japanese-GSD@2.13"]
+  },
+  {
+    "id": "UD_Japanese-GSDLUW@2.13",
+    "config": "ud",
+    "lang": "ja",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Japanese-GSDLUW",
+    "github": "https://github.com/UniversalDependencies/UD_Japanese-GSDLUW",
+    "parallels": ["SUD_Japanese-GSDLUW@2.13"]
+  },
+  {
+    "id": "UD_Japanese-PUD@2.13",
+    "config": "ud",
+    "lang": "ja",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Japanese-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Japanese-PUD",
+    "parallels": ["SUD_Japanese-PUD@2.13"]
+  },
+  {
+    "id": "UD_Japanese-PUDLUW@2.13",
+    "config": "ud",
+    "lang": "ja",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Japanese-PUDLUW",
+    "github": "https://github.com/UniversalDependencies/UD_Japanese-PUDLUW",
+    "parallels": ["SUD_Japanese-PUDLUW@2.13"]
+  },
+  {
+    "id": "UD_Javanese-CSUI@2.13",
+    "config": "ud",
+    "lang": "jv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Javanese-CSUI",
+    "github": "https://github.com/UniversalDependencies/UD_Javanese-CSUI",
+    "parallels": ["SUD_Javanese-CSUI@2.13"]
+  },
+  {
+    "id": "UD_Kaapor-TuDeT@2.13",
+    "config": "ud",
+    "lang": "urb",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Kaapor-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Kaapor-TuDeT",
+    "parallels": ["SUD_Kaapor-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Kangri-KDTB@2.13",
+    "config": "ud",
+    "lang": "xnr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Kangri-KDTB",
+    "github": "https://github.com/UniversalDependencies/UD_Kangri-KDTB",
+    "parallels": ["SUD_Kangri-KDTB@2.13"]
+  },
+  {
+    "id": "UD_Karelian-KKPP@2.13",
+    "config": "ud",
+    "lang": "krl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Karelian-KKPP",
+    "github": "https://github.com/UniversalDependencies/UD_Karelian-KKPP",
+    "parallels": ["SUD_Karelian-KKPP@2.13"]
+  },
+  {
+    "id": "UD_Karo-TuDeT@2.13",
+    "config": "ud",
+    "lang": "arr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Karo-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Karo-TuDeT",
+    "parallels": ["SUD_Karo-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Kazakh-KTB@2.13",
+    "config": "ud",
+    "lang": "kk",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Kazakh-KTB",
+    "github": "https://github.com/UniversalDependencies/UD_Kazakh-KTB",
+    "parallels": ["SUD_Kazakh-KTB@2.13"]
+  },
+  {
+    "id": "UD_Khunsari-AHA@2.13",
+    "config": "ud",
+    "lang": "kfm",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Khunsari-AHA",
+    "github": "https://github.com/UniversalDependencies/UD_Khunsari-AHA",
+    "parallels": ["SUD_Khunsari-AHA@2.13"]
+  },
+  {
+    "id": "UD_Kiche-IU@2.13",
+    "config": "ud",
+    "lang": "quc",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Kiche-IU",
+    "github": "https://github.com/UniversalDependencies/UD_Kiche-IU",
+    "parallels": ["SUD_Kiche-IU@2.13"]
+  },
+  {
+    "id": "UD_Komi_Permyak-UH@2.13",
+    "config": "ud",
+    "lang": "koi",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Komi_Permyak-UH",
+    "github": "https://github.com/UniversalDependencies/UD_Komi_Permyak-UH",
+    "parallels": ["SUD_Komi_Permyak-UH@2.13"]
+  },
+  {
+    "id": "UD_Komi_Zyrian-IKDP@2.13",
+    "config": "ud",
+    "lang": "kpv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Komi_Zyrian-IKDP",
+    "github": "https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP",
+    "parallels": ["SUD_Komi_Zyrian-IKDP@2.13"]
+  },
+  {
+    "id": "UD_Komi_Zyrian-Lattice@2.13",
+    "config": "ud",
+    "lang": "kpv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Komi_Zyrian-Lattice",
+    "github": "https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice",
+    "parallels": ["SUD_Komi_Zyrian-Lattice@2.13"]
+  },
+  {
+    "id": "UD_Korean-GSD@2.13",
+    "config": "ud",
+    "lang": "ko",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Korean-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Korean-GSD",
+    "parallels": ["SUD_Korean-GSD@2.13"]
+  },
+  {
+    "id": "UD_Korean-Kaist@2.13",
+    "config": "ud",
+    "lang": "ko",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Korean-Kaist",
+    "github": "https://github.com/UniversalDependencies/UD_Korean-Kaist",
+    "parallels": ["SUD_Korean-Kaist@2.13"]
+  },
+  {
+    "id": "UD_Korean-PUD@2.13",
+    "config": "ud",
+    "lang": "ko",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Korean-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Korean-PUD",
+    "parallels": ["SUD_Korean-PUD@2.13"]
+  },
+  {
+    "id": "UD_Kurmanji-MG@2.13",
+    "config": "ud",
+    "lang": "kmr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Kurmanji-MG",
+    "github": "https://github.com/UniversalDependencies/UD_Kurmanji-MG",
+    "parallels": ["SUD_Kurmanji-MG@2.13"]
+  },
+  {
+    "id": "UD_Kyrgyz-KTMU@2.13",
+    "config": "ud",
+    "lang": "ky",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Kyrgyz-KTMU",
+    "github": "https://github.com/UniversalDependencies/UD_Kyrgyz-KTMU",
+    "parallels": ["SUD_Kyrgyz-KTMU@2.13"]
+  },
+  {
+    "id": "UD_Latin-ITTB@2.13",
+    "config": "ud",
+    "lang": "la",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Latin-ITTB",
+    "github": "https://github.com/UniversalDependencies/UD_Latin-ITTB",
+    "parallels": ["SUD_Latin-ITTB@2.13"]
+  },
+  {
+    "id": "UD_Latin-LLCT@2.13",
+    "config": "ud",
+    "lang": "la",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Latin-LLCT",
+    "github": "https://github.com/UniversalDependencies/UD_Latin-LLCT",
+    "parallels": ["SUD_Latin-LLCT@2.13"]
+  },
+  {
+    "id": "UD_Latin-PROIEL@2.13",
+    "config": "ud",
+    "lang": "la",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Latin-PROIEL",
+    "github": "https://github.com/UniversalDependencies/UD_Latin-PROIEL",
+    "parallels": ["SUD_Latin-PROIEL@2.13"]
+  },
+  {
+    "id": "UD_Latin-Perseus@2.13",
+    "config": "ud",
+    "lang": "la",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Latin-Perseus",
+    "github": "https://github.com/UniversalDependencies/UD_Latin-Perseus",
+    "parallels": ["SUD_Latin-Perseus@2.13"]
+  },
+  {
+    "id": "UD_Latin-UDante@2.13",
+    "config": "ud",
+    "lang": "la",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Latin-UDante",
+    "github": "https://github.com/UniversalDependencies/UD_Latin-UDante",
+    "parallels": ["SUD_Latin-UDante@2.13"]
+  },
+  {
+    "id": "UD_Latvian-LVTB@2.13",
+    "config": "ud",
+    "lang": "lv",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Latvian-LVTB",
+    "github": "https://github.com/UniversalDependencies/UD_Latvian-LVTB",
+    "parallels": ["SUD_Latvian-LVTB@2.13"]
+  },
+  {
+    "id": "UD_Ligurian-GLT@2.13",
+    "config": "ud",
+    "lang": "lij",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Ligurian-GLT",
+    "github": "https://github.com/UniversalDependencies/UD_Ligurian-GLT",
+    "parallels": ["SUD_Ligurian-GLT@2.13"]
+  },
+  {
+    "id": "UD_Lithuanian-ALKSNIS@2.13",
+    "config": "ud",
+    "lang": "lt",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Lithuanian-ALKSNIS",
+    "github": "https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS",
+    "parallels": ["SUD_Lithuanian-ALKSNIS@2.13"]
+  },
+  {
+    "id": "UD_Lithuanian-HSE@2.13",
+    "config": "ud",
+    "lang": "lt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Lithuanian-HSE",
+    "github": "https://github.com/UniversalDependencies/UD_Lithuanian-HSE",
+    "parallels": ["SUD_Lithuanian-HSE@2.13"]
+  },
+  {
+    "id": "UD_Livvi-KKPP@2.13",
+    "config": "ud",
+    "lang": "olo",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Livvi-KKPP",
+    "github": "https://github.com/UniversalDependencies/UD_Livvi-KKPP",
+    "parallels": ["SUD_Livvi-KKPP@2.13"]
+  },
+  {
+    "id": "UD_Low_Saxon-LSDC@2.13",
+    "config": "ud",
+    "lang": "nds",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Low_Saxon-LSDC",
+    "github": "https://github.com/UniversalDependencies/UD_Low_Saxon-LSDC",
+    "parallels": ["SUD_Low_Saxon-LSDC@2.13"]
+  },
+  {
+    "id": "UD_Macedonian-MTB@2.13",
+    "config": "ud",
+    "lang": "mk",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Macedonian-MTB",
+    "github": "https://github.com/UniversalDependencies/UD_Macedonian-MTB",
+    "parallels": ["SUD_Macedonian-MTB@2.13"]
+  },
+  {
+    "id": "UD_Madi-Jarawara@2.13",
+    "config": "ud",
+    "lang": "jaa",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Madi-Jarawara",
+    "github": "https://github.com/UniversalDependencies/UD_Madi-Jarawara",
+    "parallels": ["SUD_Madi-Jarawara@2.13"]
+  },
+  {
+    "id": "UD_Maghrebi_Arabic_French-Arabizi@2.13",
+    "config": "ud",
+    "lang": "qaf",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Maghrebi_Arabic_French-Arabizi",
+    "github": "https://github.com/UniversalDependencies/UD_Maghrebi_Arabic_French-Arabizi",
+    "parallels": ["SUD_Maghrebi_Arabic_French-Arabizi@2.13"]
+  },
+  {
+    "id": "UD_Makurap-TuDeT@2.13",
+    "config": "ud",
+    "lang": "mpu",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Makurap-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Makurap-TuDeT",
+    "parallels": ["SUD_Makurap-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Malayalam-UFAL@2.13",
+    "config": "ud",
+    "lang": "ml",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Malayalam-UFAL",
+    "github": "https://github.com/UniversalDependencies/UD_Malayalam-UFAL",
+    "parallels": ["SUD_Malayalam-UFAL@2.13"]
+  },
+  {
+    "id": "UD_Maltese-MUDT@2.13",
+    "config": "ud",
+    "lang": "mt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Maltese-MUDT",
+    "github": "https://github.com/UniversalDependencies/UD_Maltese-MUDT",
+    "parallels": ["SUD_Maltese-MUDT@2.13"]
+  },
+  {
+    "id": "UD_Manx-Cadhan@2.13",
+    "config": "ud",
+    "lang": "gv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Manx-Cadhan",
+    "github": "https://github.com/UniversalDependencies/UD_Manx-Cadhan",
+    "parallels": ["SUD_Manx-Cadhan@2.13"]
+  },
+  {
+    "id": "UD_Marathi-UFAL@2.13",
+    "config": "ud",
+    "lang": "mr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Marathi-UFAL",
+    "github": "https://github.com/UniversalDependencies/UD_Marathi-UFAL",
+    "parallels": ["SUD_Marathi-UFAL@2.13"]
+  },
+  {
+    "id": "UD_Mbya_Guarani-Dooley@2.13",
+    "config": "ud",
+    "lang": "gun",
+    "no_word": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Mbya_Guarani-Dooley",
+    "github": "https://github.com/UniversalDependencies/UD_Mbya_Guarani-Dooley",
+    "parallels": ["SUD_Mbya_Guarani-Dooley@2.13"]
+  },
+  {
+    "id": "UD_Mbya_Guarani-Thomas@2.13",
+    "config": "ud",
+    "lang": "gun",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Mbya_Guarani-Thomas",
+    "github": "https://github.com/UniversalDependencies/UD_Mbya_Guarani-Thomas",
+    "parallels": ["SUD_Mbya_Guarani-Thomas@2.13"]
+  },
+  {
+    "id": "UD_Middle_French-PROFITEROLE@2.13",
+    "config": "ud",
+    "lang": "frm",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Middle_French-PROFITEROLE",
+    "github": "https://github.com/UniversalDependencies/UD_Middle_French-PROFITEROLE",
+    "parallels": ["SUD_Middle_French-PROFITEROLE@2.13"]
+  },
+  {
+    "id": "UD_Moksha-JR@2.13",
+    "config": "ud",
+    "lang": "mdf",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Moksha-JR",
+    "github": "https://github.com/UniversalDependencies/UD_Moksha-JR",
+    "parallels": ["SUD_Moksha-JR@2.13"]
+  },
+  {
+    "id": "UD_Munduruku-TuDeT@2.13",
+    "config": "ud",
+    "lang": "myu",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Munduruku-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Munduruku-TuDeT",
+    "parallels": ["SUD_Munduruku-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Naija-NSC@2.13",
+    "config": "ud",
+    "lang": "pcm",
+    "audio": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Naija-NSC",
+    "github": "https://github.com/UniversalDependencies/UD_Naija-NSC",
+    "parallels": ["SUD_Naija-NSC@2.13"]
+  },
+  {
+    "id": "UD_Nayini-AHA@2.13",
+    "config": "ud",
+    "lang": "nyq",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Nayini-AHA",
+    "github": "https://github.com/UniversalDependencies/UD_Nayini-AHA",
+    "parallels": ["SUD_Nayini-AHA@2.13"]
+  },
+  {
+    "id": "UD_Neapolitan-RB@2.13",
+    "config": "ud",
+    "lang": "nap",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Neapolitan-RB",
+    "github": "https://github.com/UniversalDependencies/UD_Neapolitan-RB",
+    "parallels": ["SUD_Neapolitan-RB@2.13"]
+  },
+  {
+    "id": "UD_Nheengatu-CompLin@2.13",
+    "config": "ud",
+    "lang": "yrl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Nheengatu-CompLin",
+    "github": "https://github.com/UniversalDependencies/UD_Nheengatu-CompLin",
+    "parallels": ["SUD_Nheengatu-CompLin@2.13"]
+  },
+  {
+    "id": "UD_North_Sami-Giella@2.13",
+    "config": "ud",
+    "lang": "sme",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_North_Sami-Giella",
+    "github": "https://github.com/UniversalDependencies/UD_North_Sami-Giella",
+    "parallels": ["SUD_North_Sami-Giella@2.13"]
+  },
+  {
+    "id": "UD_Norwegian-Bokmaal@2.13",
+    "config": "ud",
+    "lang": "no",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Norwegian-Bokmaal",
+    "github": "https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal",
+    "parallels": ["SUD_Norwegian-Bokmaal@2.13"]
+  },
+  {
+    "id": "UD_Norwegian-Nynorsk@2.13",
+    "config": "ud",
+    "lang": "no",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Norwegian-Nynorsk",
+    "github": "https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk",
+    "parallels": ["SUD_Norwegian-Nynorsk@2.13"]
+  },
+  {
+    "id": "UD_Old_Church_Slavonic-PROIEL@2.13",
+    "config": "ud",
+    "lang": "cu",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_Church_Slavonic-PROIEL",
+    "github": "https://github.com/UniversalDependencies/UD_Old_Church_Slavonic-PROIEL",
+    "parallels": ["SUD_Old_Church_Slavonic-PROIEL@2.13"]
+  },
+  {
+    "id": "UD_Old_East_Slavic-Birchbark@2.13",
+    "config": "ud",
+    "lang": "orv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_East_Slavic-Birchbark",
+    "github": "https://github.com/UniversalDependencies/UD_Old_East_Slavic-Birchbark",
+    "parallels": ["SUD_Old_East_Slavic-Birchbark@2.13"]
+  },
+  {
+    "id": "UD_Old_East_Slavic-RNC@2.13",
+    "config": "ud",
+    "lang": "orv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_East_Slavic-RNC",
+    "github": "https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC",
+    "parallels": ["SUD_Old_East_Slavic-RNC@2.13"]
+  },
+  {
+    "id": "UD_Old_East_Slavic-Ruthenian@2.13",
+    "config": "ud",
+    "lang": "orv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_East_Slavic-Ruthenian",
+    "github": "https://github.com/UniversalDependencies/UD_Old_East_Slavic-Ruthenian",
+    "parallels": ["SUD_Old_East_Slavic-Ruthenian@2.13"]
+  },
+  {
+    "id": "UD_Old_East_Slavic-TOROT@2.13",
+    "config": "ud",
+    "lang": "orv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_East_Slavic-TOROT",
+    "github": "https://github.com/UniversalDependencies/UD_Old_East_Slavic-TOROT",
+    "parallels": ["SUD_Old_East_Slavic-TOROT@2.13"]
+  },
+  {
+    "id": "UD_Old_French-PROFITEROLE@2.13",
+    "config": "ud",
+    "lang": "fro",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_French-PROFITEROLE",
+    "github": "https://github.com/UniversalDependencies/UD_Old_French-PROFITEROLE",
+    "parallels": ["SUD_Old_French-PROFITEROLE@2.13"]
+  },
+  {
+    "id": "UD_Old_Irish-DipSGG@2.13",
+    "config": "ud",
+    "lang": "sga",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_Irish-DipSGG",
+    "github": "https://github.com/UniversalDependencies/UD_Old_Irish-DipSGG",
+    "parallels": ["SUD_Old_Irish-DipSGG@2.13"]
+  },
+  {
+    "id": "UD_Old_Irish-DipWBG@2.13",
+    "config": "ud",
+    "lang": "sga",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_Irish-DipWBG",
+    "github": "https://github.com/UniversalDependencies/UD_Old_Irish-DipWBG",
+    "parallels": ["SUD_Old_Irish-DipWBG@2.13"]
+  },
+  {
+    "id": "UD_Old_Turkish-Tonqq@2.13",
+    "config": "ud",
+    "lang": "otk",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Old_Turkish-Tonqq",
+    "github": "https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq",
+    "parallels": ["SUD_Old_Turkish-Tonqq@2.13"]
+  },
+  {
+    "id": "UD_Persian-PerDT@2.13",
+    "config": "ud",
+    "lang": "fa",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Persian-PerDT",
+    "github": "https://github.com/UniversalDependencies/UD_Persian-PerDT",
+    "parallels": ["SUD_Persian-PerDT@2.13"]
+  },
+  {
+    "id": "UD_Persian-Seraji@2.13",
+    "config": "ud",
+    "lang": "fa",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Persian-Seraji",
+    "github": "https://github.com/UniversalDependencies/UD_Persian-Seraji",
+    "parallels": ["SUD_Persian-Seraji@2.13"]
+  },
+  {
+    "id": "UD_Polish-LFG@2.13",
+    "config": "ud",
+    "lang": "pl",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Polish-LFG",
+    "github": "https://github.com/UniversalDependencies/UD_Polish-LFG",
+    "parallels": ["SUD_Polish-LFG@2.13"]
+  },
+  {
+    "id": "UD_Polish-PDB@2.13",
+    "config": "ud",
+    "lang": "pl",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Polish-PDB",
+    "github": "https://github.com/UniversalDependencies/UD_Polish-PDB",
+    "parallels": ["SUD_Polish-PDB@2.13"]
+  },
+  {
+    "id": "UD_Polish-PUD@2.13",
+    "config": "ud",
+    "lang": "pl",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Polish-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Polish-PUD",
+    "parallels": ["SUD_Polish-PUD@2.13"]
+  },
+  {
+    "id": "UD_Pomak-Philotis@2.13",
+    "config": "ud",
+    "lang": "qpm",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Pomak-Philotis",
+    "github": "https://github.com/UniversalDependencies/UD_Pomak-Philotis",
+    "parallels": ["SUD_Pomak-Philotis@2.13"]
+  },
+  {
+    "id": "UD_Portuguese-Bosque@2.13",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Portuguese-Bosque",
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-Bosque",
+    "parallels": ["SUD_Portuguese-Bosque@2.13"]
+  },
+  {
+    "id": "UD_Portuguese-CINTIL@2.13",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Portuguese-CINTIL",
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-CINTIL"
+  },
+  {
+    "id": "UD_Portuguese-GSD@2.13",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Portuguese-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-GSD",
+    "parallels": ["SUD_Portuguese-GSD@2.13"]
+  },
+  {
+    "id": "UD_Portuguese-PUD@2.13",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Portuguese-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-PUD",
+    "parallels": ["SUD_Portuguese-PUD@2.13"]
+  },
+  {
+    "id": "UD_Portuguese-PetroGold@2.13",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Portuguese-PetroGold",
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-PetroGold",
+    "parallels": ["SUD_Portuguese-PetroGold@2.13"]
+  },
+  {
+    "id": "UD_Portuguese-Porttinari@2.13",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Portuguese-Porttinari",
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-Porttinari",
+    "parallels": ["SUD_Portuguese-Porttinari@2.13"]
+  },
+  {
+    "id": "UD_Romanian-ArT@2.13",
+    "config": "ud",
+    "lang": "ro",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Romanian-ArT",
+    "github": "https://github.com/UniversalDependencies/UD_Romanian-ArT",
+    "parallels": ["SUD_Romanian-ArT@2.13"]
+  },
+  {
+    "id": "UD_Romanian-Nonstandard@2.13",
+    "config": "ud",
+    "lang": "ro",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Romanian-Nonstandard",
+    "github": "https://github.com/UniversalDependencies/UD_Romanian-Nonstandard",
+    "parallels": ["SUD_Romanian-Nonstandard@2.13"]
+  },
+  {
+    "id": "UD_Romanian-RRT@2.13",
+    "config": "ud",
+    "lang": "ro",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Romanian-RRT",
+    "github": "https://github.com/UniversalDependencies/UD_Romanian-RRT",
+    "parallels": ["SUD_Romanian-RRT@2.13"]
+  },
+  {
+    "id": "UD_Romanian-SiMoNERo@2.13",
+    "config": "ud",
+    "lang": "ro",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Romanian-SiMoNERo",
+    "github": "https://github.com/UniversalDependencies/UD_Romanian-SiMoNERo",
+    "parallels": ["SUD_Romanian-SiMoNERo@2.13"]
+  },
+  {
+    "id": "UD_Russian-GSD@2.13",
+    "config": "ud",
+    "lang": "ru",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Russian-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Russian-GSD",
+    "parallels": ["SUD_Russian-GSD@2.13"]
+  },
+  {
+    "id": "UD_Russian-PUD@2.13",
+    "config": "ud",
+    "lang": "ru",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Russian-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Russian-PUD",
+    "parallels": ["SUD_Russian-PUD@2.13"]
+  },
+  {
+    "id": "UD_Russian-Poetry@2.13",
+    "config": "ud",
+    "lang": "ru",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Russian-Poetry",
+    "github": "https://github.com/UniversalDependencies/UD_Russian-Poetry",
+    "parallels": ["SUD_Russian-Poetry@2.13"]
+  },
+  {
+    "id": "UD_Russian-SynTagRus@2.13",
+    "config": "ud",
+    "lang": "ru",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Russian-SynTagRus",
+    "github": "https://github.com/UniversalDependencies/UD_Russian-SynTagRus",
+    "parallels": ["SUD_Russian-SynTagRus@2.13"]
+  },
+  {
+    "id": "UD_Russian-Taiga@2.13",
+    "config": "ud",
+    "lang": "ru",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Russian-Taiga",
+    "github": "https://github.com/UniversalDependencies/UD_Russian-Taiga",
+    "parallels": ["SUD_Russian-Taiga@2.13"]
+  },
+  {
+    "id": "UD_Sanskrit-UFAL@2.13",
+    "config": "ud",
+    "lang": "sa",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Sanskrit-UFAL",
+    "github": "https://github.com/UniversalDependencies/UD_Sanskrit-UFAL",
+    "parallels": ["SUD_Sanskrit-UFAL@2.13"]
+  },
+  {
+    "id": "UD_Sanskrit-Vedic@2.13",
+    "config": "ud",
+    "lang": "sa",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Sanskrit-Vedic",
+    "github": "https://github.com/UniversalDependencies/UD_Sanskrit-Vedic",
+    "parallels": ["SUD_Sanskrit-Vedic@2.13"]
+  },
+  {
+    "id": "UD_Scottish_Gaelic-ARCOSG@2.13",
+    "config": "ud",
+    "lang": "gd",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Scottish_Gaelic-ARCOSG",
+    "github": "https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG",
+    "parallels": ["SUD_Scottish_Gaelic-ARCOSG@2.13"]
+  },
+  {
+    "id": "UD_Serbian-SET@2.13",
+    "config": "ud",
+    "lang": "sr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Serbian-SET",
+    "github": "https://github.com/UniversalDependencies/UD_Serbian-SET",
+    "parallels": ["SUD_Serbian-SET@2.13"]
+  },
+  {
+    "id": "UD_Sinhala-STB@2.13",
+    "config": "ud",
+    "lang": "si",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Sinhala-STB",
+    "github": "https://github.com/UniversalDependencies/UD_Sinhala-STB",
+    "parallels": ["SUD_Sinhala-STB@2.13"]
+  },
+  {
+    "id": "UD_Skolt_Sami-Giellagas@2.13",
+    "config": "ud",
+    "lang": "sms",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Skolt_Sami-Giellagas",
+    "github": "https://github.com/UniversalDependencies/UD_Skolt_Sami-Giellagas",
+    "parallels": ["SUD_Skolt_Sami-Giellagas@2.13"]
+  },
+  {
+    "id": "UD_Slovak-SNK@2.13",
+    "config": "ud",
+    "lang": "sk",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Slovak-SNK",
+    "github": "https://github.com/UniversalDependencies/UD_Slovak-SNK",
+    "parallels": ["SUD_Slovak-SNK@2.13"]
+  },
+  {
+    "id": "UD_Slovenian-SSJ@2.13",
+    "config": "ud",
+    "lang": "sl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Slovenian-SSJ",
+    "github": "https://github.com/UniversalDependencies/UD_Slovenian-SSJ",
+    "parallels": ["SUD_Slovenian-SSJ@2.13"]
+  },
+  {
+    "id": "UD_Slovenian-SST@2.13",
+    "config": "ud",
+    "lang": "sl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Slovenian-SST",
+    "github": "https://github.com/UniversalDependencies/UD_Slovenian-SST",
+    "parallels": ["SUD_Slovenian-SST@2.13"]
+  },
+  {
+    "id": "UD_Soi-AHA@2.13",
+    "config": "ud",
+    "lang": "soj",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Soi-AHA",
+    "github": "https://github.com/UniversalDependencies/UD_Soi-AHA",
+    "parallels": ["SUD_Soi-AHA@2.13"]
+  },
+  {
+    "id": "UD_South_Levantine_Arabic-MADAR@2.13",
+    "config": "ud",
+    "lang": "ajp",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_South_Levantine_Arabic-MADAR",
+    "github": "https://github.com/UniversalDependencies/UD_South_Levantine_Arabic-MADAR",
+    "parallels": ["SUD_South_Levantine_Arabic-MADAR@2.13"]
+  },
+  {
+    "id": "UD_Spanish-AnCora@2.13",
+    "config": "ud",
+    "lang": "es",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Spanish-AnCora",
+    "github": "https://github.com/UniversalDependencies/UD_Spanish-AnCora",
+    "parallels": ["SUD_Spanish-AnCora@2.13"]
+  },
+  {
+    "id": "UD_Spanish-GSD@2.13",
+    "config": "ud",
+    "lang": "es",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Spanish-GSD",
+    "github": "https://github.com/UniversalDependencies/UD_Spanish-GSD",
+    "parallels": ["SUD_Spanish-GSD@2.13"]
+  },
+  {
+    "id": "UD_Spanish-PUD@2.13",
+    "config": "ud",
+    "lang": "es",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Spanish-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Spanish-PUD",
+    "parallels": ["SUD_Spanish-PUD@2.13"]
+  },
+  {
+    "id": "UD_Swedish-LinES@2.13",
+    "config": "ud",
+    "lang": "sv",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Swedish-LinES",
+    "github": "https://github.com/UniversalDependencies/UD_Swedish-LinES",
+    "parallels": ["SUD_Swedish-LinES@2.13"]
+  },
+  {
+    "id": "UD_Swedish-PUD@2.13",
+    "config": "ud",
+    "lang": "sv",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Swedish-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Swedish-PUD",
+    "parallels": ["SUD_Swedish-PUD@2.13"]
+  },
+  {
+    "id": "UD_Swedish-Talbanken@2.13",
+    "config": "ud",
+    "lang": "sv",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Swedish-Talbanken",
+    "github": "https://github.com/UniversalDependencies/UD_Swedish-Talbanken",
+    "parallels": ["SUD_Swedish-Talbanken@2.13"]
+  },
+  {
+    "id": "UD_Swedish_Sign_Language-SSLC@2.13",
+    "config": "ud",
+    "lang": "swl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Swedish_Sign_Language-SSLC",
+    "github": "https://github.com/UniversalDependencies/UD_Swedish_Sign_Language-SSLC",
+    "parallels": ["SUD_Swedish_Sign_Language-SSLC@2.13"]
+  },
+  {
+    "id": "UD_Swiss_German-UZH@2.13",
+    "config": "ud",
+    "lang": "gsw",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Swiss_German-UZH",
+    "github": "https://github.com/UniversalDependencies/UD_Swiss_German-UZH",
+    "parallels": ["SUD_Swiss_German-UZH@2.13"]
+  },
+  {
+    "id": "UD_Tagalog-TRG@2.13",
+    "config": "ud",
+    "lang": "tl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Tagalog-TRG",
+    "github": "https://github.com/UniversalDependencies/UD_Tagalog-TRG",
+    "parallels": ["SUD_Tagalog-TRG@2.13"]
+  },
+  {
+    "id": "UD_Tagalog-Ugnayan@2.13",
+    "config": "ud",
+    "lang": "tl",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Tagalog-Ugnayan",
+    "github": "https://github.com/UniversalDependencies/UD_Tagalog-Ugnayan",
+    "parallels": ["SUD_Tagalog-Ugnayan@2.13"]
+  },
+  {
+    "id": "UD_Tamil-MWTT@2.13",
+    "config": "ud",
+    "lang": "ta",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Tamil-MWTT",
+    "github": "https://github.com/UniversalDependencies/UD_Tamil-MWTT",
+    "parallels": ["SUD_Tamil-MWTT@2.13"]
+  },
+  {
+    "id": "UD_Tamil-TTB@2.13",
+    "config": "ud",
+    "lang": "ta",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Tamil-TTB",
+    "github": "https://github.com/UniversalDependencies/UD_Tamil-TTB",
+    "parallels": ["SUD_Tamil-TTB@2.13"]
+  },
+  {
+    "id": "UD_Tatar-NMCTT@2.13",
+    "config": "ud",
+    "lang": "tt",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Tatar-NMCTT",
+    "github": "https://github.com/UniversalDependencies/UD_Tatar-NMCTT",
+    "parallels": ["SUD_Tatar-NMCTT@2.13"]
+  },
+  {
+    "id": "UD_Teko-TuDeT@2.13",
+    "config": "ud",
+    "lang": "eme",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Teko-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Teko-TuDeT",
+    "parallels": ["SUD_Teko-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Telugu-MTG@2.13",
+    "config": "ud",
+    "lang": "te",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Telugu-MTG",
+    "github": "https://github.com/UniversalDependencies/UD_Telugu-MTG",
+    "parallels": ["SUD_Telugu-MTG@2.13"]
+  },
+  {
+    "id": "UD_Thai-PUD@2.13",
+    "config": "ud",
+    "lang": "th",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Thai-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Thai-PUD",
+    "parallels": ["SUD_Thai-PUD@2.13"]
+  },
+  {
+    "id": "UD_Tupinamba-TuDeT@2.13",
+    "config": "ud",
+    "lang": "tpn",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Tupinamba-TuDeT",
+    "github": "https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT",
+    "parallels": ["SUD_Tupinamba-TuDeT@2.13"]
+  },
+  {
+    "id": "UD_Turkish-Atis@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-Atis",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-Atis",
+    "parallels": ["SUD_Turkish-Atis@2.13"]
+  },
+  {
+    "id": "UD_Turkish-BOUN@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-BOUN",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-BOUN",
+    "parallels": ["SUD_Turkish-BOUN@2.13"]
+  },
+  {
+    "id": "UD_Turkish-FrameNet@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-FrameNet",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-FrameNet",
+    "parallels": ["SUD_Turkish-FrameNet@2.13"]
+  },
+  {
+    "id": "UD_Turkish-GB@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-GB",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-GB",
+    "parallels": ["SUD_Turkish-GB@2.13"]
+  },
+  {
+    "id": "UD_Turkish-IMST@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-IMST",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-IMST",
+    "parallels": ["SUD_Turkish-IMST@2.13"]
+  },
+  {
+    "id": "UD_Turkish-Kenet@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-Kenet",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-Kenet",
+    "parallels": ["SUD_Turkish-Kenet@2.13"]
+  },
+  {
+    "id": "UD_Turkish-PUD@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-PUD",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-PUD",
+    "parallels": ["SUD_Turkish-PUD@2.13"]
+  },
+  {
+    "id": "UD_Turkish-Penn@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-Penn",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-Penn",
+    "parallels": ["SUD_Turkish-Penn@2.13"]
+  },
+  {
+    "id": "UD_Turkish-Tourism@2.13",
+    "config": "ud",
+    "lang": "tr",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish-Tourism",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish-Tourism",
+    "parallels": ["SUD_Turkish-Tourism@2.13"]
+  },
+  {
+    "id": "UD_Turkish_German-SAGT@2.13",
+    "config": "ud",
+    "lang": "qtd",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Turkish_German-SAGT",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish_German-SAGT",
+    "parallels": ["SUD_Turkish_German-SAGT@2.13"]
+  },
+  {
+    "id": "UD_Ukrainian-IU@2.13",
+    "config": "ud",
+    "lang": "uk",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Ukrainian-IU",
+    "github": "https://github.com/UniversalDependencies/UD_Ukrainian-IU",
+    "parallels": ["SUD_Ukrainian-IU@2.13"]
+  },
+  {
+    "id": "UD_Umbrian-IKUVINA@2.13",
+    "config": "ud",
+    "lang": "xum",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Umbrian-IKUVINA",
+    "github": "https://github.com/UniversalDependencies/UD_Umbrian-IKUVINA",
+    "parallels": ["SUD_Umbrian-IKUVINA@2.13"]
+  },
+  {
+    "id": "UD_Upper_Sorbian-UFAL@2.13",
+    "config": "ud",
+    "lang": "hsb",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Upper_Sorbian-UFAL",
+    "github": "https://github.com/UniversalDependencies/UD_Upper_Sorbian-UFAL",
+    "parallels": ["SUD_Upper_Sorbian-UFAL@2.13"]
+  },
+  {
+    "id": "UD_Urdu-UDTB@2.13",
+    "config": "ud",
+    "lang": "ur",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Urdu-UDTB",
+    "github": "https://github.com/UniversalDependencies/UD_Urdu-UDTB",
+    "parallels": ["SUD_Urdu-UDTB@2.13"]
+  },
+  {
+    "id": "UD_Uyghur-UDT@2.13",
+    "config": "ud",
+    "lang": "ug",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Uyghur-UDT",
+    "github": "https://github.com/UniversalDependencies/UD_Uyghur-UDT",
+    "parallels": ["SUD_Uyghur-UDT@2.13"]
+  },
+  {
+    "id": "UD_Veps-VWT@2.13",
+    "config": "ud",
+    "lang": "vep",
+    "rtl": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Veps-VWT",
+    "github": "https://github.com/UniversalDependencies/UD_Veps-VWT",
+    "parallels": ["SUD_Veps-VWT@2.13"]
+  },
+  {
+    "id": "UD_Vietnamese-VTB@2.13",
+    "config": "ud",
+    "lang": "vi",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Vietnamese-VTB",
+    "github": "https://github.com/UniversalDependencies/UD_Vietnamese-VTB",
+    "parallels": ["SUD_Vietnamese-VTB@2.13"]
+  },
+  {
+    "id": "UD_Warlpiri-UFAL@2.13",
+    "config": "ud",
+    "lang": "wbp",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Warlpiri-UFAL",
+    "github": "https://github.com/UniversalDependencies/UD_Warlpiri-UFAL",
+    "parallels": ["SUD_Warlpiri-UFAL@2.13"]
+  },
+  {
+    "id": "UD_Welsh-CCG@2.13",
+    "config": "ud",
+    "lang": "cy",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Welsh-CCG",
+    "github": "https://github.com/UniversalDependencies/UD_Welsh-CCG",
+    "parallels": ["SUD_Welsh-CCG@2.13"]
+  },
+  {
+    "id": "UD_Western_Armenian-ArmTDP@2.13",
+    "config": "ud",
+    "lang": "hyw",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Western_Armenian-ArmTDP",
+    "github": "https://github.com/UniversalDependencies/UD_Western_Armenian-ArmTDP",
+    "parallels": ["SUD_Western_Armenian-ArmTDP@2.13"]
+  },
+  {
+    "id": "UD_Western_Sierra_Puebla_Nahuatl-ITML@2.13",
+    "config": "ud",
+    "lang": "nhi",
+    "enhanced": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Western_Sierra_Puebla_Nahuatl-ITML",
+    "github": "https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML",
+    "parallels": ["SUD_Western_Sierra_Puebla_Nahuatl-ITML@2.13"]
+  },
+  {
+    "id": "UD_Wolof-WTB@2.13",
+    "config": "ud",
+    "lang": "wo",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Wolof-WTB",
+    "github": "https://github.com/UniversalDependencies/UD_Wolof-WTB",
+    "parallels": ["SUD_Wolof-WTB@2.13"]
+  },
+  {
+    "id": "UD_Xavante-XDT@2.13",
+    "config": "ud",
+    "lang": "xav",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Xavante-XDT",
+    "github": "https://github.com/UniversalDependencies/UD_Xavante-XDT",
+    "parallels": ["SUD_Xavante-XDT@2.13"]
+  },
+  {
+    "id": "UD_Xibe-XDT@2.13",
+    "config": "ud",
+    "lang": "sjo",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Xibe-XDT",
+    "github": "https://github.com/UniversalDependencies/UD_Xibe-XDT",
+    "parallels": ["SUD_Xibe-XDT@2.13"]
+  },
+  {
+    "id": "UD_Yakut-YKTDT@2.13",
+    "config": "ud",
+    "lang": "sah",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Yakut-YKTDT",
+    "github": "https://github.com/UniversalDependencies/UD_Yakut-YKTDT",
+    "parallels": ["SUD_Yakut-YKTDT@2.13"]
+  },
+  {
+    "id": "UD_Yoruba-YTB@2.13",
+    "config": "ud",
+    "lang": "yo",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Yoruba-YTB",
+    "github": "https://github.com/UniversalDependencies/UD_Yoruba-YTB",
+    "parallels": ["SUD_Yoruba-YTB@2.13"]
+  },
+  {
+    "id": "UD_Yupik-SLI@2.13",
+    "config": "ud",
+    "lang": "ess",
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Yupik-SLI",
+    "github": "https://github.com/UniversalDependencies/UD_Yupik-SLI",
+    "parallels": ["SUD_Yupik-SLI@2.13"]
+  },
+  {
+    "id": "UD_Zaar-Autogramm@2.13",
+    "config": "ud",
+    "lang": "say",
+    "audio": true,
+    "directory": "${TREEBANKS}/ud-treebanks-v2.13/UD_Zaar-Autogramm",
+    "github": "https://github.com/UniversalDependencies/UD_Zaar-Autogramm",
+    "parallels": ["SUD_Zaar-Autogramm@2.13"]
+  }
+]

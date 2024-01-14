@@ -1,0 +1,110 @@
+[
+  {
+    "id": "UD_Chinese-HK@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Chinese-HK",
+    "src": "UD_Chinese-HK@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Chinese-HK.grs"
+  },
+  {
+    "id": "UD_Coptic-Scriptorium@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Coptic-Scriptorium",
+    "src": "UD_Coptic-Scriptorium@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Coptic-Scriptorium.grs"
+  },
+  {
+    "id": "UD_English-EWT@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_English-EWT",
+    "src": "UD_English-EWT@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_English-EWT.grs"
+  },
+  {
+    "id": "UD_English-GUM@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_English-GUM",
+    "src": "UD_English-GUM@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_English-GUM.grs"
+  },
+  {
+    "id": "UD_French-GSD@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_French-GSD",
+    "src": "UD_French-GSD@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_French-GSD.grs"
+  },
+  {
+    "id": "UD_German-HDT@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_German-HDT",
+    "src": "UD_German-HDT@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_German-HDT.grs"
+  },
+  {
+    "id": "UD_Hebrew-HTB@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Hebrew-HTB",
+    "src": "UD_Hebrew-HTB@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Hebrew-HTB.grs"
+  },
+  {
+    "id": "UD_Hebrew-IAHLTwiki@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Hebrew-IAHLTwiki",
+    "src": "UD_Hebrew-IAHLTwiki@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Hebrew-IAHLTwiki.grs"
+  },
+  {
+    "id": "UD_Hindi-HDTB@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Hindi-HDTB",
+    "src": "UD_Hindi-HDTB@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Hindi-HDTB.grs"
+  },
+  {
+    "id": "UD_Portuguese-Bosque@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Portuguese-Bosque",
+    "src": "UD_Portuguese-Bosque@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Portuguese-Bosque.grs"
+  },
+  {
+    "id": "UD_Spanish-AnCora@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Spanish-AnCora",
+    "src": "UD_Spanish-AnCora@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Spanish-AnCora.grs"
+  },
+  {
+    "id": "UD_Swedish-Talbanken@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${TREEBANKS}/UCxn/UD_Swedish-Talbanken",
+    "src": "UD_Swedish-Talbanken@2.13",
+    "grs": "${GRSROOT}/UCxn/grew_rules/UD_Swedish-Talbanken.grs"
+  }
+]

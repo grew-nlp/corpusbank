@@ -1,0 +1,28 @@
+[
+  {
+    "id": "SUD_Beja-NSC@latest",
+    "config": "sud",
+    "lang": "bej",
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_Beja-NSC",
+    "src": "mSUD_Beja-NSC@latest",
+    "grs": "${GRSROOT}/converter/grs/bej_mSUD_to_SUD.grs"
+  },
+  {
+    "id": "SUD_Chinese-Beginner@latest",
+    "config": "sud",
+    "lang": "bej",
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_Chinese-Beginner",
+    "src": "mSUD_Chinese-Beginner@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "strat": "zh_mSUD_to_SUD_main"
+  },
+  {
+    "id": "SUD_Chinese-PatentChar@latest",
+    "config": "sud",
+    "lang": "bej",
+    "directory": "${TREEBANKS}/sud-treebanks-auto/SUD_Chinese-PatentChar",
+    "src": "mSUD_Chinese-PatentChar@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "strat": "zh_mSUD_to_SUD_main"
+  }
+]

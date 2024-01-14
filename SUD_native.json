@@ -1,0 +1,130 @@
+[
+  {
+    "id": "mSUD_Beja-NSC@latest",
+    "config": "sud",
+    "lang": "bej",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/mSUD_Beja-NSC",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Beja-NSC",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/bej/",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-NSC/issues/new",
+    "parallels": [
+      "UD_Beja-NSC_MB@conv",
+      "SUD_Beja-NSC_WB@latest"
+    ]
+  },
+  {
+    "id": "mSUD_Chinese-Beginner@latest",
+    "config": "sud",
+    "lang": "zh",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/mSUD_Chinese-Beginner",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner/issues/new"
+  },
+  {
+    "id": "mSUD_Chinese-PatentChar@latest",
+    "config": "sud",
+    "lang": "zh",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/mSUD_Chinese-PatentChar",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar/issues/new",
+    "parallels": [
+      "UD_Chinese-PatentChar@conv"
+    ]
+  },
+  {
+    "id": "SUD_French-GSD@latest",
+    "config": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_French-GSD",
+    "github": "https://github.com/surfacesyntacticud/SUD_French-GSD",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_French-GSD/issues/new",
+    "parallels": [
+      "UD_French-GSD@conv"
+    ]
+  },
+  {
+    "id": "SUD_French-Rhapsodie@latest",
+    "config": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_French-Rhapsodie",
+    "github": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie/issues/new",
+    "parallels": [
+      "UD_French-Rhapsodie@conv"
+    ]
+  },
+  {
+    "id": "SUD_French-ParisStories@latest",
+    "config": "sud",
+    "lang": "fr",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_French-ParisStories",
+    "github": "https://github.com/surfacesyntacticud/SUD_French-ParisStories",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_French-ParisStories/issues/new",
+    "parallels": [
+      "UD_French-ParisStories@conv"
+    ]
+  },
+  {
+    "id": "SUD_French-Sequoia@latest",
+    "config": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_French-Sequoia",
+    "github": "https://github.com/surfacesyntacticud/SUD_French-Sequoia",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_French-Sequoia/issues/new",
+    "parallels": [
+      "UD_French-Sequoia@conv"
+    ]
+  },
+  {
+    "id": "SUD_Haitian_Creole-Autogramm@latest",
+    "config": "sud",
+    "lang": "ht",
+    "dynamic": true,
+    "audio": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Haitian_Creole-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/SUD_Haitian_Creole-Autogramm",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/hat/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_Haitian_Creole-Autogramm/issues/new"
+  },
+  {
+    "id": "SUD_Naija-NSC@latest",
+    "config": "sud",
+    "lang": "pcm",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Naija-NSC",
+    "github": "https://github.com/surfacesyntacticud/SUD_Naija-NSC",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/pcm/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_Naija-NSC/issues/new",
+    "parallels": [
+      "UD_Naija-NSC@conv"
+    ]
+  },
+  {
+    "id": "SUD_Zaar-Autogramm@latest",
+    "config": "sud",
+    "lang": "say",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Zaar-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm",
+    "guidelines": "https://surfacesyntacticud.github.io/guidelines/say/",
+    "issue": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm/issues/new",
+    "parallels": [
+      "UD_Zaar-Autogramm@conv"
+    ]
+  }
+]

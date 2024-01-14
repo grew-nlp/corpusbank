@@ -1,0 +1,31 @@
+[
+	{
+		"id": "en_gold@4.0.0",
+		"kind": "json",
+		"display": -1,
+		"directory": "${TREEBANKS}/pmb/en_gold",
+		"files": ".json"
+	},
+	{
+		"id": "it_gold@4.0.0",
+		"kind": "json",
+		"display": -1,
+		"directory": "${TREEBANKS}/pmb/it_gold",
+		"files": ".json"
+	},
+	{
+		"id": "de_gold@4.0.0",
+		"kind": "json",
+		"display": -1,
+		"directory": "${TREEBANKS}/pmb/de_gold",
+		"files": ".json"
+	},
+	{
+		"id": "nl_gold@4.0.0",
+		"kind": "json",
+		"display": -1,
+		"directory": "${TREEBANKS}/pmb/nl_gold",
+		"files": ".json"
+	}
+]
+

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "PARSEME-AR@master",
+    "config": "ud",
+    "files": ".cupt",
+    "rtl": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/AR",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_bg",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/bg.html"
+  },
+  {
+    "id": "PARSEME-BG@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/BG",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_bg",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/bg.html"
+  },
+  {
+    "id": "PARSEME-CS@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/CS",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_cs",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/cs.html"
+    
+  },
+  {
+    "id": "PARSEME-DE@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/DE",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_de",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/de.html"
+  },
+  {
+    "id": "PARSEME-EL@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/EL",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_el",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/el.html"
+  },
+  {
+    "id": "PARSEME-EN@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/EN",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_en",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/en.html"
+  },
+  {
+    "id": "PARSEME-ES@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/ES",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_es",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/es.html"
+  },
+  {
+    "id": "PARSEME-EU@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/EU",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_eu",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/eu.html"
+  },
+  {
+    "id": "PARSEME-FA@master",
+    "config": "ud",
+    "files": ".cupt",
+    "rtl": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/FA",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_fa",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/fa.html"
+  },
+  {
+    "id": "PARSEME-FR@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/FR",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_fr",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/fr.html"
+  },
+  {
+    "id": "PARSEME-GA@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/GA",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_ga",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/ga.html"
+  },
+  {
+    "id": "PARSEME-HE@master",
+    "config": "ud",
+    "files": ".cupt",
+    "rtl": true,
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/HE",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_he",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/he.html"
+    
+  },
+  {
+    "id": "PARSEME-HI@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/HI",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_hi",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/hi.html"
+  },
+  {
+    "id": "PARSEME-HR@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/HR",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_hr",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/hr.html"
+  },
+  {
+    "id": "PARSEME-HU@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/HU",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_hu",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/hu.html"
+  },
+  {
+    "id": "PARSEME-IT@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/IT",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_it",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/it.html"
+  },
+  {
+    "id": "PARSEME-LT@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/LT",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_lt",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/lt.html"
+  },
+  {
+    "id": "PARSEME-MT@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/MT",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_mt",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/mt.html"
+  },
+  {
+    "id": "PARSEME-PL@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/PL",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_pl",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/pl.html"
+  },
+  {
+    "id": "PARSEME-PT@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/PT",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_pt",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/pt.html"
+  },
+  {
+    "id": "PARSEME-RO@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/RO",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_ro",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/rohtml"
+  },
+  {
+    "id": "PARSEME-SL@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/SL",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_sl",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/sl.html"
+  },
+  {
+    "id": "PARSEME-SR@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/SR",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_sr",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/sr.html"
+  },
+  {
+    "id": "PARSEME-SV@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/SV",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_sv",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/sv.html"
+  },
+  {
+    "id": "PARSEME-TR@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/TR",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_tr",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/tr.html"
+  },
+  {
+    "id": "PARSEME-ZH@master",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${TREEBANKS}/PARSEME/master/ZH",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_zh",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/zh.html"
+  }
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"id": "Little_Prince",
+		"directory": "${TREEBANKS}/AMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["amr-bank-struct-v3.0.txt"]
+	},
+	{
+		"id": "Bio_AMR_Corpus",
+		"directory": "${TREEBANKS}/AMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["amr-release-bio-v3.0.txt"]
+	},
+	{
+		"id": "AMR_dict",
+		"directory": "${TREEBANKS}/AMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["dict.amr"]
+	},
+	{
+		"id": "Spec_1.2.6",
+		"directory": "${TREEBANKS}/AMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["specification-1.2.6.amr"]
+	}
+]

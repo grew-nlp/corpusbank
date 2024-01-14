@@ -1,0 +1,16 @@
+[
+  {
+    "id": "TiCC",
+    "kind": "json",
+    "display": -1,
+    "directory": "${TREEBANKS}/semantics/quantml/TiCC",
+		"files": ".json"
+  },
+  {
+    "id": "ISA_17",
+    "kind": "json",
+    "display": -1,
+    "directory": "${TREEBANKS}/semantics/quantml/ISA_17",
+		"files": ".json"
+  }
+]
