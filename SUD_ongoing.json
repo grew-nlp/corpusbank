@@ -5,7 +5,7 @@
     "lang": "fr",
     "audio": true,
     "dynamic": true,
-    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_PS_2023"
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_PS_2023"
   },
   {
     "id": "SUD_Darija-Autogramm@latest",
@@ -13,7 +13,7 @@
     "lang": "ary",
     "audio": true,
     "dynamic": true,
-    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Darija-Autogramm",
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Darija-Autogramm",
     "github": "https://github.com/autogramm/SUD_Darija-Autogramm",
     "issue": "https://github.com/autogramm/SUD_Darija-Autogramm/issues/new"
   },
@@ -23,7 +23,7 @@
     "lang": "arz",
     "audio": true,
     "dynamic": true,
-    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Egyptian_Arabic-Autogramm",
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Egyptian_Arabic-Autogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm/issues/new"
   },
@@ -32,7 +32,7 @@
     "config": "sud",
     "lang": "gba",
     "dynamic": true,
-    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Gbaya-Autogramm",
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Gbaya-Autogramm",
     "github": "https://github.com/autogramm/Gbaya",
     "issue": "https://github.com/autogramm/Gbaya/issues/new"
   },
@@ -41,7 +41,7 @@
     "config": "sud",
     "lang": "aeb",
     "dynamic": true,
-    "directory": "${TREEBANKS}/sud-treebanks-latest/SUD_Tunisian_Arabic-NAxLAT",
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Tunisian_Arabic-NAxLAT",
     "github": "https://github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT",
     "guidelines": "https://surfacesyntacticud.github.io/guidelines/aeb/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT/issues/new",

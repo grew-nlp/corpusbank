@@ -5,7 +5,7 @@
       "lang": "bm",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Bambara-CRB/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_Bambara-CRB"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Bambara-CRB"
     },
     {
       "id": "UD_Breton-KEB@dev",
@@ -13,7 +13,7 @@
       "lang": "br",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Breton-KEB/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_Breton-KEB"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Breton-KEB"
     },
     {
       "id": "UD_English-GUM@dev",
@@ -21,7 +21,7 @@
       "lang": "en",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_English-GUM/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_English-GUM"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_English-GUM"
     },
     {
       "id": "UD_English-EWT@dev",
@@ -29,7 +29,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_English-EWT/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_English-EWT"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_English-EWT"
     },
     {
       "id": "UD_French-FQB@dev",
@@ -37,7 +37,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_French-FQB/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_French-FQB"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_French-FQB"
     },
     {
       "id": "UD_French-ParTUT@dev",
@@ -45,7 +45,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_French-ParTUT/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_French-ParTUT"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_French-ParTUT"
     },
     {
       "id": "UD_French-PUD@dev",
@@ -53,7 +53,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_French-PUD/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_French-PUD"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_French-PUD"
     },
     {
       "id": "UD_German-GSD@dev",
@@ -61,7 +61,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_German-GSD/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_German-GSD"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_German-GSD"
     },
     {
       "id": "UD_Irish-IDT@dev",
@@ -69,7 +69,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Irish-IDT/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_Irish-IDT"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Irish-IDT"
     },
     {
       "id": "UD_Portuguese-Bosque@dev",
@@ -77,7 +77,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Portuguese-Bosque/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_Portuguese-Bosque"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Portuguese-Bosque"
     },
     {
       "id": "UD_Portuguese-GSD@dev",
@@ -85,7 +85,7 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Portuguese-GSD/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_Portuguese-GSD"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Portuguese-GSD"
     },
     {
       "id": "UD_Wolof-WTB@dev",
@@ -93,6 +93,6 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Wolof-WTB/tree/dev",
-      "directory": "${TREEBANKS}/ud-treebanks-dev/UD_Wolof-WTB"
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Wolof-WTB"
     }
   ]

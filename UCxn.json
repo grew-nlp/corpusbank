@@ -4,7 +4,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Chinese-HK",
+    "directory": "${RESOURCES}/UCxn/UD_Chinese-HK",
     "src": "UD_Chinese-HK@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Chinese-HK.grs"
   },
@@ -13,7 +13,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Coptic-Scriptorium",
+    "directory": "${RESOURCES}/UCxn/UD_Coptic-Scriptorium",
     "src": "UD_Coptic-Scriptorium@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Coptic-Scriptorium.grs"
   },
@@ -22,7 +22,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_English-EWT",
+    "directory": "${RESOURCES}/UCxn/UD_English-EWT",
     "src": "UD_English-EWT@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_English-EWT.grs"
   },
@@ -31,7 +31,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_English-GUM",
+    "directory": "${RESOURCES}/UCxn/UD_English-GUM",
     "src": "UD_English-GUM@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_English-GUM.grs"
   },
@@ -40,7 +40,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_French-GSD",
+    "directory": "${RESOURCES}/UCxn/UD_French-GSD",
     "src": "UD_French-GSD@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_French-GSD.grs"
   },
@@ -49,7 +49,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_German-HDT",
+    "directory": "${RESOURCES}/UCxn/UD_German-HDT",
     "src": "UD_German-HDT@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_German-HDT.grs"
   },
@@ -58,7 +58,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Hebrew-HTB",
+    "directory": "${RESOURCES}/UCxn/UD_Hebrew-HTB",
     "src": "UD_Hebrew-HTB@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Hebrew-HTB.grs"
   },
@@ -67,7 +67,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Hebrew-IAHLTwiki",
+    "directory": "${RESOURCES}/UCxn/UD_Hebrew-IAHLTwiki",
     "src": "UD_Hebrew-IAHLTwiki@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Hebrew-IAHLTwiki.grs"
   },
@@ -76,7 +76,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Hindi-HDTB",
+    "directory": "${RESOURCES}/UCxn/UD_Hindi-HDTB",
     "src": "UD_Hindi-HDTB@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Hindi-HDTB.grs"
   },
@@ -85,7 +85,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Portuguese-Bosque",
+    "directory": "${RESOURCES}/UCxn/UD_Portuguese-Bosque",
     "src": "UD_Portuguese-Bosque@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Portuguese-Bosque.grs"
   },
@@ -94,7 +94,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Spanish-AnCora",
+    "directory": "${RESOURCES}/UCxn/UD_Spanish-AnCora",
     "src": "UD_Spanish-AnCora@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Spanish-AnCora.grs"
   },
@@ -103,7 +103,7 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/UCxn/UD_Swedish-Talbanken",
+    "directory": "${RESOURCES}/UCxn/UD_Swedish-Talbanken",
     "src": "UD_Swedish-Talbanken@2.13",
     "grs": "${GRSROOT}/UCxn/grew_rules/UD_Swedish-Talbanken.grs"
   }

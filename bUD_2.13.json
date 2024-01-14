@@ -4,7 +4,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "ar",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Arabic-PADT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Arabic-PADT",
     "src": "UD_Arabic-PADT@2.13",
     "rtl": true,
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
@@ -14,7 +14,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "be",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Belarusian-HSE",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Belarusian-HSE",
     "src": "UD_Belarusian-HSE@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -23,7 +23,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "bg",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Bulgarian-BTB",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Bulgarian-BTB",
     "src": "UD_Bulgarian-BTB@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -32,7 +32,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "ca",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Catalan-AnCora",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Catalan-AnCora",
     "src": "UD_Catalan-AnCora@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -41,7 +41,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "ckt",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Chukchi-HSE",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Chukchi-HSE",
     "src": "UD_Chukchi-HSE@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -50,7 +50,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "cs",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Czech-CAC",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-CAC",
     "src": "UD_Czech-CAC@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -59,7 +59,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "cs",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Czech-CLTT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-CLTT",
     "src": "UD_Czech-CLTT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -68,7 +68,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "cs",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Czech-FicTree",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-FicTree",
     "src": "UD_Czech-FicTree@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -77,7 +77,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "cs",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Czech-PDT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-PDT",
     "src": "UD_Czech-PDT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -86,7 +86,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "cs",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Czech-PUD",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-PUD",
     "src": "UD_Czech-PUD@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -95,7 +95,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "nl",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Dutch-Alpino",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Dutch-Alpino",
     "src": "UD_Dutch-Alpino@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -104,7 +104,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "nl",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Dutch-LassySmall",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Dutch-LassySmall",
     "src": "UD_Dutch-LassySmall@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -113,7 +113,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_English-EWT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-EWT",
     "src": "UD_English-EWT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -122,7 +122,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_English-GENTLE",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-GENTLE",
     "src": "UD_English-GENTLE@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -131,7 +131,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_English-GUM",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-GUM",
     "src": "UD_English-GUM@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -141,7 +141,7 @@
     "config": "ud",
     "lang": "en",
     "no_word": true,
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_English-GUMReddit",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-GUMReddit",
     "src": "UD_English-GUMReddit@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -150,7 +150,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "en",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_English-PUD",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-PUD",
     "src": "UD_English-PUD@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -159,7 +159,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "es",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Estonian-EDT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Estonian-EDT",
     "src": "UD_Estonian-EDT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -168,7 +168,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "es",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Estonian-EWT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Estonian-EWT",
     "src": "UD_Estonian-EWT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -177,7 +177,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "fi",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Finnish-PUD",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Finnish-PUD",
     "src": "UD_Finnish-PUD@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -186,7 +186,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "fi",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Finnish-TDT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Finnish-TDT",
     "src": "UD_Finnish-TDT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -195,7 +195,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "azz",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Highland_Puebla_Nahuatl-ITML",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Highland_Puebla_Nahuatl-ITML",
     "src": "UD_Highland_Puebla_Nahuatl-ITML@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -204,7 +204,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "it",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Italian-ISDT",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Italian-ISDT",
     "src": "UD_Italian-ISDT@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -213,7 +213,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "lv",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Latvian-LVTB",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Latvian-LVTB",
     "src": "UD_Latvian-LVTB@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -222,7 +222,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "lt",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Lithuanian-ALKSNIS",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Lithuanian-ALKSNIS",
     "src": "UD_Lithuanian-ALKSNIS@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -231,7 +231,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "pl",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Polish-LFG",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Polish-LFG",
     "src": "UD_Polish-LFG@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -240,7 +240,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "pl",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Polish-PDB",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Polish-PDB",
     "src": "UD_Polish-PDB@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -249,7 +249,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "pl",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Polish-PUD",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Polish-PUD",
     "src": "UD_Polish-PUD@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -258,7 +258,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "ru",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Russian-SynTagRus",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Russian-SynTagRus",
     "src": "UD_Russian-SynTagRus@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -267,7 +267,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "sk",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Slovak-SNK",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Slovak-SNK",
     "src": "UD_Slovak-SNK@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -276,7 +276,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "es",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Spanish-AnCora",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Spanish-AnCora",
     "src": "UD_Spanish-AnCora@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -285,7 +285,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "sv",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Swedish-PUD",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Swedish-PUD",
     "src": "UD_Swedish-PUD@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -293,7 +293,7 @@
     "id": "bUD_Swedish-Talbanken@2.13",
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Swedish-Talbanken",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Swedish-Talbanken",
     "src": "UD_Swedish-Talbanken@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -301,7 +301,7 @@
     "id": "bUD_Tamil-TTB@2.13",
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Tamil-TTB",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Tamil-TTB",
     "src": "UD_Tamil-TTB@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -309,7 +309,7 @@
     "id": "bUD_Ukrainian-IU@2.13",
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Ukrainian-IU",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Ukrainian-IU",
     "src": "UD_Ukrainian-IU@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   },
@@ -317,7 +317,7 @@
     "id": "bUD_Western_Sierra_Puebla_Nahuatl-ITML@2.13",
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
-    "directory": "${TREEBANKS}/ud-treebanks-auto/bUD_Western_Sierra_Puebla_Nahuatl-ITML",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Western_Sierra_Puebla_Nahuatl-ITML",
     "src": "UD_Western_Sierra_Puebla_Nahuatl-ITML@2.13",
     "grs": "${GRSROOT}/rewrite/eud2ud.grs"
   }
