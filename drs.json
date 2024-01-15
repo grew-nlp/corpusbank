@@ -3,28 +3,28 @@
 		"id": "en_gold@4.0.0",
 		"kind": "json",
 		"display": -1,
-		"directory": "${RESOURCES}/pmb/en_gold",
+		"directory": "${RESOURCES}/semantics/pmb/en_gold",
 		"files": ".json"
 	},
 	{
 		"id": "it_gold@4.0.0",
 		"kind": "json",
 		"display": -1,
-		"directory": "${RESOURCES}/pmb/it_gold",
+		"directory": "${RESOURCES}/semantics/pmb/it_gold",
 		"files": ".json"
 	},
 	{
 		"id": "de_gold@4.0.0",
 		"kind": "json",
 		"display": -1,
-		"directory": "${RESOURCES}/pmb/de_gold",
+		"directory": "${RESOURCES}/semantics/pmb/de_gold",
 		"files": ".json"
 	},
 	{
 		"id": "nl_gold@4.0.0",
 		"kind": "json",
 		"display": -1,
-		"directory": "${RESOURCES}/pmb/nl_gold",
+		"directory": "${RESOURCES}/semantics/pmb/nl_gold",
 		"files": ".json"
 	}
 ]
