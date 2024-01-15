@@ -7,7 +7,7 @@
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Arabic-PADT",
     "src": "UD_Arabic-PADT@2.13",
     "rtl": true,
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Belarusian-HSE@2.13",
@@ -16,7 +16,7 @@
     "lang": "be",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Belarusian-HSE",
     "src": "UD_Belarusian-HSE@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Bulgarian-BTB@2.13",
@@ -25,7 +25,7 @@
     "lang": "bg",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Bulgarian-BTB",
     "src": "UD_Bulgarian-BTB@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Catalan-AnCora@2.13",
@@ -34,7 +34,7 @@
     "lang": "ca",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Catalan-AnCora",
     "src": "UD_Catalan-AnCora@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Chukchi-HSE@2.13",
@@ -43,7 +43,7 @@
     "lang": "ckt",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Chukchi-HSE",
     "src": "UD_Chukchi-HSE@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Czech-CAC@2.13",
@@ -52,7 +52,7 @@
     "lang": "cs",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-CAC",
     "src": "UD_Czech-CAC@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Czech-CLTT@2.13",
@@ -61,7 +61,7 @@
     "lang": "cs",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-CLTT",
     "src": "UD_Czech-CLTT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Czech-FicTree@2.13",
@@ -70,7 +70,7 @@
     "lang": "cs",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-FicTree",
     "src": "UD_Czech-FicTree@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Czech-PDT@2.13",
@@ -79,7 +79,7 @@
     "lang": "cs",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-PDT",
     "src": "UD_Czech-PDT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Czech-PUD@2.13",
@@ -88,7 +88,7 @@
     "lang": "cs",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Czech-PUD",
     "src": "UD_Czech-PUD@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Dutch-Alpino@2.13",
@@ -97,7 +97,7 @@
     "lang": "nl",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Dutch-Alpino",
     "src": "UD_Dutch-Alpino@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Dutch-LassySmall@2.13",
@@ -106,7 +106,7 @@
     "lang": "nl",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Dutch-LassySmall",
     "src": "UD_Dutch-LassySmall@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_English-EWT@2.13",
@@ -115,7 +115,7 @@
     "lang": "en",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-EWT",
     "src": "UD_English-EWT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_English-GENTLE@2.13",
@@ -124,7 +124,7 @@
     "lang": "en",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-GENTLE",
     "src": "UD_English-GENTLE@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_English-GUM@2.13",
@@ -133,7 +133,7 @@
     "lang": "en",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-GUM",
     "src": "UD_English-GUM@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_English-GUMReddit@2.13",
@@ -143,7 +143,7 @@
     "no_word": true,
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-GUMReddit",
     "src": "UD_English-GUMReddit@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_English-PUD@2.13",
@@ -152,7 +152,7 @@
     "lang": "en",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_English-PUD",
     "src": "UD_English-PUD@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Estonian-EDT@2.13",
@@ -161,7 +161,7 @@
     "lang": "es",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Estonian-EDT",
     "src": "UD_Estonian-EDT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Estonian-EWT@2.13",
@@ -170,7 +170,7 @@
     "lang": "es",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Estonian-EWT",
     "src": "UD_Estonian-EWT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Finnish-PUD@2.13",
@@ -179,7 +179,7 @@
     "lang": "fi",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Finnish-PUD",
     "src": "UD_Finnish-PUD@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Finnish-TDT@2.13",
@@ -188,7 +188,7 @@
     "lang": "fi",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Finnish-TDT",
     "src": "UD_Finnish-TDT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Highland_Puebla_Nahuatl-ITML@2.13",
@@ -197,7 +197,7 @@
     "lang": "azz",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Highland_Puebla_Nahuatl-ITML",
     "src": "UD_Highland_Puebla_Nahuatl-ITML@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Italian-ISDT@2.13",
@@ -206,7 +206,7 @@
     "lang": "it",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Italian-ISDT",
     "src": "UD_Italian-ISDT@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Latvian-LVTB@2.13",
@@ -215,7 +215,7 @@
     "lang": "lv",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Latvian-LVTB",
     "src": "UD_Latvian-LVTB@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Lithuanian-ALKSNIS@2.13",
@@ -224,7 +224,7 @@
     "lang": "lt",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Lithuanian-ALKSNIS",
     "src": "UD_Lithuanian-ALKSNIS@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Polish-LFG@2.13",
@@ -233,7 +233,7 @@
     "lang": "pl",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Polish-LFG",
     "src": "UD_Polish-LFG@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Polish-PDB@2.13",
@@ -242,7 +242,7 @@
     "lang": "pl",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Polish-PDB",
     "src": "UD_Polish-PDB@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Polish-PUD@2.13",
@@ -251,7 +251,7 @@
     "lang": "pl",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Polish-PUD",
     "src": "UD_Polish-PUD@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Russian-SynTagRus@2.13",
@@ -260,7 +260,7 @@
     "lang": "ru",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Russian-SynTagRus",
     "src": "UD_Russian-SynTagRus@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Slovak-SNK@2.13",
@@ -269,7 +269,7 @@
     "lang": "sk",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Slovak-SNK",
     "src": "UD_Slovak-SNK@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Spanish-AnCora@2.13",
@@ -278,7 +278,7 @@
     "lang": "es",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Spanish-AnCora",
     "src": "UD_Spanish-AnCora@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Swedish-PUD@2.13",
@@ -287,7 +287,7 @@
     "lang": "sv",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Swedish-PUD",
     "src": "UD_Swedish-PUD@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Swedish-Talbanken@2.13",
@@ -295,7 +295,7 @@
     "config": "ud",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Swedish-Talbanken",
     "src": "UD_Swedish-Talbanken@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Tamil-TTB@2.13",
@@ -303,7 +303,7 @@
     "config": "ud",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Tamil-TTB",
     "src": "UD_Tamil-TTB@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Ukrainian-IU@2.13",
@@ -311,7 +311,7 @@
     "config": "ud",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Ukrainian-IU",
     "src": "UD_Ukrainian-IU@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
     "id": "bUD_Western_Sierra_Puebla_Nahuatl-ITML@2.13",
@@ -319,6 +319,6 @@
     "config": "ud",
     "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Western_Sierra_Puebla_Nahuatl-ITML",
     "src": "UD_Western_Sierra_Puebla_Nahuatl-ITML@2.13",
-    "grs": "${GRSROOT}/rewrite/eud2ud.grs"
+    "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   }
 ]
