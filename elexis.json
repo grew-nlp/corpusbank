@@ -11,6 +11,6 @@
 		"config": "ud",
 		"lang": "nl",
 		"directory": "${RESOURCES}/ELEXIS-WSD",
-		"files": ["elexis-wsd-et_corpus_AUTO-PARSED.conllu"]
+		"files": ["elexis-wsd-nl_corpus_AUTO-PARSED.conllu"]
 	}
 ]
