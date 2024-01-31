@@ -1,0 +1,16 @@
+[
+	{
+		"id": "elexis-wsd-et",
+		"config": "ud",
+		"lang": "et",
+		"directory": "${RESOURCES}/ELEXIS-WSD",
+		"files": ["elexis-wsd-et_corpus_AUTO-PARSED.conllu"]
+	},
+	{
+		"id": "elexis-wsd-nl",
+		"config": "ud",
+		"lang": "nl",
+		"directory": "${RESOURCES}/ELEXIS-WSD",
+		"files": ["elexis-wsd-et_corpus_AUTO-PARSED.conllu"]
+	}
+]

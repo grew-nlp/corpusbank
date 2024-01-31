@@ -1,0 +1,130 @@
+[
+  {
+    "id": "UD_Beja-NSC@conv",
+    "config": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "bej",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-NSC",
+    "src": "SUD_Beja-NSC@latest",
+    "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
+    "strat": "bej_main"
+  },
+
+  {
+    "id": "mUD_Beja-NSC@conv",
+    "config": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "bej",
+    "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-NSC",
+    "src": "mSUD_Beja-NSC@latest",
+    "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
+    "strat": "bej_main"
+  },
+
+  {
+    "id": "UD_Chinese-Beginner@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "zh",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-Beginner",
+    "src": "SUD_Chinese-Beginner@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_SUD_to_UD.grs",
+    "strat": "zh_SUD_to_UD_main"
+
+  },
+  {
+    "id": "UD_Chinese-PatentChar@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "zh",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-PatentChar",
+    "src": "SUD_Chinese-Beginner@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_SUD_to_UD.grs",
+    "strat": "zh_SUD_to_UD_main"
+  },
+  {
+    "id": "UD_French-GSD@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "fr",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-GSD",
+    "src": "SUD_French-GSD@latest",
+    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "strat": "fr_main"
+  },
+  {
+    "id": "UD_French-Sequoia@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "fr",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Sequoia",
+    "src": "SUD_French-Sequoia@latest",
+    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "strat": "fr_main"
+  },
+  {
+    "id": "UD_French-Rhapsodie@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "fr",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Rhapsodie",
+    "src": "SUD_French-Rhapsodie@latest",
+    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "strat": "fr_main"
+  },
+  {
+    "id": "UD_French-ParisStories@conv",
+    "audio": true,
+    "config": "ud",
+    "dynamic": true,
+    "lang": "fr",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-ParisStories",
+    "src": "SUD_French-ParisStories@latest",
+    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "strat": "fr_main"
+  },
+  {
+    "id": "UD_Haitian_Creole-Autogramm@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "ht",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
+    "src": "SUD_Haitian_Creole-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs"
+  },
+  {
+    "id": "UD_Naija-NSC@conv",
+    "config": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "pcm",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Naija-NSC",
+    "src": "SUD_Naija-NSC@latest",
+    "grs": "${GRSROOT}/converter/grs/pcm_SUD_to_UD.grs",
+    "strat": "pcm_main"
+
+  },
+  {
+    "id": "UD_Tunisian_Arabic-NAxLAT@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "aeb",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Tunisian_Arabic-NAxLAT",
+    "src": "SUD_Tunisian_Arabic-NAxLAT@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs"
+  },
+  {
+    "id": "UD_Zaar-Autogramm@conv",
+    "config": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "say",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Zaar-Autogramm",
+    "src": "SUD_Zaar-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/say_SUD_to_UD.grs",
+    "strat": "say_main"
+  }
+
+]
