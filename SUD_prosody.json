@@ -4,6 +4,7 @@
     "config": "sud",
     "lang": "pcm",
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Naija-NSC-prosody",
+    "audio": true,
     "dynamic": true,
     "parallels": ["SUD_Naija-NSC@latest"]
   }
