@@ -1,0 +1,10 @@
+[
+  {
+    "id": "SUD_Naija-NSC-prosody",
+    "config": "sud",
+    "lang": "pcm",
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Naija-NSC-prosody",
+    "dynamic": true,
+    "parallels": ["SUD_Naija-NSC@latest"]
+  }
+]
