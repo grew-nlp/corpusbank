@@ -1,0 +1,133 @@
+[{
+  "id": "cefc-gold",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/cefc-gold/data",
+  "files": ".orfeo"
+},
+
+
+
+{
+  "id": "fleuron",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/fleuron",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "ofrom",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/ofrom",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "valibel",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/valibel",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "frenchoralnarrative",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/frenchoralnarrative",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "crfp",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/crfp",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "cfpb",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/cfpb",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "cfpp",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/cfpp",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "coralrom",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/coralrom",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "clapi",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/clapi",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "tufs",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/tufs",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "reunions-de-travail",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/reunions-de-travail",
+  "audio": true,
+  "files": ".orfeo"
+},
+{
+  "id": "tcof",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/with_audio/tcof",
+  "audio": true,
+  "files": ".orfeo"
+},
+
+
+
+{
+  "id": "annodis",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/annodis",
+  "files": ".orfeo"
+},
+{
+  "id": "comere",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/comere",
+  "files": ".orfeo"
+},
+{
+  "id": "frantext",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/frantext",
+  "files": ".orfeo"
+},
+{
+  "id": "scientext",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/scientext",
+  "files": ".orfeo"
+},
+{
+  "id": "est-republicain",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/est-republicain",
+  "files": ".orfeo"
+},
+{
+  "id": "chambers-rostand",
+  "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
+  "directory": "${RESOURCES}/orfeo/chambers-rostand",
+  "files": ".orfeo"
+}
+]
