@@ -1,7 +1,7 @@
 [
   {
     "id": "UD_Beja-NSC@conv",
-    "config": "ud",
+    "config": "sud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
@@ -16,7 +16,7 @@
 
   {
     "id": "mUD_Beja-NSC@conv",
-    "config": "ud",
+    "config": "sud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
@@ -31,7 +31,7 @@
 
   {
     "id": "UD_Chinese-Beginner@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-Beginner",
@@ -45,7 +45,7 @@
   },
   {
     "id": "UD_Chinese-PatentChar@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-PatentChar",
@@ -58,7 +58,7 @@
   },
   {
     "id": "UD_French-GSD@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-GSD",
@@ -71,7 +71,7 @@
   },
   {
     "id": "UD_French-Sequoia@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Sequoia",
@@ -84,7 +84,7 @@
   },
   {
     "id": "UD_French-Rhapsodie@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Rhapsodie",
@@ -98,7 +98,7 @@
   {
     "id": "UD_French-ParisStories@conv",
     "audio": true,
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-ParisStories",
@@ -111,7 +111,7 @@
   },
   {
     "id": "UD_Haitian_Creole-Autogramm@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "ht",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
@@ -123,7 +123,7 @@
   },
   {
     "id": "UD_Naija-NSC@conv",
-    "config": "ud",
+    "config": "sud",
     "audio": true,
     "dynamic": true,
     "lang": "pcm",
@@ -137,7 +137,7 @@
   },
   {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
-    "config": "ud",
+    "config": "sud",
     "dynamic": true,
     "lang": "aeb",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Tunisian_Arabic-NAxLAT",
@@ -149,7 +149,7 @@
   },
   {
     "id": "UD_Zaar-Autogramm@conv",
-    "config": "ud",
+    "config": "sud",
     "audio": true,
     "dynamic": true,
     "lang": "say",
