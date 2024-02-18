@@ -49,11 +49,11 @@
     "dynamic": true,
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-PatentChar",
-    "src": "SUD_Chinese-Beginner@latest",
+    "src": "SUD_Chinese-PatentChar@latest",
     "grs": "${GRSROOT}/converter/grs/zh_SUD_to_UD.grs",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
-      "SUD_Chinese-Beginner@latest"
+      "SUD_Chinese-PatentChar@latest"
     ]
   },
   {
