@@ -6,8 +6,8 @@
     "rtl": true,
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/AR",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_bg",
-    "consistencyCheck": "https://grew.fr/download/PARSEME/bg.html"
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_ar",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/ar.html"
   },
   {
     "id": "PARSEME-BG@master",
