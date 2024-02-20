@@ -237,5 +237,17 @@
     "directory": "${RESOURCES}/PARSEME/master/ZH",
     "gitlab": "https://gitlab.com/parseme/parseme_corpus_zh",
     "consistencyCheck": "https://grew.fr/download/PARSEME/zh.html"
+  },
+
+
+  {
+    "id": "Parseme-NL@main",
+    "config": "ud",
+    "files": ["nl_alpino-ud-all.cupt", "nl_lassysmall-ud-all.cupt"],
+    "dynamic": true,
+    "directory": "${RESOURCES}/PARSEME/Parseme-NL",
+    "gitlab": "https://github.com/gossebouma/Parseme-NL",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/nl.html"
   }
+
 ]
