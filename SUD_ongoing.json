@@ -33,8 +33,8 @@
     "lang": "gba",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Gbaya-Autogramm",
-    "github": "https://github.com/autogramm/Gbaya",
-    "issue": "https://github.com/autogramm/Gbaya/issues/new"
+    "github": "https://github.com/surfacesyntacticud/SUD_Gbaya-Autogramm",
+    "issue": "https://github.com/surfacesyntacticud/SUD_Gbaya-Autogramm/issues/new"
   },
   {
     "id": "SUD_Tunisian_Arabic-NAxLAT@latest",
@@ -47,6 +47,18 @@
     "issue": "https://github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT/issues/new",
     "parallels": [
       "UD_Tunisian_Arabic-NAxLAT@conv"
+    ]
+  },
+  {
+    "id": "SUD_Tuwari-Autogramm@latest",
+    "config": "sud",
+    "lang": "tww",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Tuwari-Autogramm",
+    "github": "https://github.com/autogramm/Tuwari",
+    "issue": "https://github.com/autogramm/Tuwari/issues/new",
+    "parallels": [
+      "UD_Tuwari-Autogramm@conv"
     ]
   }
 ]
