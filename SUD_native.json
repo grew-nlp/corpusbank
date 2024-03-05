@@ -10,8 +10,8 @@
     "guidelines": "https://surfacesyntacticud.github.io/guidelines/bej/",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-NSC/issues/new",
     "parallels": [
-      "UD_Beja-NSC_MB@conv",
-      "SUD_Beja-NSC_WB@latest"
+      "UD_Beja-NSC@conv",
+      "SUD_Beja-NSC@latest"
     ]
   },
   {
@@ -93,7 +93,6 @@
     "config": "sud",
     "lang": "ht",
     "dynamic": true,
-    "audio": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Haitian_Creole-Autogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Haitian_Creole-Autogramm",
     "guidelines": "https://surfacesyntacticud.github.io/guidelines/hat/",
