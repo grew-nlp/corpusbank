@@ -50,13 +50,13 @@
     ]
   },
   {
-    "id": "SUD_Tuwari-Autogramm@latest",
+    "id": "mSUD_Tuwari-Autogramm@latest",
     "config": "sud",
     "lang": "tww",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Tuwari-Autogramm",
-    "github": "https://github.com/autogramm/Tuwari",
-    "issue": "https://github.com/autogramm/Tuwari/issues/new",
+    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Tuwari-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm/issues/new",
     "parallels": [
       "UD_Tuwari-Autogramm@conv"
     ]
