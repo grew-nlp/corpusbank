@@ -58,6 +58,7 @@
     "github": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm/issues/new",
     "parallels": [
+      "SUD_Tuwari-Autogramm@latest",
       "UD_Tuwari-Autogramm@conv"
     ]
   }

@@ -24,5 +24,19 @@
     "src": "mSUD_Chinese-PatentChar@latest",
     "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
     "strat": "zh_mSUD_to_SUD_main"
+  },
+  {
+    "id": "SUD_Tuwari-Autogramm@latest",
+    "config": "sud",
+    "lang": "tww",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Tuwari-Autogramm",
+    "src": "mSUD_Tuwari-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Tuwari-Autogramm@latest",
+      "UD_Tuwari-Autogramm@conv"
+    ]
+
   }
 ]

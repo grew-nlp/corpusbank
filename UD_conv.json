@@ -155,6 +155,20 @@
     ]
   },
   {
+    "id": "UD_Tuwari-Autogramm@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "tww",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Tuwari-Autogramm",
+    "src": "SUD_Tuwari-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Tuwari-Autogramm@latest",
+      "mSUD_Tuwari-Autogramm@latest"
+    ]
+  },
+  {
     "id": "UD_Zaar-Autogramm@conv",
     "config": "ud",
     "audio": true,
