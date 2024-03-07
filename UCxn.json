@@ -4,83 +4,87 @@
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "zh",
-    "directory": "${RESOURCES}/UCxn/UD_Chinese-HK"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_chinese-hk.conllu"]
   },
   {
     "id": "UD_Coptic-Scriptorium@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "cop",
-    "directory": "${RESOURCES}/UCxn/UD_Coptic-Scriptorium"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_coptic-scriptorium.conllu"]
   },
   {
     "id": "UD_English-EWT@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${RESOURCES}/UCxn/UD_English-EWT"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_english-ewt.conllu"]
   },
   {
     "id": "UD_English-GUM@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${RESOURCES}/UCxn/UD_English-GUM"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_english-gum.conllu"]
   },
   {
     "id": "UD_French-GSD@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "fr",
-    "directory": "${RESOURCES}/UCxn/UD_French-GSD"
-  },
-  {
-    "id": "UD_German-HDT@ucxn",
-    "desc": "UCxn annotation",
-    "config": "ud",
-    "lang": "de",
-    "directory": "${RESOURCES}/UCxn/UD_German-HDT"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_french-gsd.conllu"]
   },
   {
     "id": "UD_Hebrew-HTB@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "he",
-    "directory": "${RESOURCES}/UCxn/UD_Hebrew-HTB"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_hebrew-htb.conllu"]
   },
   {
     "id": "UD_Hebrew-IAHLTwiki@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "he",
-    "directory": "${RESOURCES}/UCxn/UD_Hebrew-IAHLTwiki"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_hebrew-iahltwiki.conllu"]
   },
   {
     "id": "UD_Hindi-HDTB@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "en",
-    "directory": "${RESOURCES}/UCxn/UD_Hindi-HDTB"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_hindi-hdtb.conllu"]
   },
   {
     "id": "UD_Portuguese-Bosque@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "hi",
-    "directory": "${RESOURCES}/UCxn/UD_Portuguese-Bosque"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_portuguese-bosque.conllu"]
   },
   {
     "id": "UD_Spanish-AnCora@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "es",
-    "directory": "${RESOURCES}/UCxn/UD_Spanish-AnCora"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_spanish-ancora.conllu"]
   },
   {
     "id": "UD_Swedish-Talbanken@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
     "lang": "sv",
-    "directory": "${RESOURCES}/UCxn/UD_Swedish-Talbanken"
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_swedish-talbanken.conllu"]
   }
 ]
