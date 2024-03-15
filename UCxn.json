@@ -40,6 +40,14 @@
     "files": ["ucxn_ud_french-gsd.conllu"]
   },
   {
+    "id": "UD_German-HDT@ucxn",
+    "desc": "UCxn annotation",
+    "config": "ud",
+    "lang": "de",
+    "directory": "${RESOURCES}/UCxn/",
+    "files": ["ucxn_ud_german-hdt.conllu"]
+  },
+  {
     "id": "UD_Hebrew-HTB@ucxn",
     "desc": "UCxn annotation",
     "config": "ud",
