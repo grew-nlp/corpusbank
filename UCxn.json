@@ -2,6 +2,7 @@
   {
     "id": "UD_Chinese-HK@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "zh",
     "directory": "${RESOURCES}/UCxn/",
@@ -10,6 +11,7 @@
   {
     "id": "UD_Coptic-Scriptorium@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "cop",
     "directory": "${RESOURCES}/UCxn/",
@@ -18,6 +20,7 @@
   {
     "id": "UD_English-EWT@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "en",
     "directory": "${RESOURCES}/UCxn/",
@@ -26,6 +29,7 @@
   {
     "id": "UD_English-GUM@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "en",
     "directory": "${RESOURCES}/UCxn/",
@@ -34,6 +38,7 @@
   {
     "id": "UD_French-GSD@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "fr",
     "directory": "${RESOURCES}/UCxn/",
@@ -42,6 +47,7 @@
   {
     "id": "UD_German-HDT@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "de",
     "directory": "${RESOURCES}/UCxn/",
@@ -50,6 +56,7 @@
   {
     "id": "UD_Hebrew-HTB@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "he",
     "directory": "${RESOURCES}/UCxn/",
@@ -58,6 +65,7 @@
   {
     "id": "UD_Hebrew-IAHLTwiki@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "he",
     "directory": "${RESOURCES}/UCxn/",
@@ -66,6 +74,7 @@
   {
     "id": "UD_Hindi-HDTB@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "en",
     "directory": "${RESOURCES}/UCxn/",
@@ -74,6 +83,7 @@
   {
     "id": "UD_Portuguese-Bosque@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "hi",
     "directory": "${RESOURCES}/UCxn/",
@@ -82,6 +92,7 @@
   {
     "id": "UD_Spanish-AnCora@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "es",
     "directory": "${RESOURCES}/UCxn/",
@@ -90,6 +101,7 @@
   {
     "id": "UD_Swedish-Talbanken@ucxn",
     "desc": "UCxn annotation",
+    "dynamic": true,
     "config": "ud",
     "lang": "sv",
     "directory": "${RESOURCES}/UCxn/",
