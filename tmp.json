@@ -94,5 +94,13 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Wolof-WTB/tree/dev",
       "directory": "${RESOURCES}/ud-treebanks-dev/UD_Wolof-WTB"
+    },
+    {
+      "id": "diachronie_CRISCO@main",
+      "lang": "fro",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/Corpus-Diachroniques-CRISCO/corpus/",
+      "directory": "${RESOURCES}/ud-treebanks-dev/diachronie_CRISCO"
     }
   ]
