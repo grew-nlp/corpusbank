@@ -142,6 +142,75 @@
     ]
   },
   {
+    "id": "UD_Zaar-Autogramm@conv",
+    "config": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "say",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Zaar-Autogramm",
+    "src": "SUD_Zaar-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/say_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "say_main",
+    "parallels": [
+      "SUD_Zaar-Autogramm@latest"
+    ]
+  },
+
+
+  {
+    "id": "UD_Egyptian_Arabic-Autogramm@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "arz",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Egyptian_Arabic-Autogramm",
+    "src": "SUD_Egyptian_Arabic-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Egyptian_Arabic-Autogramm@latest"
+    ]
+  },
+  {
+    "id": "UD_Gbaya-Autogramm@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "gya",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Gbaya-Autogramm",
+    "src": "SUD_Gbaya-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Gbaya-Autogramm@latest"
+    ]
+  },
+  {
+    "id": "UD_Hausa-SouthernAutogramm@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-SouthernAutogramm",
+    "src": "SUD_Hausa-SouthernAutogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Hausa-SouthernAutogramm@latest"
+    ]
+  },
+  {
+    "id": "UD_Hausa-NorthernAutogramm@conv",
+    "config": "ud",
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-NorthernAutogramm",
+    "src": "SUD_Hausa-NorthernAutogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Hausa-SouthernAutogramm@latest"
+    ]
+  },
+  {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
     "config": "ud",
     "dynamic": true,
@@ -167,20 +236,6 @@
       "SUD_Tuwari-Autogramm@latest",
       "mSUD_Tuwari-Autogramm@latest"
     ]
-  },
-  {
-    "id": "UD_Zaar-Autogramm@conv",
-    "config": "ud",
-    "audio": true,
-    "dynamic": true,
-    "lang": "say",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Zaar-Autogramm",
-    "src": "SUD_Zaar-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/say_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "say_main",
-    "parallels": [
-      "SUD_Zaar-Autogramm@latest"
-    ]
   }
+
 ]
