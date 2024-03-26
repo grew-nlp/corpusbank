@@ -5,7 +5,8 @@
     "lang": "bej",
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-NSC",
     "src": "mSUD_Beja-NSC@latest",
-    "grs": "${GRSROOT}/converter/grs/bej_mSUD_to_SUD.grs"
+    "grs": "${GRSROOT}/converter/grs/bej_mSUD_to_SUD.grs",
+    "strat": "bej_mSUD_to_SUD_main"
   },
   {
     "id": "SUD_Chinese-Beginner@latest",

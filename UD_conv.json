@@ -9,7 +9,7 @@
     "src": "SUD_Beja-NSC@latest",
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "bej_main",
+    "strat": "bej_SUD_to_UD_main",
     "parallels": [
       "SUD_Beja-NSC@latest"
     ]
@@ -24,7 +24,7 @@
     "src": "mSUD_Beja-NSC@latest",
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "bej_main",
+    "strat": "bej_SUD_to_UD_main",
     "parallels": [
       "mSUD_Beja-NSC@latest"
     ]
