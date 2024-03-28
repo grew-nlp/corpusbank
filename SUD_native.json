@@ -1,43 +1,8 @@
 [
   {
-    "id": "mSUD_Beja-NSC@latest",
-    "config": "sud",
-    "lang": "bej",
-    "audio": true,
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Beja-NSC",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Beja-NSC",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/bej/",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-NSC/issues/new",
-    "parallels": [
-      "UD_Beja-NSC@conv",
-      "SUD_Beja-NSC@latest"
-    ]
-  },
-  {
-    "id": "mSUD_Chinese-Beginner@latest",
-    "config": "sud",
-    "lang": "zh",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-Beginner",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner/issues/new"
-  },
-  {
-    "id": "mSUD_Chinese-PatentChar@latest",
-    "config": "sud",
-    "lang": "zh",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-PatentChar",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar/issues/new",
-    "parallels": [
-      "UD_Chinese-PatentChar@conv"
-    ]
-  },
-  {
     "id": "SUD_French-GSD@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "fr",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_French-GSD",
@@ -51,6 +16,7 @@
   {
     "id": "SUD_French-Rhapsodie@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "fr",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_French-Rhapsodie",
@@ -64,6 +30,7 @@
   {
     "id": "SUD_French-ParisStories@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "fr",
     "audio": true,
     "dynamic": true,
@@ -78,6 +45,7 @@
   {
     "id": "SUD_French-Sequoia@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "fr",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_French-Sequoia",
@@ -91,6 +59,7 @@
   {
     "id": "SUD_Haitian_Creole-Autogramm@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "ht",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Haitian_Creole-Autogramm",
@@ -103,6 +72,7 @@
     "id": "SUD_Hausa-NorthernAutogramm@latest",
     "lang": "hau",
     "config": "sud",
+    "validation": "sud",
     "audio": true,
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Hausa-NorthernAutogramm",
@@ -113,6 +83,7 @@
     "id": "SUD_Hausa-SouthernAutogramm@latest",
     "lang": "hau",
     "config": "sud",
+    "validation": "sud",
     "audio": true,
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Hausa-SouthernAutogramm",
@@ -124,6 +95,7 @@
   {
     "id": "SUD_Naija-NSC@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "pcm",
     "audio": true,
     "dynamic": true,
@@ -138,6 +110,7 @@
   {
     "id": "SUD_Zaar-Autogramm@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "say",
     "audio": true,
     "dynamic": true,

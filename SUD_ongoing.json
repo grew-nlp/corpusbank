@@ -2,6 +2,7 @@
   {
     "id": "SUD_PS_2023@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "fr",
     "audio": true,
     "dynamic": true,
@@ -10,6 +11,7 @@
   {
     "id": "SUD_Darija-Autogramm@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "ary",
     "audio": true,
     "dynamic": true,
@@ -20,6 +22,7 @@
   {
     "id": "SUD_Egyptian_Arabic-Autogramm@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "arz",
     "audio": true,
     "dynamic": true,
@@ -30,6 +33,7 @@
   {
     "id": "SUD_Gbaya-Autogramm@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "gba",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Gbaya-Autogramm",
@@ -39,6 +43,7 @@
   {
     "id": "SUD_Tunisian_Arabic-NAxLAT@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "aeb",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Tunisian_Arabic-NAxLAT",
@@ -52,6 +57,7 @@
   {
     "id": "mSUD_Tuwari-Autogramm@latest",
     "config": "sud",
+    "validation": "sud",
     "lang": "tww",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Tuwari-Autogramm",

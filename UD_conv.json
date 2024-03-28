@@ -2,6 +2,7 @@
   {
     "id": "UD_Beja-NSC@conv",
     "config": "ud",
+    "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
@@ -17,6 +18,7 @@
   {
     "id": "mUD_Beja-NSC@conv",
     "config": "ud",
+    "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
@@ -32,6 +34,7 @@
   {
     "id": "UD_Chinese-Beginner@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-Beginner",
@@ -46,6 +49,7 @@
   {
     "id": "UD_Chinese-PatentChar@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-PatentChar",
@@ -60,6 +64,7 @@
   {
     "id": "UD_French-GSD@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-GSD",
@@ -74,6 +79,7 @@
   {
     "id": "UD_French-Sequoia@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Sequoia",
@@ -88,6 +94,7 @@
   {
     "id": "UD_French-Rhapsodie@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Rhapsodie",
@@ -103,6 +110,7 @@
     "id": "UD_French-ParisStories@conv",
     "audio": true,
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-ParisStories",
@@ -117,6 +125,7 @@
   {
     "id": "UD_Haitian_Creole-Autogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "ht",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
@@ -129,6 +138,7 @@
   {
     "id": "UD_Naija-NSC@conv",
     "config": "ud",
+    "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "pcm",
@@ -144,6 +154,7 @@
   {
     "id": "UD_Zaar-Autogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "say",
@@ -161,6 +172,7 @@
   {
     "id": "UD_Egyptian_Arabic-Autogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "arz",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Egyptian_Arabic-Autogramm",
@@ -174,6 +186,7 @@
   {
     "id": "UD_Gbaya-Autogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "gya",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Gbaya-Autogramm",
@@ -187,6 +200,7 @@
   {
     "id": "UD_Hausa-SouthernAutogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-SouthernAutogramm",
@@ -200,6 +214,7 @@
   {
     "id": "UD_Hausa-NorthernAutogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-NorthernAutogramm",
@@ -213,6 +228,7 @@
   {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "aeb",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Tunisian_Arabic-NAxLAT",
@@ -226,6 +242,7 @@
   {
     "id": "UD_Tuwari-Autogramm@conv",
     "config": "ud",
+    "validation": "ud",
     "dynamic": true,
     "lang": "tww",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Tuwari-Autogramm",

@@ -2,6 +2,7 @@
   {
     "id": "PARSEME-AR@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "rtl": true,
     "dynamic": true,
@@ -12,6 +13,7 @@
   {
     "id": "PARSEME-BG@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/BG",
@@ -21,6 +23,7 @@
   {
     "id": "PARSEME-CS@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/CS",
@@ -31,6 +34,7 @@
   {
     "id": "PARSEME-DE@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/DE",
@@ -40,6 +44,7 @@
   {
     "id": "PARSEME-EL@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/EL",
@@ -49,6 +54,7 @@
   {
     "id": "PARSEME-EN@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/EN",
@@ -58,6 +64,7 @@
   {
     "id": "PARSEME-ES@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/ES",
@@ -67,6 +74,7 @@
   {
     "id": "PARSEME-EU@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/EU",
@@ -76,6 +84,7 @@
   {
     "id": "PARSEME-FA@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "rtl": true,
     "dynamic": true,
@@ -86,6 +95,7 @@
   {
     "id": "PARSEME-FR@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/FR",
@@ -95,6 +105,7 @@
   {
     "id": "PARSEME-GA@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/GA",
@@ -104,6 +115,7 @@
   {
     "id": "PARSEME-HE@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "rtl": true,
     "dynamic": true,
@@ -115,6 +127,7 @@
   {
     "id": "PARSEME-HI@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/HI",
@@ -124,6 +137,7 @@
   {
     "id": "PARSEME-HR@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/HR",
@@ -133,6 +147,7 @@
   {
     "id": "PARSEME-HU@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/HU",
@@ -142,6 +157,7 @@
   {
     "id": "PARSEME-IT@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/IT",
@@ -151,6 +167,7 @@
   {
     "id": "PARSEME-LT@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/LT",
@@ -160,6 +177,7 @@
   {
     "id": "PARSEME-MT@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/MT",
@@ -169,6 +187,7 @@
   {
     "id": "PARSEME-PL@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/PL",
@@ -178,6 +197,7 @@
   {
     "id": "PARSEME-PT@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/PT",
@@ -187,6 +207,7 @@
   {
     "id": "PARSEME-RO@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/RO",
@@ -196,6 +217,7 @@
   {
     "id": "PARSEME-SL@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/SL",
@@ -205,6 +227,7 @@
   {
     "id": "PARSEME-SR@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/SR",
@@ -214,6 +237,7 @@
   {
     "id": "PARSEME-SV@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/SV",
@@ -223,6 +247,7 @@
   {
     "id": "PARSEME-TR@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/TR",
@@ -232,6 +257,7 @@
   {
     "id": "PARSEME-ZH@master",
     "config": "ud",
+    "validation": "parseme",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/master/ZH",
@@ -243,6 +269,7 @@
   {
     "id": "Parseme-NL@main",
     "config": "ud",
+    "validation": "parseme",
     "files": ["nl_alpino-ud-all.cupt", "nl_lassysmall-ud-all.cupt"],
     "dynamic": true,
     "directory": "${RESOURCES}/PARSEME/Parseme-NL",
