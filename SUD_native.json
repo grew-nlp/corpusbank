@@ -91,6 +91,15 @@
     "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-SouthernAutogramm/issues/new"
   },
 
+  {
+    "id": "SUD_Hausa-All@latest",
+    "lang": "hau",
+    "config": "sud",
+    "validation": "sud",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Hausa-All"
+  },
 
   {
     "id": "SUD_Naija-NSC@latest",
