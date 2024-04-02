@@ -12,6 +12,7 @@
     "grs_config": "sud",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
+      "mSUD_Beja-NSC@latest",
       "SUD_Beja-NSC@latest"
     ]
   },
