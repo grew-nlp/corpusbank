@@ -185,17 +185,17 @@
     ]
   },
   {
-    "id": "UD_Gbaya-Autogramm@conv",
+    "id": "UD_Northwest_Gbaya-Autogramm@conv",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "gya",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Gbaya-Autogramm",
-    "src": "SUD_Gbaya-Autogramm@latest",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
+    "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
-      "SUD_Gbaya-Autogramm@latest"
+      "mSUD_Northwest_Gbaya-Autogramm@latest"
     ]
   },
   {
