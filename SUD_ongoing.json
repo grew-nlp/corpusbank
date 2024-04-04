@@ -67,5 +67,15 @@
       "SUD_Tuwari-Autogramm@latest",
       "UD_Tuwari-Autogramm@conv"
     ]
+  },
+  {
+    "id": "Ye-kwana",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "yek",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/Ye-kwana",
+    "github": "https://github.com/surfacesyntacticud/Ye-kwana",
+    "issue": "https://github.com/surfacesyntacticud/Ye-kwana/issues/new"
   }
 ]
