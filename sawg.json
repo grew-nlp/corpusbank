@@ -1,0 +1,85 @@
+[
+  
+  
+  
+  
+  {
+    "id": "FraCaS-AMR",
+    "directory": "${RESOURCES}/AMR",
+    "kind": "amr",
+    "display": -1,
+    "files": ["Unofficial-FraCaS-AMRs-version-0_1.amr.txt"]
+  },
+  
+  
+  
+  
+  {
+    "id": "SUD-FraCaS-fr",
+    "directory": "${RESOURCES}/FraCas-fr/syntax",
+    "files": ["fracas_french_sud.conll"]
+  },
+  {
+    "id": "DSUD-FraCaS-fr",
+    "directory": "${RESOURCES}/FraCas-fr/syntax",
+    "files": ["fracas_french_dsud.conll"]
+  },
+  {
+    "id": "UD-FraCaS-fr",
+    "directory": "${RESOURCES}/FraCas-fr/syntax",
+    "files": ["fracas_french_ud.conll"]
+  },
+  
+  {
+    "id": "UD-FraCaS-en",
+    "directory": "${RESOURCES}/FraCas-en/syntax",
+    "files": ["fracas_english_ud.conll"]
+  },
+  
+  
+  
+  {
+    "id": "pmb-3.0.0-sample_en_gold",
+    "kind": "json",
+    "directory": "${RESOURCES}/semantics/pmb",
+    "desc": "first tentative for PMB conversion as graph (Clara's work)",
+    "display": -1,
+    "files": [
+      "p31/p31_d1601.json",
+      "p31/p31_d3411.json",
+      "p31/p31_d0821.json",
+      "p31/p31_d3281.json",
+      "p31/p31_d0951.json",
+      "p31/p31_d2901.json",
+      "p31/p31_d0711.json",
+      "p31/p31_d2101.json",
+      "p32/p32_d1361.json",
+      "p32/p32_d0931.json"
+    ]
+  },
+  {
+    "id": "The_little_prince_DRS",
+    "kind": "json",
+    "directory": "${RESOURCES}/semantics/pmb",
+    "desc": "Parsing of LPP with neural DRS parser",
+    "files": [
+      "lpp.drs.json"
+    ]
+  },
+  
+  
+  
+  
+  {
+    "id": "dmrs_appos",
+    "kind": "dmrs",
+    "directory": "${RESOURCES}/semantics/dmrs"
+  },
+  
+  {
+    "id": "FR-TimeBank",
+    "kind": "json",
+    "directory": "${RESOURCES}/FR-TimeBank"
+  }
+  
+]

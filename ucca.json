@@ -1,0 +1,26 @@
+[
+  {
+    "id": "UCCA_French-20K",
+    "kind": "ucca",
+    "display": -1,
+    "directory": "${RESOURCES}/UCCA/UCCA_French-20K"
+  },
+  {
+    "id": "UCCA_English-20K",
+    "kind": "ucca",
+    "display": -1,
+    "directory": "${RESOURCES}/UCCA/UCCA_English-20K"
+  },
+  {
+    "id": "UCCA_English-Wiki",
+    "kind": "ucca",
+    "display": -1,
+    "directory": "${RESOURCES}/UCCA/UCCA_English-Wiki"
+  },
+  {
+    "id": "UCCA_English-LPP",
+    "kind": "ucca",
+    "display": -1,
+    "directory": "${RESOURCES}/UCCA/UCCA_English-LPP"
+  }
+]

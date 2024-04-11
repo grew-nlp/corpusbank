@@ -1,0 +1,40 @@
+[
+
+    {
+      "id": "Breton",
+      "config": "sud",
+      "dynamic": true,
+      "directory": "${RESOURCES}/autogramm/Breton"
+    },
+
+    {
+      "id": "Darija",
+      "config": "sud",
+      "audio": true,
+      "directory": "${RESOURCES}/autogramm/Darija"
+    },
+
+    {
+      "id": "Sungwadia",
+      "config": "sud",
+      "dynamic": true,
+      "directory": "${RESOURCES}/autogramm/Sungwadia"
+    },
+
+    {
+      "id": "Yali",
+      "config": "sud",
+      "audio": true,
+      "dynamic": true,
+      "directory": "${RESOURCES}/autogramm/Yali"
+    },
+
+    {
+      "id": "Zaar",
+      "config": "sud",
+      "audio": true,
+      "dynamic": true,
+      "directory": "${RESOURCES}/autogramm/Zaar"
+    }
+
+  ]

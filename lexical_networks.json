@@ -1,0 +1,23 @@
+[
+  {
+    "id": "rl-fr",
+    "directory": "${RESOURCES}/RLF",
+    "kind": "json",
+    "display": 2,
+    "files": ["RL-grew.json"]
+  },
+  {
+    "id": "rl-fr_voc",
+    "directory": "${RESOURCES}/RLF",
+    "kind": "json",
+    "display": 2,
+    "files": ["RL-grew_voc.json"]
+  },
+  {
+    "id": "JDM16K",
+    "directory": "${RESOURCES}/JDM16K",
+    "kind": "json",
+    "display": 0,
+    "files": ["graph.json"]
+  }
+]
