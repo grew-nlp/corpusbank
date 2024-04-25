@@ -239,8 +239,9 @@
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-SouthernAutogramm",
     "src": "SUD_Hausa-SouthernAutogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/ha_SUD_to_UD.grs",
     "grs_config": "sud",
+    "strat": "ha_main",
     "parallels": [
       "SUD_Hausa-SouthernAutogramm@latest"
     ]
