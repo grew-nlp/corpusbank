@@ -244,7 +244,8 @@
     "strat": "ha_main",
     "parallels": [
       "SUD_Hausa-SouthernAutogramm@latest"
-    ]
+    ],
+    "text_from_tokens": true
   },
   {
     "id": "UD_Hausa-NorthernAutogramm@conv",
@@ -254,11 +255,13 @@
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-NorthernAutogramm",
     "src": "SUD_Hausa-NorthernAutogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/ha_SUD_to_UD.grs",
     "grs_config": "sud",
+    "strat": "ha_main",
     "parallels": [
       "SUD_Hausa-SouthernAutogramm@latest"
-    ]
+    ],
+    "text_from_tokens": true
   },
   {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
