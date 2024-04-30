@@ -259,7 +259,7 @@
     "grs_config": "sud",
     "strat": "ha_main",
     "parallels": [
-      "SUD_Hausa-SouthernAutogramm@latest"
+      "SUD_Hausa-NorthernAutogramm@latest"
     ],
     "text_from_tokens": true
   },
