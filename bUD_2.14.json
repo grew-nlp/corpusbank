@@ -227,12 +227,12 @@
     "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {
-    "id": "bUD_Latvian-CAIRO  @2.14",
+    "id": "bUD_Latvian-Cairo@2.14",
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "lv",
-    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Latvian-CAIRO  ",
-    "src": "UD_Latvian-CAIRO  @2.14",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Latvian-Cairo  ",
+    "src": "UD_Latvian-Cairo@2.14",
     "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
   {

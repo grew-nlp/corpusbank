@@ -1328,13 +1328,13 @@
     "parallels": ["SUD_Latin-UDante@2.14"]
   },
   {
-    "id": "UD_Latvian-CAIRO@2.14",
+    "id": "UD_Latvian-Cairo@2.14",
     "config": "ud",
     "lang": "lv",
     "enhanced": true,
-    "directory": "${RESOURCES}/ud-treebanks-v2.14/UD_Latvian-CAIRO",
-    "github": "https://github.com/UniversalDependencies/UD_Latvian-CAIRO",
-    "parallels": ["SUD_Latvian-CAIRO@2.14"]
+    "directory": "${RESOURCES}/ud-treebanks-v2.14/UD_Latvian-Cairo",
+    "github": "https://github.com/UniversalDependencies/UD_Latvian-Cairo",
+    "parallels": ["SUD_Latvian-Cairo@2.14"]
   },
   {
     "id": "UD_Latvian-LVTB@2.14",
