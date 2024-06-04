@@ -105,7 +105,6 @@
     "config": "sud",
     "lang": "ar",
     "rtl": true,
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Arabic-PADT",
     "parallels": ["UD_Arabic-PADT@2.14"]
   },
@@ -179,7 +178,6 @@
     "id": "SUD_Belarusian-HSE@2.14",
     "config": "sud",
     "lang": "be",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Belarusian-HSE",
     "parallels": ["UD_Belarusian-HSE@2.14"]
   },
@@ -215,7 +213,6 @@
     "id": "SUD_Bulgarian-BTB@2.14",
     "config": "sud",
     "lang": "bg",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Bulgarian-BTB",
     "parallels": ["UD_Bulgarian-BTB@2.14"]
   },
@@ -237,7 +234,6 @@
     "id": "SUD_Cappadocian-TueCL@2.14",
     "config": "sud",
     "lang": "cpg",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Cappadocian-TueCL",
     "parallels": ["UD_Cappadocian-TueCL@2.14"]
   },
@@ -245,7 +241,6 @@
     "id": "SUD_Catalan-AnCora@2.14",
     "config": "sud",
     "lang": "ca",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Catalan-AnCora",
     "parallels": ["UD_Catalan-AnCora@2.14"]
   },
@@ -309,7 +304,6 @@
     "id": "SUD_Chukchi-HSE@2.14",
     "config": "sud",
     "lang": "ckt",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Chukchi-HSE",
     "parallels": ["UD_Chukchi-HSE@2.14"]
   },
@@ -352,7 +346,6 @@
     "id": "SUD_Czech-CAC@2.14",
     "config": "sud",
     "lang": "cs",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Czech-CAC",
     "parallels": ["UD_Czech-CAC@2.14"]
   },
@@ -360,7 +353,6 @@
     "id": "SUD_Czech-CLTT@2.14",
     "config": "sud",
     "lang": "cs",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Czech-CLTT",
     "parallels": ["UD_Czech-CLTT@2.14"]
   },
@@ -368,7 +360,6 @@
     "id": "SUD_Czech-FicTree@2.14",
     "config": "sud",
     "lang": "cs",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Czech-FicTree",
     "parallels": ["UD_Czech-FicTree@2.14"]
   },
@@ -376,7 +367,6 @@
     "id": "SUD_Czech-PDT@2.14",
     "config": "sud",
     "lang": "cs",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Czech-PDT",
     "parallels": ["UD_Czech-PDT@2.14"]
   },
@@ -384,7 +374,6 @@
     "id": "SUD_Czech-PUD@2.14",
     "config": "sud",
     "lang": "cs",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Czech-PUD",
     "parallels": ["UD_Czech-PUD@2.14"]
   },
@@ -406,7 +395,6 @@
     "id": "SUD_Dutch-Alpino@2.14",
     "config": "sud",
     "lang": "nl",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Dutch-Alpino",
     "parallels": ["UD_Dutch-Alpino@2.14"]
   },
@@ -414,7 +402,6 @@
     "id": "SUD_Dutch-LassySmall@2.14",
     "config": "sud",
     "lang": "nl",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Dutch-LassySmall",
     "parallels": ["UD_Dutch-LassySmall@2.14"]
   },
@@ -450,7 +437,6 @@
     "id": "SUD_English-EWT@2.14",
     "config": "sud",
     "lang": "en",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_English-EWT",
     "parallels": ["UD_English-EWT@2.14"]
   },
@@ -458,7 +444,6 @@
     "id": "SUD_English-GENTLE@2.14",
     "config": "sud",
     "lang": "en",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_English-GENTLE",
     "parallels": ["UD_English-GENTLE@2.14"]
   },
@@ -466,7 +451,6 @@
     "id": "SUD_English-GUM@2.14",
     "config": "sud",
     "lang": "en",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_English-GUM",
     "parallels": ["UD_English-GUM@2.14"]
   },
@@ -474,7 +458,6 @@
     "id": "SUD_English-GUMReddit@2.14",
     "config": "sud",
     "lang": "en",
-    "enhanced": true,
     "no_word": true,
       "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_English-GUMReddit",
     "parallels": ["UD_English-GUMReddit@2.14"]
@@ -490,7 +473,6 @@
     "id": "SUD_English-PUD@2.14",
     "config": "sud",
     "lang": "en",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_English-PUD",
     "parallels": ["UD_English-PUD@2.14"]
   },
@@ -519,7 +501,6 @@
     "id": "SUD_Estonian-EDT@2.14",
     "config": "sud",
     "lang": "et",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Estonian-EDT",
     "parallels": ["UD_Estonian-EDT@2.14"]
   },
@@ -527,7 +508,6 @@
     "id": "SUD_Estonian-EWT@2.14",
     "config": "sud",
     "lang": "et",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Estonian-EWT",
     "parallels": ["UD_Estonian-EWT@2.14"]
   },
@@ -563,7 +543,6 @@
     "id": "SUD_Finnish-PUD@2.14",
     "config": "sud",
     "lang": "fi",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Finnish-PUD",
     "parallels": ["UD_Finnish-PUD@2.14"]
   },
@@ -571,7 +550,6 @@
     "id": "SUD_Finnish-TDT@2.14",
     "config": "sud",
     "lang": "fi",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Finnish-TDT",
     "parallels": ["UD_Finnish-TDT@2.14"]
   },
@@ -779,7 +757,6 @@
     "config": "sud",
     "lang": "azz",
     "rtl": true,
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Highland_Puebla_Nahuatl-ITML",
     "parallels": ["UD_Highland_Puebla_Nahuatl-ITML@2.14"]
   },
@@ -885,7 +862,6 @@
     "id": "SUD_Italian-ISDT@2.14",
     "config": "sud",
     "lang": "it",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Italian-ISDT",
     "parallels": ["UD_Italian-ISDT@2.14"]
   },
@@ -1120,7 +1096,6 @@
     "id": "SUD_Latgalian-Cairo@2.14",
     "config": "sud",
     "lang": "ltg",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Latgalian-Cairo",
     "parallels": ["UD_Latgalian-Cairo@2.14"]
   },
@@ -1170,7 +1145,6 @@
     "id": "SUD_Latvian-Cairo@2.14",
     "config": "sud",
     "lang": "lv",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Latvian-Cairo",
     "parallels": ["UD_Latvian-Cairo@2.14"]
   },
@@ -1178,7 +1152,6 @@
     "id": "SUD_Latvian-LVTB@2.14",
     "config": "sud",
     "lang": "lv",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Latvian-LVTB",
     "parallels": ["UD_Latvian-LVTB@2.14"]
   },
@@ -1193,7 +1166,6 @@
     "id": "SUD_Lithuanian-ALKSNIS@2.14",
     "config": "sud",
     "lang": "lt",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Lithuanian-ALKSNIS",
     "parallels": ["UD_Lithuanian-ALKSNIS@2.14"]
   },
@@ -1472,7 +1444,6 @@
     "id": "SUD_Polish-LFG@2.14",
     "config": "sud",
     "lang": "pl",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Polish-LFG",
     "parallels": ["UD_Polish-LFG@2.14"]
   },
@@ -1480,7 +1451,6 @@
     "id": "SUD_Polish-PDB@2.14",
     "config": "sud",
     "lang": "pl",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Polish-PDB",
     "parallels": ["UD_Polish-PDB@2.14"]
   },
@@ -1488,7 +1458,6 @@
     "id": "SUD_Polish-PUD@2.14",
     "config": "sud",
     "lang": "pl",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Polish-PUD",
     "parallels": ["UD_Polish-PUD@2.14"]
   },
@@ -1594,7 +1563,6 @@
     "id": "SUD_Russian-SynTagRus@2.14",
     "config": "sud",
     "lang": "ru",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Russian-SynTagRus",
     "parallels": ["UD_Russian-SynTagRus@2.14"]
   },
@@ -1651,7 +1619,6 @@
     "id": "SUD_Slovak-SNK@2.14",
     "config": "sud",
     "lang": "sk",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Slovak-SNK",
     "parallels": ["UD_Slovak-SNK@2.14"]
   },
@@ -1689,7 +1656,6 @@
     "id": "SUD_Spanish-AnCora@2.14",
     "config": "sud",
     "lang": "es",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Spanish-AnCora",
     "parallels": ["UD_Spanish-AnCora@2.14"]
   },
@@ -1725,7 +1691,6 @@
     "id": "SUD_Swedish-PUD@2.14",
     "config": "sud",
     "lang": "sv",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Swedish-PUD",
     "parallels": ["UD_Swedish-PUD@2.14"]
   },
@@ -1733,7 +1698,6 @@
     "id": "SUD_Swedish-Talbanken@2.14",
     "config": "sud",
     "lang": "sv",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Swedish-Talbanken",
     "parallels": ["UD_Swedish-Talbanken@2.14"]
   },
@@ -1776,7 +1740,6 @@
     "id": "SUD_Tamil-TTB@2.14",
     "config": "sud",
     "lang": "ta",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Tamil-TTB",
     "parallels": ["UD_Tamil-TTB@2.14"]
   },
@@ -1903,7 +1866,6 @@
     "id": "SUD_Ukrainian-IU@2.14",
     "config": "sud",
     "lang": "uk",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Ukrainian-IU",
     "parallels": ["UD_Ukrainian-IU@2.14"]
   },
@@ -1984,7 +1946,6 @@
     "id": "SUD_Western_Sierra_Puebla_Nahuatl-ITML@2.14",
     "config": "sud",
     "lang": "nhi",
-    "enhanced": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.14/SUD_Western_Sierra_Puebla_Nahuatl-ITML",
     "parallels": ["UD_Western_Sierra_Puebla_Nahuatl-ITML@2.14"]
   },
