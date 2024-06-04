@@ -231,7 +231,7 @@
     "desc": "basic UD version (without enhanced annotations)",
     "config": "ud",
     "lang": "lv",
-    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Latvian-Cairo  ",
+    "directory": "${RESOURCES}/ud-treebanks-auto/bUD_Latvian-Cairo",
     "src": "UD_Latvian-Cairo@2.14",
     "grs": "${GRSROOT}/rewrite/UD2bUD.grs"
   },
