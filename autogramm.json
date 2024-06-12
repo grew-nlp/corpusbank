@@ -4,6 +4,7 @@
       "id": "Breton",
       "config": "sud",
       "dynamic": true,
+      "github": "https://github.com/Autogramm/Breton",
       "directory": "${RESOURCES}/autogramm/Breton"
     },
 
