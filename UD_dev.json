@@ -88,6 +88,14 @@
       "directory": "${RESOURCES}/ud-treebanks-dev/UD_Portuguese-GSD"
     },
     {
+      "id": "UD_Spanish-GSD@dev",
+      "lang": "de",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_Spanish-GSD/tree/dev",
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Spanish-GSD"
+    },
+    {
       "id": "UD_Wolof-WTB@dev",
       "lang": "wo",
       "config": "ud",
