@@ -26,5 +26,31 @@
 		"kind": "amr",
 		"display": -1,
 		"files": ["specification-1.2.6.amr"]
+	},
+	{
+		"id": "CAMR_V0.5_A",
+		"directory": "${RESOURCES}/AMR/Chinese",
+		"kind": "amr",
+		"display": -1,
+		"files": ["FIXED_blj_full.txt"],
+		"url": "https://www.cs.brandeis.edu/~clp/camr/res/blj_full.txt"
+	},
+	{
+		"id": "CAMR_V0.5_B",
+		"directory": "${RESOURCES}/AMR/Chinese",
+		"kind": "amr",
+		"display": -1,
+		"files": ["FIXED_blj_full.txt"],
+		"url": "https://www.cs.brandeis.edu/~clp/camr/res/wy_full.txt"
+	},
+	{
+		"id": "CAMR_V1.0",
+		"directory": "${RESOURCES}/AMR/Chinese",
+		"kind": "amr",
+		"display": -1,
+		"files": ["FIXED_littleprince12.1(sl_new).txt"],
+		"url": "https://www.cs.brandeis.edu/~clp/camr/res/littleprince12.1%28sl_new%29.txt"
+
 	}
+
 ]
