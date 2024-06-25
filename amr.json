@@ -41,7 +41,7 @@
 		"directory": "${RESOURCES}/AMR/Chinese",
 		"kind": "amr",
 		"display": -1,
-		"files": ["blj_full.txt"],
+		"files": ["wy_full.txt"],
 		"url": "https://www.cs.brandeis.edu/~clp/camr/res/wy_full.txt",
 		"parallels": ["CAMR_V0.5_A", "CAMR_V1.0"]
 	},
