@@ -84,6 +84,15 @@
     "consistencyCheck": "https://grew.fr/download/PARSEME/fa.html"
   },
   {
+    "id": "PARSEME-FR@dev",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${RESOURCES}/PARSEME/dev/FR",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_fr/-/tree/dev",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/fr.html"
+  },
+  {
     "id": "PARSEME-FR@master",
     "config": "ud",
     "files": ".cupt",
