@@ -16,6 +16,14 @@
       "directory": "${RESOURCES}/ud-treebanks-dev/UD_Breton-KEB"
     },
     {
+      "id": "UD_Egyptian-UJaen@dev",
+      "config": "ud",
+      "lang": "en",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_Egyptian-UJaen/tree/dev",
+      "directory": "${RESOURCES}/ud-treebanks-dev/UD_Egyptian-UJaen"
+    },
+    {
       "id": "UD_English-GUM@dev",
       "config": "ud",
       "lang": "en",
