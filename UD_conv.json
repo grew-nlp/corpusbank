@@ -264,6 +264,21 @@
     "text_from_tokens": true
   },
   {
+    "id": "UD_Pesh-Autogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "pay",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-Autogramm",
+    "src": "SUD_Pesh-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Pesh-Autogramm@latest",
+      "mSUD_Pesh-Autogramm@latest"
+    ]
+  },
+  {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
     "config": "ud",
     "validation": "ud",

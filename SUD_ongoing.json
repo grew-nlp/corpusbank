@@ -41,6 +41,20 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/issues/new"
   },
   {
+    "id": "mSUD_Pesh-Autogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "pay",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Pesh-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Pesh-Autogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Pesh-Autogramm/issues/new",
+    "parallels": [
+      "SUD_Pesh-Autogramm@latest",
+      "UD_Pesh-Autogramm@conv"
+    ]
+  },
+  {
     "id": "SUD_Tunisian_Arabic-NAxLAT@latest",
     "config": "sud",
     "validation": "sud",

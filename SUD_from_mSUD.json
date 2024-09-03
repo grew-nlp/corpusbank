@@ -42,6 +42,20 @@
     "text_from_tokens": true
   },
   {
+    "id": "SUD_Pesh-Autogramm@latest",
+    "config": "sud",
+    "lang": "pay",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Pesh-Autogramm",
+    "src": "mSUD_Pesh-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Pesh-Autogramm@latest",
+      "UD_Pesh-Autogramm@conv"
+    ],
+    "text_from_tokens": true
+  },
+  {
     "id": "SUD_Tuwari-Autogramm@latest",
     "config": "sud",
     "lang": "tww",
