@@ -264,18 +264,18 @@
     "text_from_tokens": true
   },
   {
-    "id": "UD_Pesh-Autogramm@conv",
+    "id": "UD_Pesh-ChibErgIS@conv",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "pay",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-Autogramm",
-    "src": "SUD_Pesh-Autogramm@latest",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-ChibErgIS",
+    "src": "SUD_Pesh-ChibErgIS@latest",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
-      "SUD_Pesh-Autogramm@latest",
-      "mSUD_Pesh-Autogramm@latest"
+      "SUD_Pesh-ChibErgIS@latest",
+      "mSUD_Pesh-ChibErgIS@latest"
     ]
   },
   {
