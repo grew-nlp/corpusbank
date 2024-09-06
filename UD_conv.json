@@ -77,6 +77,7 @@
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
+      "mSUD_Chinese-Beginner@latest",
       "SUD_Chinese-Beginner@latest"
     ]
   },
@@ -92,7 +93,8 @@
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
-      "SUD_Chinese-PatentChar@latest"
+      "SUD_Chinese-PatentChar@latest",
+      "mSUD_Chinese-PatentChar@latest"
     ]
   },
   {

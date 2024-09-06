@@ -39,7 +39,11 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-Beginner",
     "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner/issues/new"
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner/issues/new",
+    "parallels": [
+      "SUD_Chinese-Beginner@latest",
+      "UD_Chinese-Beginner@conv"
+    ]
   },
   {
     "id": "mSUD_Chinese-PatentChar@latest",
@@ -51,6 +55,7 @@
     "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar/issues/new",
     "parallels": [
+      "SUD_Chinese-PatentChar@latest",
       "UD_Chinese-PatentChar@conv"
     ]
   }

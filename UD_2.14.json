@@ -297,7 +297,10 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-v2.14/UD_Chinese-Beginner",
     "github": "https://github.com/UniversalDependencies/UD_Chinese-Beginner",
-    "parallels": ["SUD_Chinese-Beginner@2.14"]
+    "parallels": [
+      "SUD_Chinese-Beginner@2.14",
+      "mSUD_Chinese-Beginner@2.14"
+    ]
   },
   {
     "id": "UD_Chinese-CFL@2.14",
@@ -345,7 +348,10 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-v2.14/UD_Chinese-PatentChar",
     "github": "https://github.com/UniversalDependencies/UD_Chinese-PatentChar",
-    "parallels": ["SUD_Chinese-PatentChar@2.14"]
+    "parallels": [
+      "SUD_Chinese-PatentChar@2.14",
+      "mSUD_Chinese-PatentChar@2.14"
+    ]
   },
   {
     "id": "UD_Chukchi-HSE@2.14",
