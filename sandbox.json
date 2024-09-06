@@ -1,0 +1,8 @@
+[
+	{ 
+		"id": "svt-2022_10K",
+		"lang": "sw",
+		"url": "https://spraakbanken.gu.se/resurser/svt-2022",
+		"directory": "${RESOURCES}/Swedish_svt"
+	}
+]
