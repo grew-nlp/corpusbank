@@ -53,6 +53,15 @@
 		"files": ["littleprince12.1(sl_new).txt"],
 		"url": "https://www.cs.brandeis.edu/~clp/camr/res/littleprince12.1%28sl_new%29.txt",
 		"parallels": ["CAMR_V0.5_A", "CAMR_V0.5_B"]
+	},
+	{
+		"id": "DeAMR",
+		"directory": "${RESOURCES}/AMR/DeAMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["400-DeAMR_corpus"],
+		"url": "https://github.com/bguil/DeAMR"
 	}
+
 
 ]
