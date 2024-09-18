@@ -23,6 +23,14 @@
     },
 
     {
+      "id": "Tundra_nenets",
+      "config": "sud",
+      "dynamic": true,
+      "audio": true,
+      "directory": "${RESOURCES}/autogramm/Tundra_nenets"
+    },
+
+    {
       "id": "Yali",
       "config": "sud",
       "audio": true,
