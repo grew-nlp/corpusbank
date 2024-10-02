@@ -7,5 +7,14 @@
     "audio": true,
     "dynamic": true,
     "parallels": ["SUD_Naija-NSC@latest"]
+  },
+  {
+    "id": "SUD_French-Rhapsodie-prosody",
+    "config": "sud",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-latest/Rhapsodie_prosody/corpus/data_prosody",
+    "audio": true,
+    "dynamic": true,
+    "parallels": ["SUD_French-Rhapsodie@audio"]
   }
 ]
