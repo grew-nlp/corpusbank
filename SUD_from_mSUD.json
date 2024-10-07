@@ -60,6 +60,22 @@
     "strat": "mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Pesh-ChibErgIS@latest",
+      "wSUD_Pesh-ChibErgIS@latest",
+      "UD_Pesh-ChibErgIS@conv"
+    ]
+  },
+  {
+    "id": "wSUD_Pesh-ChibErgIS@latest",
+    "config": "sud",
+    "lang": "pay",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Pesh-ChibErgIS",
+    "src": "mSUD_Pesh-ChibErgIS@latest",
+    "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
+    "strat": "main",
+    "parallels": [
+      "mSUD_Pesh-ChibErgIS@latest",
+      "SUD_Pesh-ChibErgIS@latest",
       "UD_Pesh-ChibErgIS@conv"
     ]
   },

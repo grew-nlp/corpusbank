@@ -277,7 +277,9 @@
     "grs_config": "sud",
     "parallels": [
       "SUD_Pesh-ChibErgIS@latest",
-      "mSUD_Pesh-ChibErgIS@latest"
+      "mSUD_Pesh-ChibErgIS@latest",
+      "wSUD_Pesh-ChibErgIS@latest"
+
     ]
   },
   {
