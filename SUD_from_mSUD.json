@@ -48,16 +48,7 @@
       "mSUD_Chinese-PatentChar@latest",
       "UD_Chinese-PatentChar@conv"
     ]
-  },
-
-  {
-    "id": "SUD_Igbo-Masakhane",
-    "config": "sud",
-    "lang": "ibo",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Igbo-Masakhane"
-  },
-  
+  },  
   {
     "id": "SUD_Pesh-ChibErgIS@latest",
     "config": "sud",

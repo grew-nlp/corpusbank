@@ -30,6 +30,16 @@
     "github": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm/issues/new"
   },
+
+  {
+    "id": "SUD_Igbo-Masakhane",
+    "config": "sud",
+    "lang": "ibo",
+    "dynamic": true,
+    "validation": "sud",
+    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Igbo-Masakhane"
+  },
+
   {
     "id": "mSUD_Northwest_Gbaya-Autogramm@latest",
     "config": "sud",
