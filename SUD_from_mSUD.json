@@ -69,7 +69,7 @@
     "config": "sud",
     "lang": "pay",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Pesh-ChibErgIS",
+    "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Pesh-ChibErgIS",
     "src": "mSUD_Pesh-ChibErgIS@latest",
     "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
     "strat": "main",
