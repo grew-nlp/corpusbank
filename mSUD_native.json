@@ -58,5 +58,59 @@
       "SUD_Chinese-PatentChar@latest",
       "UD_Chinese-PatentChar@conv"
     ]
+  },
+
+
+
+  {
+    "id": "mSUD_Taigi-DiLSi@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "zh",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Teochew-DiLSi",
+    "files": ["taigi-word.conllu"],
+    "gitlab": "https://gitlab.com/dilsi/taigi-teochew-treebank",
+    "issue": "https://gitlab.com/dilsi/taigi-teochew-treebank/-/issues",
+    "parallels": [
+      "SUD_Taigi-DiLSi@latest",
+      "UD_Taigi-DiLSi@conv",
+      "mSUD_Teochew-DiLSi@latest",
+      "mSUD_Mandarin-DiLSi@latest"
+    ]
+  },
+  {
+    "id": "mSUD_Teochew-DiLSi@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "zh",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Teochew-DiLSi",
+    "files": ["teochew-word.conllu"],
+    "gitlab": "https://gitlab.com/dilsi/taigi-teochew-treebank",
+    "issue": "https://gitlab.com/dilsi/taigi-teochew-treebank/-/issues",
+    "parallels": [
+      "SUD_Teochew-DiLSi@latest",
+      "UD_Teochew-DiLSi@conv",
+      "mSUD_Taigi-DiLSi@latest",
+      "mSUD_Mandarin-DiLSi@latest"
+    ]
+  },
+  {
+    "id": "mSUD_Mandarin-DiLSi@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "zh",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Teochew-DiLSi",
+    "files": ["mdn-word.conllu"],
+    "gitlab": "https://gitlab.com/dilsi/taigi-teochew-treebank",
+    "issue": "https://gitlab.com/dilsi/taigi-teochew-treebank/-/issues",
+    "parallels": [
+      "SUD_Mandarin-DiLSi@latest",
+      "UD_Mandarin-DiLSi@conv",
+      "mSUD_Taigi-DiLSi@latest",
+      "mSUD_Teochew-DiLSi@latest"
+    ]
   }
 ]

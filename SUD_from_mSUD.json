@@ -92,5 +92,51 @@
       "UD_Tuwari-Autogramm@conv"
     ],
     "text_from_tokens": true
+  },
+
+  {
+    "id": "SUD_Taigi-DiLSi@latest",
+    "config": "sud",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Taigi-DiLSi",
+    "src": "mSUD_Taigi-DiLSi@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "strat": "zh_mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Taigi-DiLSi@latest",
+      "UD_Taigi-DiLSi@conv",
+      "SUD_Teochew-DiLSi@latest",
+      "SUD_Mandarin-DiLSi@latest"
+    ]
+  },
+  {
+    "id": "SUD_Teochew-DiLSi@latest",
+    "config": "sud",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Teochew-DiLSi",
+    "src": "mSUD_Teochew-DiLSi@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "strat": "zh_mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Teochew-DiLSi@latest",
+      "UD_Teochew-DiLSi@conv",
+      "SUD_Taigi-DiLSi@latest",
+      "SUD_Mandarin-DiLSi@latest"
+    ]
+  },
+  {
+    "id": "SUD_Mandarin-DiLSi@latest",
+    "config": "sud",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Mandarin-DiLSi",
+    "src": "mSUD_Mandarin-DiLSi@latest",
+    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "strat": "zh_mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Mandarin-DiLSi@latest",
+      "UD_Mandarin-DiLSi@conv",
+      "SUD_Taigi-DiLSi@latest",
+      "SUD_Teochew-DiLSi@latest"
+    ]
   }
 ]
