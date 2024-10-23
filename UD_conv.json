@@ -279,8 +279,8 @@
       "SUD_Pesh-ChibErgIS@latest",
       "mSUD_Pesh-ChibErgIS@latest",
       "wSUD_Pesh-ChibErgIS@latest"
-
-    ]
+    ],
+    "text_from_tokens": true
   },
   {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
