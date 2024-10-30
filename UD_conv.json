@@ -232,7 +232,8 @@
     "parallels": [
       "mSUD_Northwest_Gbaya-Autogramm@latest",
       "SUD_Northwest_Gbaya-Autogramm@latest"
-    ]
+    ],
+    "text_from_tokens": true
   },
   {
     "id": "UD_Hausa-SouthernAutogramm@conv",
