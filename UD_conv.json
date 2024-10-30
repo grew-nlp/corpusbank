@@ -226,11 +226,12 @@
     "dynamic": true,
     "lang": "gya",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
-    "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
+    "src": "SUD_Northwest_Gbaya-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
-      "mSUD_Northwest_Gbaya-Autogramm@latest"
+      "mSUD_Northwest_Gbaya-Autogramm@latest",
+      "SUD_Northwest_Gbaya-Autogramm@latest"
     ]
   },
   {

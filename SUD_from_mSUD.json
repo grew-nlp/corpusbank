@@ -48,7 +48,21 @@
       "mSUD_Chinese-PatentChar@latest",
       "UD_Chinese-PatentChar@conv"
     ]
-  },  
+  },
+  {
+    "id": "SUD_Northwest_Gbaya-Autogramm@latest",
+    "config": "sud",
+    "lang": "gya",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Northwest_Gbaya-Autogramm@latest",
+    "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
+    "strat": "main",
+    "parallels": [
+      "mSUD_Northwest_Gbaya-Autogramm@latest",
+      "UD_Northwest_Gbaya-Autogramm@conv"
+    ]
+  },
   {
     "id": "SUD_Pesh-ChibErgIS@latest",
     "config": "sud",
