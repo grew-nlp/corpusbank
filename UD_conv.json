@@ -17,23 +17,6 @@
     ]
   },
   {
-    "id": "UD_Beja-FULL@conv",
-    "config": "ud",
-    "validation": "ud",
-    "audio": true,
-    "dynamic": true,
-    "lang": "bej",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-FULL",
-    "src": "SUD_Beja-FULL@latest",
-    "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "bej_SUD_to_UD_main",
-    "parallels": [
-      "mSUD_Beja-FULL@latest",
-      "SUD_Beja-FULL@latest"
-    ]
-  },
-  {
     "id": "mUD_Beja-NSC@conv",
     "config": "ud",
     "validation": "ud",
@@ -47,22 +30,6 @@
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
       "mSUD_Beja-NSC@latest"
-    ]
-  },
-  {
-    "id": "mUD_Beja-FULL@conv",
-    "config": "ud",
-    "validation": "ud",
-    "audio": true,
-    "dynamic": true,
-    "lang": "bej",
-    "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-FULL",
-    "src": "mSUD_Beja-FULL@latest",
-    "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "bej_SUD_to_UD_main",
-    "parallels": [
-      "mSUD_Beja-FULL@latest"
     ]
   },
   {
