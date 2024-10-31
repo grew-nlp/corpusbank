@@ -47,6 +47,7 @@
     "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
     "strat": "main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Northwest_Gbaya-Autogramm@latest",
       "UD_Northwest_Gbaya-Autogramm@conv"
