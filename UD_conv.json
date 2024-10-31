@@ -227,7 +227,8 @@
     "lang": "gya",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
     "src": "SUD_Northwest_Gbaya-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/gya_SUD_to_UD.grs",
+    "strat": "gya_SUD_to_UD_main",
     "grs_config": "sud",
     "parallels": [
       "mSUD_Northwest_Gbaya-Autogramm@latest",
