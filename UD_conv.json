@@ -275,7 +275,8 @@
     "lang": "pay",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-ChibErgIS",
     "src": "SUD_Pesh-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "strat": "pay_SUD_to_UD_main",
     "grs_config": "sud",
     "parallels": [
       "SUD_Pesh-ChibErgIS@latest",
