@@ -1,35 +1,35 @@
 [
   {
-    "id": "UD_Beja-NSC@conv",
+    "id": "UD_Beja-Autogramm@conv",
     "config": "ud",
     "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-NSC",
-    "src": "SUD_Beja-NSC@latest",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-Autogramm",
+    "src": "SUD_Beja-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
-      "mSUD_Beja-NSC@latest",
-      "SUD_Beja-NSC@latest"
+      "mSUD_Beja-Autogramm@latest",
+      "SUD_Beja-Autogramm@latest"
     ]
   },
   {
-    "id": "mUD_Beja-NSC@conv",
+    "id": "mUD_Beja-Autogramm@conv",
     "config": "ud",
     "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
-    "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-NSC",
-    "src": "mSUD_Beja-NSC@latest",
+    "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-Autogramm",
+    "src": "mSUD_Beja-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
-      "mSUD_Beja-NSC@latest"
+      "mSUD_Beja-Autogramm@latest"
     ]
   },
   {
