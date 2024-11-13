@@ -11,9 +11,24 @@
     "parallels": ["mSUD_Beja-Autogramm@latest"]
   },
   {
+    "id": "SUD_Bokota@latest",
+    "config": "sud",
+    "lang": "sab",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota",
+    "src": "mSUD_Bokota@latest",
+    "grs": "${GRSROOT}/converter/grs/pay_mSUD_to_SUD.grs",
+    "strat": "pay_mSUD_to_SUD_main",
+    "text_from_tokens": true,
+    "parallels": [
+      "mSUD_Bokota@latest",
+      "UD_Bokota@conv"
+    ]
+  },
+
+  {
     "id": "SUD_Chinese-Beginner@latest",
     "config": "sud",
-    "lang": "bej",
+    "lang": "zh",
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Chinese-Beginner",
     "src": "mSUD_Chinese-Beginner@latest",
     "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
@@ -27,7 +42,7 @@
   {
     "id": "SUD_Chinese-PatentChar@latest",
     "config": "sud",
-    "lang": "bej",
+    "lang": "zh",
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Chinese-PatentChar",
     "src": "mSUD_Chinese-PatentChar@latest",
     "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
@@ -36,6 +51,20 @@
     "parallels": [
       "mSUD_Chinese-PatentChar@latest",
       "UD_Chinese-PatentChar@conv"
+    ]
+  },
+  {
+    "id": "SUD_Ika@latest",
+    "config": "sud",
+    "lang": "arh",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika",
+    "src": "mSUD_Ika@latest",
+    "grs": "${GRSROOT}/converter/grs/pay_mSUD_to_SUD.grs",
+    "strat": "pay_mSUD_to_SUD_main",
+    "text_from_tokens": true,
+    "parallels": [
+      "mSUD_Ika@latest",
+      "UD_Ika@conv"
     ]
   },
   {

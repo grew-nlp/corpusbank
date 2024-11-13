@@ -33,6 +33,22 @@
     ]
   },
   {
+    "id": "UD_Bokota@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "arh",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota",
+    "src": "SUD_Bokota@latest",
+    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "pay_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Bokota@latest",
+      "mSUD_Bokota@latest"
+    ]
+  },
+  {
     "id": "UD_Chinese-Beginner@conv",
     "config": "ud",
     "validation": "ud",
@@ -62,6 +78,22 @@
     "parallels": [
       "SUD_Chinese-PatentChar@latest",
       "mSUD_Chinese-PatentChar@latest"
+    ]
+  },
+  {
+    "id": "UD_Ika@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "arh",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika",
+    "src": "SUD_Ika@latest",
+    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "pay_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Ika@latest",
+      "mSUD_Ika@latest"
     ]
   },
   {
