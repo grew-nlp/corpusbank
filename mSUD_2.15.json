@@ -1,13 +1,13 @@
 [
   {
-    "id": "mSUD_Beja-NSC@2.15",
+    "id": "mSUD_Beja-Autogramm@2.15",
     "config": "sud",
     "lang": "bej",
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-v2.15/mSUD_Beja-NSC",
+    "directory": "${RESOURCES}/sud-treebanks-v2.15/mSUD_Beja-Autogramm",
     "parallels": [
-      "SUD_Beja-NSC@2.15",
-      "UD_Beja-NSC@2.15"
+      "SUD_Beja-Autogramm@2.15",
+      "UD_Beja-Autogramm@2.15"
     ]
   },
   {
