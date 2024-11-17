@@ -2102,6 +2102,7 @@
     "id": "UD_Portuguese-Porttinari@2.15",
     "config": "ud",
     "lang": "pt",
+    "enhanced": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Portuguese-Porttinari",
     "github": "https://github.com/UniversalDependencies/UD_Portuguese-Porttinari",
     "parallels": ["SUD_Portuguese-Porttinari@2.15"]
@@ -2305,7 +2306,6 @@
     "id": "UD_Spanish_Sign_Language-LSE@2.15",
     "config": "ud",
     "lang": "ssp",
-    "enhanced": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Spanish_Sign_Language-LSE",
     "github": "https://github.com/UniversalDependencies/UD_Spanish_Sign_Language-LSE",
     "parallels": ["SUD_Spanish_Sign_Language-LSE@2.15"]
@@ -2633,7 +2633,6 @@
     "id": "UD_Ukrainian-ParlaMint@2.15",
     "config": "ud",
     "lang": "uk",
-    "enhanced": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Ukrainian-ParlaMint",
     "github": "https://github.com/UniversalDependencies/UD_Ukrainian-ParlaMint",
     "parallels": ["SUD_Ukrainian-ParlaMint@2.15"]

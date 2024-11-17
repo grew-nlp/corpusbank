@@ -179,7 +179,10 @@
     "lang": "bej",
     "audio": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.15/SUD_Beja-Autogramm",
-    "parallels": ["UD_Beja-Autogramm@2.15"]
+    "parallels": [
+      "mSUD_Beja-Autogramm@2.15",
+      "UD_Beja-Autogramm@2.15"
+    ]
   },
   {
     "id": "SUD_Belarusian-HSE@2.15",
@@ -1373,7 +1376,10 @@
     "config": "sud",
     "lang": "gya",
     "directory": "${RESOURCES}/sud-treebanks-v2.15/SUD_Northwest_Gbaya-Autogramm",
-    "parallels": ["UD_Northwest_Gbaya-Autogramm@2.15"]
+    "parallels": [
+      "mSUD_Northwest_Gbaya-Autogramm@2.15",
+      "UD_Northwest_Gbaya-Autogramm@2.15"
+    ]
   },
   {
     "id": "SUD_Norwegian-Bokmaal@2.15",
@@ -1503,7 +1509,10 @@
     "lang": "pay",
     "rtl": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.15/SUD_Pesh-ChibErgIS",
-    "parallels": ["UD_Pesh-ChibErgIS@2.15"]
+    "parallels": [
+      "mSUD_Pesh-ChibErgIS@2.15",
+      "UD_Pesh-ChibErgIS@2.15"
+    ]
   },
   {
     "id": "SUD_Phrygian-KUL@2.15",
