@@ -1,21 +1,5 @@
 [
   {
-    "id": "mSUD_Beja-Autogramm@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "bej",
-    "audio": true,
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Beja-Autogramm",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/bej/",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm/issues/new",
-    "parallels": [
-      "UD_Beja-Autogramm@conv",
-      "SUD_Beja-Autogramm@latest"
-    ]
-  },
-  {
     "id": "mSUD_Bokota@latest",
     "config": "sud",
     "validation": "sud",
@@ -27,34 +11,6 @@
     "parallels": [
       "UD_Bokota@conv",
       "SUD_Bokota@latest"
-    ]
-  },
-  {
-    "id": "mSUD_Chinese-Beginner@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "zh",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-Beginner",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner/issues/new",
-    "parallels": [
-      "SUD_Chinese-Beginner@latest",
-      "UD_Chinese-Beginner@conv"
-    ]
-  },
-  {
-    "id": "mSUD_Chinese-PatentChar@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "zh",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-PatentChar",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar/issues/new",
-    "parallels": [
-      "SUD_Chinese-PatentChar@latest",
-      "UD_Chinese-PatentChar@conv"
     ]
   },
 
@@ -124,5 +80,20 @@
       "mSUD_Taigi-DiLSi@latest",
       "mSUD_Teochew-DiLSi@latest"
     ]
+  },
+  {
+    "id": "mSUD_Tuwari-Autogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "tww",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Tuwari-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm/issues/new",
+    "parallels": [
+      "SUD_Tuwari-Autogramm@latest",
+      "UD_Tuwari-Autogramm@conv"
+    ]
   }
+
 ]

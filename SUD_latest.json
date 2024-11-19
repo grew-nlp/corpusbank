@@ -28,18 +28,6 @@
     ]
   },
   {
-    "id": "SUD_French-Rhapsodie@audio",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "fr",
-    "dynamic": true,
-    "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/Rhapsodie_prosody/corpus/data_CoNLL-U",
-    "parallels": [
-      "SUD_French-Rhapsodie-prosody"
-    ]
-  },
-  {
     "id": "SUD_French-ParisStories@latest",
     "config": "sud",
     "validation": "sud",
@@ -104,17 +92,6 @@
     "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-SouthernAutogramm/issues/new",
     "parallels": ["UD_Hausa-SouthernAutogramm@conv"]
   },
-
-  {
-    "id": "SUD_Hausa-All@latest",
-    "lang": "hau",
-    "config": "sud",
-    "validation": "sud",
-    "audio": true,
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Hausa-All"
-  },
-
   {
     "id": "SUD_Naija-NSC@latest",
     "config": "sud",

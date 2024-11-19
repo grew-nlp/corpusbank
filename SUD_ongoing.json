@@ -30,6 +30,18 @@
     "github": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm/issues/new"
   },
+  {
+    "id": "SUD_French-Rhapsodie@audio",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "audio": true,
+    "directory": "${RESOURCES}/sud-treebanks-latest/Rhapsodie_prosody/corpus/data_CoNLL-U",
+    "parallels": [
+      "SUD_French-Rhapsodie-prosody"
+    ]
+  },
 
   {
     "id": "SUD_Igbo-Masakhane",
@@ -40,35 +52,6 @@
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Igbo-Masakhane"
   },
 
-  {
-    "id": "mSUD_Northwest_Gbaya-Autogramm@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "gya",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Northwest_Gbaya-Autogramm",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/issues/new",
-    "parallels": [
-      "SUD_Northwest_Gbaya-Autogramm@latest",
-      "UD_Northwest_Gbaya-Autogramm@conv"
-    ]
-  },
-  {
-    "id": "mSUD_Pesh-ChibErgIS@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "pay",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Pesh-ChibErgIS",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS/issues/new",
-    "parallels": [
-      "SUD_Pesh-ChibErgIS@latest",
-      "wSUD_Pesh-ChibErgIS@latest",
-      "UD_Pesh-ChibErgIS@conv"
-    ]
-  },
   {
     "id": "SUD_Tunisian_Arabic-NAxLAT@latest",
     "config": "sud",
@@ -81,20 +64,6 @@
     "issue": "https://github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT/issues/new",
     "parallels": [
       "UD_Tunisian_Arabic-NAxLAT@conv"
-    ]
-  },
-  {
-    "id": "mSUD_Tuwari-Autogramm@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "tww",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Tuwari-Autogramm",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Tuwari-Autogramm/issues/new",
-    "parallels": [
-      "SUD_Tuwari-Autogramm@latest",
-      "UD_Tuwari-Autogramm@conv"
     ]
   },
   {
