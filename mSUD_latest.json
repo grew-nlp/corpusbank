@@ -6,7 +6,7 @@
     "lang": "bej",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Beja-Autogramm",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
     "guidelines": "https://surfacesyntacticud.github.io/guidelines/bej/",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm/issues/new",
@@ -21,7 +21,7 @@
     "validation": "sud",
     "lang": "zh",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-Beginner",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
     "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner/issues/new",
     "parallels": [
@@ -35,7 +35,7 @@
     "validation": "sud",
     "lang": "zh",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Chinese-PatentChar",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
     "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar/issues/new",
     "parallels": [
@@ -49,7 +49,7 @@
     "validation": "sud",
     "lang": "gya",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Northwest_Gbaya-Autogramm",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/issues/new",
     "parallels": [
@@ -63,7 +63,7 @@
     "validation": "sud",
     "lang": "pay",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/mSUD_Pesh-ChibErgIS",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS",
     "github": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS/issues/new",
     "parallels": [
