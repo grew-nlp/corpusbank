@@ -2675,7 +2675,6 @@
     "id": "UD_Uzbek-UT@2.15",
     "config": "ud",
     "lang": "uz",
-    "rtl": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Uzbek-UT",
     "github": "https://github.com/UniversalDependencies/UD_Uzbek-UT",
     "parallels": ["SUD_Uzbek-UT@2.15"]
