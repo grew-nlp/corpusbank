@@ -1518,7 +1518,6 @@
     "id": "SUD_Phrygian-KUL@2.15",
     "config": "sud",
     "lang": "xpg",
-    "rtl": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.15/SUD_Phrygian-KUL",
     "parallels": ["UD_Phrygian-KUL@2.15"]
   },

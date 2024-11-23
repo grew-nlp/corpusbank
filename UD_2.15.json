@@ -1989,7 +1989,6 @@
     "id": "UD_Phrygian-KUL@2.15",
     "config": "ud",
     "lang": "xpg",
-    "rtl": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Phrygian-KUL",
     "github": "https://github.com/UniversalDependencies/UD_Phrygian-KUL",
     "parallels": ["SUD_Phrygian-KUL@2.15"]
