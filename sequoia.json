@@ -2,41 +2,41 @@
   { 
     "id": "Sequoia_S@current",
     "config": "sequoia",
-    "directory": "${RESOURCES}/sequoia/current",
-    "files": [ "sequoia.surf.conll" ]
+    "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
+    "files": [ "trunk/sequoia.surf.conll" ]
   },
 
   { 
     "id": "Sequoia_SD@current",
     "config": "sequoia",
-    "directory": "${RESOURCES}/sequoia/current",
-    "files": [ "sequoia.deep_and_surf.conll" ]
+    "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
+    "files": [ "trunk/sequoia.deep_and_surf.conll" ]
   },
 
   {
     "id": "Sequoia_SPF@current",
     "config": "sequoia",
-    "directory": "${RESOURCES}/sequoia/current",
-    "files": [ "sequoia.surf.parseme.frsemcor" ]
+    "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
+    "files": [ "trunk/sequoia.surf.parseme.frsemcor" ]
   },
 
   {
     "id": "Sequoia_SDPF@current",
     "config": "sequoia",
-    "directory": "${RESOURCES}/sequoia/current",
-    "files": [ "sequoia.deep_and_surf.parseme.frsemcor" ]
+    "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
+    "files": [ "trunk/sequoia.deep_and_surf.parseme.frsemcor" ]
   },
 
   {
     "id": "Sequoia_UD-S@current",
     "config": "ud",
-    "directory": "${RESOURCES}/sequoia/current",
-    "files": [ "sequoia-ud.conllu" ]
+    "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
+    "files": [ "trunk/sequoia-ud.conllu" ]
   },
   {
     "id": "Sequoia_UD-SPF@current",
     "config": "ud",
-    "directory": "${RESOURCES}/sequoia/current",
-    "files": [ "sequoia-ud.parseme.frsemcor" ]
+    "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
+    "files": [ "trunk/sequoia-ud.parseme.frsemcor" ]
   }
 ]
