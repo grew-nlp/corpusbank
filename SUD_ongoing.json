@@ -6,7 +6,7 @@
     "lang": "fr",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_PS_2023"
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/PS_2023"
   },
   {
     "id": "SUD_Darija-Autogramm@latest",
@@ -15,7 +15,7 @@
     "lang": "ary",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Darija-Autogramm",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Darija-Autogramm",
     "github": "https://github.com/autogramm/SUD_Darija-Autogramm",
     "issue": "https://github.com/autogramm/SUD_Darija-Autogramm/issues/new"
   },
@@ -26,7 +26,7 @@
     "lang": "arz",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Egyptian_Arabic-Autogramm",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Egyptian_Arabic-Autogramm/issues/new"
   },
@@ -37,7 +37,7 @@
     "lang": "fr",
     "dynamic": true,
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/Rhapsodie_prosody/corpus/data_CoNLL-U",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Rhapsodie_prosody/corpus/data_CoNLL-U",
     "parallels": [
       "SUD_French-Rhapsodie-prosody"
     ]
@@ -58,7 +58,7 @@
     "validation": "sud",
     "lang": "aeb",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Tunisian_Arabic-NAxLAT",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT",
     "github": "https://github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT",
     "guidelines": "https://surfacesyntacticud.github.io/guidelines/aeb/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Tunisian_Arabic-NAxLAT/issues/new",
@@ -72,7 +72,7 @@
     "validation": "sud",
     "lang": "yek",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-latest/Ye-kwana",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Ye-kwana",
     "github": "https://github.com/surfacesyntacticud/Ye-kwana",
     "issue": "https://github.com/surfacesyntacticud/Ye-kwana/issues/new"
   }
