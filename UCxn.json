@@ -5,7 +5,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "zh",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_chinese-hk.conllu"]
   },
   {
@@ -14,7 +14,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "cop",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_coptic-scriptorium.conllu"]
   },
   {
@@ -23,7 +23,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "en",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_english-ewt.conllu"]
   },
   {
@@ -32,7 +32,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "en",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_english-gum.conllu"]
   },
   {
@@ -41,7 +41,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "fr",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_french-gsd.conllu"]
   },
   {
@@ -50,7 +50,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "de",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_german-hdt.conllu"]
   },
   {
@@ -59,7 +59,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "he",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_hebrew-htb.conllu"]
   },
   {
@@ -68,7 +68,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "he",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_hebrew-iahltwiki.conllu"]
   },
   {
@@ -77,7 +77,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "en",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_hindi-hdtb.conllu"]
   },
   {
@@ -86,7 +86,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "hi",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_portuguese-bosque.conllu"]
   },
   {
@@ -95,7 +95,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "es",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_spanish-ancora.conllu"]
   },
   {
@@ -104,7 +104,7 @@
     "dynamic": true,
     "config": "ud",
     "lang": "sv",
-    "directory": "${RESOURCES}/UCxn/",
+    "directory": "${RESOURCES}/github.com/LeonieWeissweiler/UCxn",
     "files": ["ucxn_ud_swedish-talbanken.conllu"]
   }
 ]
