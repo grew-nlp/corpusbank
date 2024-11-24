@@ -5,21 +5,23 @@
       "config": "sud",
       "dynamic": true,
       "github": "https://github.com/Autogramm/Breton",
-      "directory": "${RESOURCES}/autogramm/Breton"
+      "directory": "${RESOURCES}/github.com/Autogramm/Breton"
     },
 
     {
       "id": "Darija",
       "config": "sud",
       "audio": true,
-      "directory": "${RESOURCES}/autogramm/Darija"
+      "github": "https://github.com/Autogramm/Darija",
+      "directory": "${RESOURCES}/github.com/Autogramm/Darija"
     },
 
     {
       "id": "Sungwadia",
       "config": "sud",
       "dynamic": true,
-      "directory": "${RESOURCES}/autogramm/Sungwadia"
+      "github": "https://github.com/Autogramm/Sungwadia",
+      "directory": "${RESOURCES}/github.com/Autogramm/Sungwadia"
     },
 
     {
@@ -27,15 +29,8 @@
       "config": "sud",
       "dynamic": true,
       "audio": true,
-      "directory": "${RESOURCES}/autogramm/Tundra_nenets"
-    },
-
-    {
-      "id": "Yali",
-      "config": "sud",
-      "audio": true,
-      "dynamic": true,
-      "directory": "${RESOURCES}/autogramm/Yali"
+      "github": "https://github.com/Autogramm/Tundra_nenets",
+      "directory": "${RESOURCES}/github.com/Autogramm/Tundra_nenets"
     },
 
     {
@@ -43,7 +38,8 @@
       "config": "sud",
       "audio": true,
       "dynamic": true,
-      "directory": "${RESOURCES}/autogramm/Zaar"
+      "github": "https://github.com/Autogramm/Zaar",
+      "directory": "${RESOURCES}/github.com/Autogramm/Zaar/CORPUS"
     }
 
   ]
