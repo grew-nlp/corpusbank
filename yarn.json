@@ -4,14 +4,16 @@
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/working-groups/semantic-annotations/yarn_grew_match/PUD_100",
-		"files": ".json"
+		"files": ".json",
+		"dynamic": true
 	},
 	{
 		"id": "yarn_pmb_025",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/working-groups/semantic-annotations/yarn_grew_match/pmb_025",
-		"files": ".json"
+		"files": ".json",
+		"dynamic": true
 	}
 ]
 
