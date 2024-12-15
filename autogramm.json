@@ -27,6 +27,7 @@
     {
       "id": "Tundra_nenets",
       "config": "sud",
+      "validation": "sud",
       "dynamic": true,
       "audio": true,
       "github": "https://github.com/Autogramm/Tundra_nenets",
