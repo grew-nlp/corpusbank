@@ -2,6 +2,7 @@
 
     {
       "id": "Breton",
+      "lang": "br",
       "config": "sud",
       "dynamic": true,
       "github": "https://github.com/Autogramm/Breton",
@@ -10,6 +11,7 @@
 
     {
       "id": "Darija",
+      "lang": "ary",
       "config": "sud",
       "audio": true,
       "github": "https://github.com/Autogramm/Darija",
@@ -26,6 +28,7 @@
 
     {
       "id": "Tundra_nenets",
+      "lang": "yrk",
       "config": "sud",
       "validation": "sud",
       "dynamic": true,
@@ -36,6 +39,7 @@
 
     {
       "id": "Zaar",
+      "lang": "say",
       "config": "sud",
       "audio": true,
       "dynamic": true,
