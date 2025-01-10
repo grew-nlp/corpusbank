@@ -128,5 +128,15 @@
       "dynamic": true,
       "github": "https://github.com/Corpus-Diachroniques-CRISCO/corpus/",
       "directory": "${RESOURCES}/github.com/Corpus-Diachroniques-CRISCO/corpus"
+    },
+
+    {
+      "id": "UD_French-ECALM-coref@main",
+      "lang": "fr",
+      "config": "ud",
+      "validation": "ud",
+      "dynamic": true,
+      "gitlab": "https://gitlab.huma-num.fr/clle/ud_french-ecalm-coref/",
+      "directory": "${RESOURCES}/gitlab.huma-num.fr/clle/ud_french-ecalm-coref"
     }
   ]
