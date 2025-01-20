@@ -1980,7 +1980,6 @@
     "id": "UD_Pesh-ChibErgIS@2.15",
     "config": "ud",
     "lang": "pay",
-    "rtl": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Pesh-ChibErgIS",
     "github": "https://github.com/UniversalDependencies/UD_Pesh-ChibErgIS",
     "parallels": ["SUD_Pesh-ChibErgIS@2.15"]
