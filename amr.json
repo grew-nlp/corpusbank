@@ -61,7 +61,29 @@
 		"display": -1,
 		"files": ["400-DeAMR_corpus"],
 		"url": "https://github.com/bguil/DeAMR"
+	},
+	{
+		"id": "amr-br",
+		"directory": "${RESOURCES}/AMR/amr-br",
+		"kind": "amr",
+		"display": -1,
+		"files": ["amr_br-v1.0.txt"],
+		"url": "https://github.com/bguil/amr-br"
+	},
+	{
+		"id": "turkish-amr-imst",
+		"directory": "${RESOURCES}/AMR/turkish-amr-corpus",
+		"kind": "amr",
+		"display": -1,
+		"files": ["imst-gold-amr-annotations.txt"],
+		"url": "https://github.com/bguil/turkish-amr-corpus"
+	},
+	{
+		"id": "turkish-amr-little-prince",
+		"directory": "${RESOURCES}/AMR/turkish-amr-corpus",
+		"kind": "amr",
+		"display": -1,
+		"files": ["little-prince-gold-amr-annotation.txt"],
+		"url": "https://github.com/bguil/turkish-amr-corpus"
 	}
-
-
 ]
