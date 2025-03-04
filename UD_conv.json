@@ -37,7 +37,7 @@
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
-    "lang": "arh",
+    "lang": "sab",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota",
     "src": "SUD_Bokota@latest",
     "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
@@ -46,6 +46,22 @@
     "parallels": [
       "SUD_Bokota@latest",
       "mSUD_Bokota@latest"
+    ]
+  },
+  {
+    "id": "UD_Bokota@partial",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "sab",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota_partial",
+    "src": "SUD_Bokota@partial",
+    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "pay_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Bokota@partial",
+      "mSUD_Bokota@partial"
     ]
   },
   {

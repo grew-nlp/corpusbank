@@ -13,6 +13,18 @@
       "SUD_Bokota@latest"
     ]
   },
+  {
+    "id": "mSUD_Bokota@partial",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "sab",
+    "dynamic": true,
+    "directory": "${RESOURCES}/mSUD_Bokota_partial",
+    "parallels": [
+      "UD_Bokota@partial",
+      "SUD_Bokota@partial"
+    ]
+  },
 
   {
     "id": "mSUD_Ika@latest",
