@@ -1,16 +1,16 @@
 [
   {
-    "id": "mSUD_Bokota@latest",
+    "id": "mSUD_Bokota-ChibErgIS@latest",
     "config": "sud",
     "validation": "sud",
     "lang": "sab",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Bokota",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Bokota",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Bokota/issues/new",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS/issues/new",
     "parallels": [
-      "UD_Bokota@conv",
-      "SUD_Bokota@latest"
+      "UD_Bokota-ChibErgIS@conv",
+      "SUD_Bokota-ChibErgIS@latest"
     ]
   },
   {
@@ -39,17 +39,17 @@
   },
 
   {
-    "id": "mSUD_Ika@latest",
+    "id": "mSUD_Ika-ChibErgIS@latest",
     "config": "sud",
     "validation": "sud",
     "lang": "arh",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Ika",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Ika",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Ika/issues/new",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS/issues/new",
     "parallels": [
-      "UD_Ika@conv",
-      "SUD_Ika@latest"
+      "UD_Ika-ChibErgIS@conv",
+      "SUD_Ika-ChibErgIS@latest"
     ]
   },
 

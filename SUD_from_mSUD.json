@@ -12,18 +12,18 @@
     "parallels": ["mSUD_Beja-Autogramm@latest"]
   },
   {
-    "id": "SUD_Bokota@latest",
+    "id": "SUD_Bokota-ChibErgIS@latest",
     "config": "sud",
     "lang": "sab",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota",
-    "src": "mSUD_Bokota@latest",
-    "grs": "${GRSROOT}/converter/grs/pay_mSUD_to_SUD.grs",
-    "strat": "pay_mSUD_to_SUD_main",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota-ChibErgIS",
+    "src": "mSUD_Bokota-ChibErgIS@latest",
+    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
-      "mSUD_Bokota@latest",
-      "UD_Bokota@conv"
+      "mSUD_Bokota-ChibErgIS@latest",
+      "UD_Bokota-ChibErgIS@conv"
     ]
   },
   {
@@ -88,18 +88,18 @@
     ]
   },
   {
-    "id": "SUD_Ika@latest",
+    "id": "SUD_Ika-ChibErgIS@latest",
     "config": "sud",
     "lang": "arh",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika",
-    "src": "mSUD_Ika@latest",
-    "grs": "${GRSROOT}/converter/grs/pay_mSUD_to_SUD.grs",
-    "strat": "pay_mSUD_to_SUD_main",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika-ChibErgIS",
+    "src": "mSUD_Ika-ChibErgIS@latest",
+    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
-      "mSUD_Ika@latest",
-      "UD_Ika@conv"
+      "mSUD_Ika-ChibErgIS@latest",
+      "UD_Ika-ChibErgIS@conv"
     ]
   },
   {

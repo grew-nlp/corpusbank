@@ -33,28 +33,27 @@
     ]
   },
   {
-    "id": "UD_Bokota@conv",
+    "id": "UD_Bokota-ChibErgIS@conv",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "sab",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota",
-    "src": "SUD_Bokota@latest",
-    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota-ChibErgIS",
+    "src": "SUD_Bokota-ChibErgIS@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "pay_SUD_to_UD_main",
+    "strat": "SUD_to_UD_main",
     "parallels": [
-      "SUD_Bokota@latest",
-      "mSUD_Bokota@latest"
+      "SUD_Bokota-ChibErgIS@latest",
+      "mSUD_Bokota-ChibErgIS@latest"
     ]
   },
   {
-    "note": "tmp lang as pay until sab is defined in UD",
     "id": "UD_Bokota@partial",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
-    "lang": "pay",
+    "lang": "sab",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota_partial",
     "src": "SUD_Bokota@partial",
     "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
@@ -66,17 +65,16 @@
     ]
   },
   {
-    "note": "tmp lang as pay until sab is defined in UD",
     "id": "UD_Ika@partial",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
-    "lang": "pay",
+    "lang": "arh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_partial",
     "src": "SUD_Ika@partial",
-    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "pay_SUD_to_UD_main",
+    "strat": "SUD_to_UD_main",
     "parallels": [
       "SUD_Ika@partial",
       "mSUD_Ika@partial"
@@ -115,19 +113,19 @@
     ]
   },
   {
-    "id": "UD_Ika@conv",
+    "id": "UD_Ika-ChibErgIS@conv",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "arh",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika",
-    "src": "SUD_Ika@latest",
-    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika-ChibErgIS",
+    "src": "SUD_Ika-ChibErgIS@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "pay_SUD_to_UD_main",
+    "strat": "SUD_to_UD_main",
     "parallels": [
-      "SUD_Ika@latest",
-      "mSUD_Ika@latest"
+      "SUD_Ika-ChibErgIS@latest",
+      "mSUD_Ika-ChibErgIS@latest"
     ]
   },
   {
