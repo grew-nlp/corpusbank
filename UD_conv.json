@@ -66,6 +66,23 @@
     ]
   },
   {
+    "note": "tmp lang as pay until sab is defined in UD",
+    "id": "UD_Ika@partial",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "pay",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_partial",
+    "src": "SUD_Ika@partial",
+    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "pay_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Ika@partial",
+      "mSUD_Ika@partial"
+    ]
+  },
+  {
     "id": "UD_Chinese-Beginner@conv",
     "config": "ud",
     "validation": "ud",
