@@ -42,7 +42,7 @@
     "src": "SUD_Bokota-ChibErgIS@latest",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "SUD_to_UD_main",
+    "strat": "main",
     "parallels": [
       "SUD_Bokota-ChibErgIS@latest",
       "mSUD_Bokota-ChibErgIS@latest"
@@ -74,7 +74,7 @@
     "src": "SUD_Ika@partial",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "SUD_to_UD_main",
+    "strat": "main",
     "parallels": [
       "SUD_Ika@partial",
       "mSUD_Ika@partial"
@@ -122,7 +122,7 @@
     "src": "SUD_Ika-ChibErgIS@latest",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "SUD_to_UD_main",
+    "strat": "main",
     "parallels": [
       "SUD_Ika-ChibErgIS@latest",
       "mSUD_Ika-ChibErgIS@latest"
