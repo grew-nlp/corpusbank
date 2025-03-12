@@ -1,5 +1,14 @@
 [
   {
+    "id": "SUD_Thai-Autogramm",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "th",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Thai-Autogramm"
+  },
+
+  {
     "id": "SUD_PS_2023@latest",
     "config": "sud",
     "validation": "sud",
