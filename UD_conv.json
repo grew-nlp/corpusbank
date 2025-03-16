@@ -49,35 +49,37 @@
     ]
   },
   {
-    "id": "UD_Bokota@partial",
+    "id": "UD_Bokota@tree",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "sab",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota_partial",
-    "src": "SUD_Bokota@partial",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota_tree",
+    "src": "SUD_Bokota@tree",
     "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "pay_SUD_to_UD_main",
     "parallels": [
-      "SUD_Bokota@partial",
-      "mSUD_Bokota@partial"
+      "SUD_Bokota@tree",
+      "mSUD_Bokota@tree",
+      "wSUD_Bokota@tree"
     ]
   },
   {
-    "id": "UD_Ika@partial",
+    "id": "UD_Ika@tree",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "arh",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_partial",
-    "src": "SUD_Ika@partial",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_tree",
+    "src": "SUD_Ika@tree",
     "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "main",
     "parallels": [
-      "SUD_Ika@partial",
-      "mSUD_Ika@partial"
+      "SUD_Ika@tree",
+      "mSUD_Ika@tree",
+      "wSUD_Ika@tree"
     ]
   },
   {

@@ -14,27 +14,29 @@
     ]
   },
   {
-    "id": "mSUD_Bokota@partial",
+    "id": "mSUD_Bokota@tree",
     "config": "sud",
     "validation": "sud",
     "lang": "sab",
     "dynamic": true,
-    "directory": "${RESOURCES}/mSUD_Bokota_partial",
+    "directory": "${RESOURCES}/mSUD_Bokota_tree",
     "parallels": [
-      "UD_Bokota@partial",
-      "SUD_Bokota@partial"
+      "UD_Bokota@tree",
+      "SUD_Bokota@tree",
+      "wSUD_Bokota@tree"
     ]
   },
   {
-    "id": "mSUD_Ika@partial",
+    "id": "mSUD_Ika@tree",
     "config": "sud",
     "validation": "sud",
     "lang": "arh",
     "dynamic": true,
-    "directory": "${RESOURCES}/mSUD_Ika_partial",
+    "directory": "${RESOURCES}/mSUD_Ika_tree",
     "parallels": [
-      "UD_Ika@partial",
-      "SUD_Ika@partial"
+      "UD_Ika@tree",
+      "SUD_Ika@tree",
+      "wSUD_Ika@tree"
     ]
   },
 
