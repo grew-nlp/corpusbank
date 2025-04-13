@@ -143,7 +143,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Northwest_Gbaya-Autogramm@latest",
     "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
+    "grs": "${GRSROOT}/converter/grs/gya_mSUD_to_SUD.grs",
     "strat": "main",
     "text_from_tokens": true,
     "parallels": [
