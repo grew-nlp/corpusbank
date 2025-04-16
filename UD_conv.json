@@ -40,9 +40,9 @@
     "lang": "sab",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota-ChibErgIS",
     "src": "SUD_Bokota-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/sab_SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "main",
+    "strat": "sab_SUD_to_UD_main",
     "parallels": [
       "SUD_Bokota-ChibErgIS@latest",
       "mSUD_Bokota-ChibErgIS@latest"
@@ -56,30 +56,13 @@
     "lang": "sab",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota_tree",
     "src": "SUD_Bokota@tree",
-    "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/sab_SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "pay_SUD_to_UD_main",
-    "parallels": [
+    "strat": "sab_SUD_to_UD_main",
+      "parallels": [
       "SUD_Bokota@tree",
       "mSUD_Bokota@tree",
       "wSUD_Bokota@tree"
-    ]
-  },
-  {
-    "id": "UD_Ika@tree",
-    "config": "ud",
-    "validation": "ud",
-    "dynamic": true,
-    "lang": "arh",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_tree",
-    "src": "SUD_Ika@tree",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "main",
-    "parallels": [
-      "SUD_Ika@tree",
-      "mSUD_Ika@tree",
-      "wSUD_Ika@tree"
     ]
   },
   {
@@ -122,12 +105,29 @@
     "lang": "arh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika-ChibErgIS",
     "src": "SUD_Ika-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/arh_SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "main",
+    "strat": "arh_SUD_to_UD_main",
     "parallels": [
       "SUD_Ika-ChibErgIS@latest",
       "mSUD_Ika-ChibErgIS@latest"
+    ]
+  },
+  {
+    "id": "UD_Ika@tree",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "arh",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_tree",
+    "src": "SUD_Ika@tree",
+    "grs": "${GRSROOT}/converter/grs/arh_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "arh_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Ika@tree",
+      "mSUD_Ika@tree",
+      "wSUD_Ika@tree"
     ]
   },
   {
