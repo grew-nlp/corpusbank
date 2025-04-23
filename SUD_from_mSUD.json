@@ -185,13 +185,13 @@
   {
     "id": "SUD_Nenets-Tundra@latest",
     "config": "sud",
-    "lang": "nar",
+    "lang": "yrk",
     "dynamic": true,
     "audio": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Nenets-Tundra",
     "src": "mSUD_Nenets-Tundra@latest",
-    "grs": "${GRSROOT}/converter/grs/nar_mSUD_to_SUD.grs",
-    "strat": "nar_mSUD_to_SUD_main",
+    "grs": "${GRSROOT}/converter/grs/yrk_mSUD_to_SUD.grs",
+    "strat": "yrk_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
       "mSUD_Nenets-Tundra@latest",

@@ -77,7 +77,7 @@
     "id": "mSUD_Nenets-Tundra@latest",
     "config": "sud",
     "validation": "sud",
-    "lang": "nar",
+    "lang": "yrk",
     "dynamic": true,
     "audio": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Nenets-Tundra",
