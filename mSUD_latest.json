@@ -71,6 +71,23 @@
       "wSUD_Pesh-ChibErgIS@latest",
       "UD_Pesh-ChibErgIS@conv"
     ]
+  },
+
+  {
+    "id": "mSUD_Nenets-Tundra@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "nar",
+    "dynamic": true,
+    "audio": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Nenets-Tundra",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Nenets-Tundra",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Nenets-Tundra/issues/new",
+    "parallels": [
+      "SUD_Nenets-Tundra@latest",
+      "UD_Nenets-Tundra@conv"
+    ]
   }
+
 
 ]

@@ -181,6 +181,26 @@
       "UD_Pesh-ChibErgIS@conv"
     ]
   },
+
+  {
+    "id": "SUD_Nenets-Tundra@latest",
+    "config": "sud",
+    "lang": "nar",
+    "dynamic": true,
+    "audio": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Nenets-Tundra",
+    "src": "mSUD_Nenets-Tundra@latest",
+    "grs": "${GRSROOT}/converter/grs/nar_mSUD_to_SUD.grs",
+    "strat": "nar_mSUD_to_SUD_main",
+    "text_from_tokens": true,
+    "parallels": [
+      "mSUD_Nenets-Tundra@latest",
+      "UD_Nenets-Tundra@conv"
+    ]
+  },
+
+
+
   {
     "id": "SUD_Tuwari-Autogramm@latest",
     "config": "sud",

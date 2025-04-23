@@ -221,6 +221,23 @@
     ]
   },
   {
+    "id": "UD_Nenets-Tundra@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "nar",
+    "dynamic": true,
+    "audio": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Nenets-Tundra",
+    "src": "SUD_Nenets-Tundra@latest",
+    "grs": "${GRSROOT}/converter/grs/nar_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "nar_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Nenets-Tundra@latest",
+      "SUD_Nenets-Tundra@latest"
+    ]
+  },
+  {
     "id": "UD_Zaar-Autogramm@conv",
     "config": "ud",
     "validation": "ud",
