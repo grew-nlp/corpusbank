@@ -1,6 +1,9 @@
 [
   {
     "id": "egy_ujaen_MASTER",
+    "config": "ud",
+    "lang": "egy",
+    "validation": "ud",
     "directory": "${RESOURCES}/github.com/bguil/pt",
     "files": ["egy_ujaen_MASTER.conllu"]
   }
