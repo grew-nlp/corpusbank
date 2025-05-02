@@ -3,6 +3,7 @@
     "id": "egy_ujaen_PT",
     "config": "ud",
     "lang": "egy",
+    "dynamic": true,
     "validation": "ud",
     "directory": "${RESOURCES}/github.com/bguil/pt",
     "files": ["egy_ujaen_PT.conllu"]
@@ -11,6 +12,7 @@
     "id": "egy_ujaen_MISC",
     "config": "ud",
     "lang": "egy",
+    "dynamic": true,
     "validation": "ud",
     "directory": "${RESOURCES}/github.com/bguil/pt",
     "files": ["egy_ujaen_MISC.conllu"]
@@ -19,6 +21,7 @@
     "id": "egy_ujaen_ALL",
     "config": "ud",
     "lang": "egy",
+    "dynamic": true,
     "validation": "ud",
     "directory": "${RESOURCES}/github.com/bguil/pt",
     "files": ["egy_ujaen_PT.conllu", "egy_ujaen_MISC.conllu"]
