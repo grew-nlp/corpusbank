@@ -1,29 +1,90 @@
 [
   {
-    "id": "egy_ujaen_PT",
+    "id": "PT_all",
     "config": "ud",
     "lang": "egy",
     "dynamic": true,
     "validation": "ud",
-    "directory": "${RESOURCES}/github.com/bguil/pt",
-    "files": ["egy_ujaen_PT.conllu"]
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Merenre.conllu",
+      "Neferkare.conllu",
+      "Neith.conllu",
+      "Pepi.conllu",
+      "Teti.conllu",
+      "Unas.conllu"
+    ]
   },
+
   {
-    "id": "egy_ujaen_MISC",
+    "id": "PT_Unas",
     "config": "ud",
     "lang": "egy",
     "dynamic": true,
     "validation": "ud",
-    "directory": "${RESOURCES}/github.com/bguil/pt",
-    "files": ["egy_ujaen_MISC.conllu"]
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Unas.conllu"
+    ]
   },
+
   {
-    "id": "egy_ujaen_ALL",
+    "id": "PT_Teti",
     "config": "ud",
     "lang": "egy",
     "dynamic": true,
     "validation": "ud",
-    "directory": "${RESOURCES}/github.com/bguil/pt",
-    "files": ["egy_ujaen_PT.conllu", "egy_ujaen_MISC.conllu"]
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Teti.conllu"
+    ]
+  },
+
+  {
+    "id": "PT_Pepi",
+    "config": "ud",
+    "lang": "egy",
+    "dynamic": true,
+    "validation": "ud",
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Pepi.conllu"
+    ]
+  },
+
+  {
+    "id": "PT_Merenre",
+    "config": "ud",
+    "lang": "egy",
+    "dynamic": true,
+    "validation": "ud",
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Merenre.conllu"
+    ]
+  },
+
+  {
+    "id": "PT_Neferkare",
+    "config": "ud",
+    "lang": "egy",
+    "dynamic": true,
+    "validation": "ud",
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Neferkare.conllu"
+    ]
+  },
+
+  {
+    "id": "PT_Neith",
+    "config": "ud",
+    "lang": "egy",
+    "dynamic": true,
+    "validation": "ud",
+    "directory": "${RESOURCES}/github.com/bguil/pt/split",
+    "files": [
+      "Neith.conllu"
+    ]
   }
 ]
