@@ -319,6 +319,22 @@
     "text_from_tokens": true
   },
   {
+    "id": "UD_Hausa-WesternAutogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-WesternAutogramm",
+    "src": "SUD_Hausa-WesternAutogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/ha_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "ha_main",
+    "parallels": [
+      "SUD_Hausa-WesternAutogramm@latest"
+    ],
+    "text_from_tokens": true
+  },
+  {
     "id": "UD_Pesh-ChibErgIS@conv",
     "config": "ud",
     "validation": "ud",

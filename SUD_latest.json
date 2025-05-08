@@ -70,7 +70,7 @@
 
   {
     "id": "SUD_Hausa-NorthernAutogramm@latest",
-    "lang": "hau",
+    "lang": "ha",
     "config": "sud",
     "validation": "sud",
     "audio": true,
@@ -82,7 +82,7 @@
   },
   {
     "id": "SUD_Hausa-SouthernAutogramm@latest",
-    "lang": "hau",
+    "lang": "ha",
     "config": "sud",
     "validation": "sud",
     "audio": true,
