@@ -57,7 +57,6 @@
     "lang": "ha",
     "config": "sud",
     "validation": "sud",
-    "audio": true,
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm",
