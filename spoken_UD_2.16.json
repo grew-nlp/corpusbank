@@ -1,0 +1,254 @@
+[
+  {
+    "id": "SP_UD_Abaza-ATB@2.16",
+    "config": "ud",
+    "lang": "abq",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Abaza-ATB",
+    "github": "https://github.com/UniversalDependencies/UD_Abaza-ATB"
+  },
+  {
+    "id": "SP_UD_Beja-Autogramm@2.16",
+    "config": "ud",
+    "lang": "bej",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Beja-Autogramm",
+    "github": "https://github.com/UniversalDependencies/UD_Beja-Autogramm",
+    "audio": true
+  },
+  {
+    "id": "SP_UD_Bokota-ChibErgIS@2.16",
+    "config": "ud",
+    "lang": "sab",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Bokota-ChibErgIS",
+    "github": "https://github.com/UniversalDependencies/UD_Bokota-ChibErgIS"
+  },
+  {
+    "id": "SP_UD_Cantonese-HK@2.16",
+    "config": "ud",
+    "lang": "yue",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Cantonese-HK",
+    "github": "https://github.com/UniversalDependencies/UD_Cantonese-HK"
+  },
+  {
+    "id": "SP_UD_Chukchi-HSE@2.16",
+    "config": "ud",
+    "lang": "ckt",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Chukchi-HSE",
+    "github": "https://github.com/UniversalDependencies/UD_Chukchi-HSE",
+    "enhanced": true
+  },
+  {
+    "id": "SP_UD_English-CHILDES@2.16",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_English-CHILDES",
+    "github": "https://github.com/UniversalDependencies/UD_English-CHILDES",
+    "enhanced": true
+  },
+  {
+    "id": "SP_UD_English-ESLSpok@2.16",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_English-ESLSpok",
+    "github": "https://github.com/UniversalDependencies/UD_English-ESLSpok"
+  },
+  {
+    "id": "SP_UD_English-GENTLE@2.16",
+    "config": "ud",
+    "lang": "en",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_English-GENTLE",
+    "github": "https://github.com/UniversalDependencies/UD_English-GENTLE",
+    "enhanced": true
+  },
+  {
+    "id": "SP_UD_English-GUM@2.16",
+    "config": "ud",
+    "lang": "en",
+    "github": "https://github.com/UniversalDependencies/UD_English-GUM",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_English-GUM",
+    "enhanced": true
+  },
+  {
+    "id": "SP_UD_French-ParisStories@2.16",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_French-ParisStories",
+    "github": "https://github.com/UniversalDependencies/UD_French-ParisStories",
+    "audio": true
+  },
+  {
+    "id": "SP_UD_French-Rhapsodie@2.16",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_French-Rhapsodie",
+    "github": "https://github.com/UniversalDependencies/UD_French-Rhapsodie"
+  },
+  {
+    "id": "SP_UD_Frisian_Dutch-Fame@2.16",
+    "config": "ud",
+    "lang": "qfn",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Frisian_Dutch-Fame",
+    "github": "https://github.com/UniversalDependencies/UD_Frisian_Dutch-Fame"
+  },
+  {
+    "id": "SP_UD_Gheg-GPS@2.16",
+    "config": "ud",
+    "lang": "aln",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Gheg-GPS",
+    "github": "https://github.com/UniversalDependencies/UD_Gheg-GPS"
+  },
+  {
+    "id": "SP_UD_Greek-Cretan@2.16",
+    "config": "ud",
+    "lang": "el",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Greek-Cretan",
+    "github": "https://github.com/UniversalDependencies/UD_Greek-Cretan"
+  },
+  {
+    "id": "SP_UD_Greek-GDT@2.16",
+    "config": "ud",
+    "lang": "el",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Greek-GDT",
+    "github": "https://github.com/UniversalDependencies/UD_Greek-GDT"
+  },
+  {
+    "id": "SP_UD_Hausa-NorthernAutogramm@2.16",
+    "config": "ud",
+    "lang": "ha",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Hausa-NorthernAutogramm",
+    "github": "https://github.com/UniversalDependencies/UD_Hausa-NorthernAutogramm"
+  },
+  {
+    "id": "SP_UD_Hausa-SouthernAutogramm@2.16",
+    "config": "ud",
+    "lang": "ha",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Hausa-SouthernAutogramm",
+    "github": "https://github.com/UniversalDependencies/UD_Hausa-SouthernAutogramm"
+  },
+  {
+    "id": "SP_UD_Hebrew-IAHLTknesset@2.16",
+    "config": "ud",
+    "lang": "he",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Hebrew-IAHLTknesset",
+    "github": "https://github.com/UniversalDependencies/UD_Hebrew-IAHLTknesset",
+    "rtl": true
+  },
+  {
+    "id": "SP_UD_Highland_Puebla_Nahuatl-ITML@2.16",
+    "config": "ud",
+    "lang": "azz",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Highland_Puebla_Nahuatl-ITML",
+    "github": "https://github.com/UniversalDependencies/UD_Highland_Puebla_Nahuatl-ITML",
+    "enhanced": true
+  },
+  {
+    "id": "SP_UD_Ika-ChibErgIS@2.16",
+    "config": "ud",
+    "lang": "arh",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Ika-ChibErgIS",
+    "github": "https://github.com/UniversalDependencies/UD_Ika-ChibErgIS"
+  },
+  {
+    "id": "SP_UD_Khunsari-AHA@2.16",
+    "config": "ud",
+    "lang": "kfm",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Khunsari-AHA",
+    "github": "https://github.com/UniversalDependencies/UD_Khunsari-AHA",
+    "rtl": true
+  },
+  {
+    "id": "SP_UD_Komi_Zyrian-IKDP@2.16",
+    "config": "ud",
+    "lang": "kpv",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Komi_Zyrian-IKDP",
+    "github": "https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP"
+  },
+  {
+    "id": "SP_UD_Naija-NSC@2.16",
+    "config": "ud",
+    "lang": "pcm",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Naija-NSC",
+    "github": "https://github.com/UniversalDependencies/UD_Naija-NSC",
+    "audio": true
+  },
+  {
+    "id": "SP_UD_Nayini-AHA@2.16",
+    "config": "ud",
+    "lang": "nyq",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Nayini-AHA",
+    "github": "https://github.com/UniversalDependencies/UD_Nayini-AHA",
+    "rtl": true
+  },
+  {
+    "id": "SP_UD_Nenets-Tundra@2.16",
+    "config": "ud",
+    "lang": "yrk",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Nenets-Tundra",
+    "github": "https://github.com/UniversalDependencies/UD_Nenets-Tundra"
+  },
+	{
+    "id": "SP_UD_Northwest_Gbaya-Autogramm@2.16",
+    "config": "ud",
+    "lang": "gya",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Northwest_Gbaya-Autogramm"
+  },
+  {
+    "id": "SP_UD_Pesh-ChibErgIS@2.16",
+    "config": "ud",
+    "lang": "pay",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Pesh-ChibErgIS",
+    "github": "https://github.com/UniversalDependencies/UD_Pesh-ChibErgIS"
+  },
+  {
+    "id": "SP_UD_Scottish_Gaelic-ARCOSG@2.16",
+    "config": "ud",
+    "lang": "gd",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Scottish_Gaelic-ARCOSG",
+    "github": "https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG"
+  },
+  {
+    "id": "SP_UD_Slovenian-SST@2.16",
+    "config": "ud",
+    "lang": "sl",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Slovenian-SST",
+    "github": "https://github.com/UniversalDependencies/UD_Slovenian-SST",
+    "audio": true
+  },
+  {
+    "id": "SP_UD_Soi-AHA@2.16",
+    "config": "ud",
+    "lang": "soj",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Soi-AHA",
+    "github": "https://github.com/UniversalDependencies/UD_Soi-AHA",
+    "rtl": true
+  },
+  {
+    "id": "SP_UD_Spanish-COSER@2.16",
+    "config": "ud",
+    "lang": "es",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Spanish-COSER",
+    "github": "https://github.com/UniversalDependencies/UD_Spanish-COSER"
+  },
+  {
+    "id": "SP_UD_Turkish_German-SAGT@2.16",
+    "config": "ud",
+    "lang": "qtd",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Turkish_German-SAGT",
+    "github": "https://github.com/UniversalDependencies/UD_Turkish_German-SAGT"
+  },
+  {
+    "id": "SP_UD_Western_Sierra_Puebla_Nahuatl-ITML@2.16",
+    "config": "ud",
+    "lang": "nhi",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Western_Sierra_Puebla_Nahuatl-ITML",
+    "github": "https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML",
+    "enhanced": true
+  },
+  {
+    "id": "SP_UD_Zaar-Autogramm@2.16",
+    "config": "ud",
+    "lang": "say",
+    "directory": "${RESOURCES}/SP_ud-treebanks-v2.16/UD_Zaar-Autogramm",
+    "github": "https://github.com/UniversalDependencies/UD_Zaar-Autogramm",
+    "audio": true
+  }
+]
