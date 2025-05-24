@@ -1032,7 +1032,6 @@
     "id": "UD_Highland_Puebla_Nahuatl-ITML@2.15",
     "config": "ud",
     "lang": "azz",
-    "rtl": true,
     "enhanced": true,
     "directory": "${RESOURCES}/ud-treebanks-v2.15/UD_Highland_Puebla_Nahuatl-ITML",
     "github": "https://github.com/UniversalDependencies/UD_Highland_Puebla_Nahuatl-ITML",

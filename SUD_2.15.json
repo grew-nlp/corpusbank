@@ -794,7 +794,6 @@
     "id": "SUD_Highland_Puebla_Nahuatl-ITML@2.15",
     "config": "sud",
     "lang": "azz",
-    "rtl": true,
     "directory": "${RESOURCES}/sud-treebanks-v2.15/SUD_Highland_Puebla_Nahuatl-ITML",
     "parallels": ["UD_Highland_Puebla_Nahuatl-ITML@2.15"]
   },
