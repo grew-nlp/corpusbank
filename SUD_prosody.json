@@ -12,7 +12,7 @@
     "id": "SUD_French-Rhapsodie-prosody",
     "config": "sud",
     "lang": "fr",
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Rhapsodie_prosody/corpus/data_prosody",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Rhapsodie_prosody/corpus/data_CoNLL-U",
     "audio": true,
     "dynamic": true,
     "parallels": ["SUD_French-Rhapsodie@audio"]
