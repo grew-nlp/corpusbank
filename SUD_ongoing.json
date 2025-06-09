@@ -1,5 +1,14 @@
 [
   {
+    "id": "SUD_French-Rhapsodie_db",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "directory": "${RESOURCES}/SUD_French-Rhapsodie_db"
+  },
+
+  {
     "id": "SUD_Thai-Autogramm@latest",
     "config": "sud",
     "validation": "sud",
