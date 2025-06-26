@@ -138,5 +138,13 @@
       "dynamic": true,
       "gitlab": "https://gitlab.huma-num.fr/clle/ud_french-ecalm-coref/",
       "directory": "${RESOURCES}/gitlab.huma-num.fr/clle/ud_french-ecalm-coref"
+    },
+    {
+      "id": "UD_Quechua_qwh",
+      "lang": "qwh",
+      "config": "ud",
+      "validation": "ud",
+      "github": "https://github.com/rumiwarmi/UD_Quechua_qwh",
+      "directory": "${RESOURCES}/github.com/rumiwarmi/UD_Quechua_qwh"
     }
   ]
