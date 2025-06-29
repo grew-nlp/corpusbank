@@ -85,5 +85,13 @@
 		"display": -1,
 		"files": ["little-prince-gold-amr-annotation.txt"],
 		"url": "https://github.com/bguil/turkish-amr-corpus"
+	},
+	{
+		"id": "ding-01",
+		"directory": "${RESOURCES}/DING",
+		"kind": "amr",
+		"display": -1,
+		"files": ["ding1-1.amr"],
+		"url": "https://zenodo.org/records/15537426"
 	}
 ]
