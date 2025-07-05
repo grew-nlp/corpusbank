@@ -16,5 +16,14 @@
     "audio": true,
     "dynamic": true,
     "parallels": ["SUD_French-Rhapsodie@audio"]
+  },
+  {
+    "id": "SUD_French-Rhapsodie-prosody_pauses",
+    "config": "sud",
+    "lang": "fr",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Rhapsodie_prosody/corpus/data_CoNLL-U_pauses",
+    "audio": true,
+    "dynamic": true,
+    "parallels": ["SUD_French-Rhapsodie@audio"]
   }
 ]
