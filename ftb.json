@@ -1,16 +1,5 @@
 [
   {
-    "id": "SUD_French-FTB",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "fr",
-    "dynamic": true,
-    "directory": "${RESOURCES}/FTB/SUD_French-FTB",
-    "parallels": [
-      "SEQ_French-FTB"
-    ]
-  },
-  {
     "id": "SEQ_French-FTB",
     "config": "sequoia",
     "lang": "fr",

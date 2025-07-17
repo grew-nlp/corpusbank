@@ -62,6 +62,18 @@
   },
 
   {
+    "id": "SUD_French-FTB@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-FTB",
+    "parallels": [
+      "SEQ_French-FTB"
+    ]
+  },
+
+  {
     "id": "SUD_Hausa-WesternAutogramm@latest",
     "lang": "ha",
     "config": "sud",
