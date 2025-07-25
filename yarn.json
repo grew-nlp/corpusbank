@@ -16,6 +16,14 @@
 		"dynamic": true
 	},
 	{
+		"id": "yarn_lpp",
+		"kind": "json",
+		"display": -1,
+		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/yarn/annotations/grew/lpp",
+		"files": ".json",
+		"dynamic": true
+	},
+	{
 		"id": "yarn_chap3",
 		"kind": "json",
 		"display": -1,
