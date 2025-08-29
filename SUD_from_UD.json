@@ -33,5 +33,19 @@
     "src": "UD_Wolof-WTB@dev",
     "grs": "${GRSROOT}/converter/grs/wo_UD_to_SUD.grs",
     "strat": "wo_main"
+  },
+  {
+    "id": "SUD_Hebrew-PostRab@conv",
+    "config": "sud",
+    "dynamic": true,
+    "rtl": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/UD_Hebrew-PostRab",
+    "src": "UD_Hebrew-PostRab@dev",
+    "grs": "${GRSROOT}/converter/grs/UD_to_SUD.grs",
+    "strat": "main",
+    "parallels": [
+      "UD_Hebrew-PostRab@dev"
+    ]
+
   }
 ]

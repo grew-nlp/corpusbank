@@ -146,5 +146,19 @@
       "validation": "ud",
       "github": "https://github.com/rumiwarmi/UD_Quechua_qwh",
       "directory": "${RESOURCES}/github.com/rumiwarmi/UD_Quechua_qwh"
+    },
+    {
+      "id": "UD_Hebrew-PostRab@dev",
+      "lang": "he",
+      "config": "ud",
+      "validation": "ud",
+      "dynamic": true,
+      "rtl": true,
+      "github": "https://github.com/ERC-Midrash/UD_Hebrew-PostRab#",
+      "directory": "${RESOURCES}/github.com/ERC-Midrash/UD_Hebrew-PostRab",
+      "parallels": [
+        "SUD_Hebrew-PostRab@conv"
+      ]
+
     }
   ]
