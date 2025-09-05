@@ -74,6 +74,15 @@
     "consistencyCheck": "https://grew.fr/download/PARSEME/lt.html"
   },
   {
+    "id": "PARSEME-LV@dev",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_lv",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_lv/-/tree/dev",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/lv.html"
+  },
+  {
     "id": "PARSEME-PL@dev",
     "config": "ud",
     "files": ".cupt",
