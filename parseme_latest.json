@@ -52,8 +52,7 @@
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_ja",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_ja/-/tree/dev",
-    "consistencyCheck": "https://grew.fr/download/PARSEME/ja.html"
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_ja/-/tree/dev"
   },
   {
     "id": "PARSEME-KA@dev",
