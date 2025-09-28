@@ -165,6 +165,7 @@
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
+    "audio": true,
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Rhapsodie",
     "src": "SUD_French-Rhapsodie@latest",

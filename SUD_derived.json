@@ -28,15 +28,5 @@
     "grs": "${GRSROOT}/rewrite/rm_mwt.grs",
     "dynamic": true,
     "parallels": ["SUD_French-ParisStories@latest"]
-  },
-  {
-    "id": "SUD_French-Rhapsodie@rm_mwt",
-    "config": "sud",
-    "lang": "fr",
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_French-Rhapsodie@rm_mwt",
-    "src": "SUD_French-Rhapsodie@latest",
-    "grs": "${GRSROOT}/rewrite/rm_mwt.grs",
-    "dynamic": true,
-    "parallels": ["SUD_French-Rhapsodie@latest"]
   }
 ]

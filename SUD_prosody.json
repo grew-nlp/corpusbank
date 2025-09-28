@@ -8,11 +8,12 @@
     "dynamic": true,
     "parallels": ["SUD_Naija-NSC@latest"]
   },
+
   {
     "id": "SUD_French-Rhapsodie-prosody",
     "config": "sud",
     "lang": "fr",
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Rhapsodie_prosody/corpus/data_CoNLL-U",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/prosody",
     "audio": true,
     "dynamic": true,
     "parallels": ["SUD_French-Rhapsodie@audio"]
@@ -21,7 +22,7 @@
     "id": "SUD_French-Rhapsodie-prosody_pauses",
     "config": "sud",
     "lang": "fr",
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/Rhapsodie_prosody/corpus/data_CoNLL-U_pauses",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/prosody_pauses",
     "audio": true,
     "dynamic": true,
     "parallels": ["SUD_French-Rhapsodie@audio"]
