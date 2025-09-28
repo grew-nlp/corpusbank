@@ -8,7 +8,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/bej/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/beja/",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm/issues/new",
     "parallels": [
       "UD_Beja-Autogramm@conv",

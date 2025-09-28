@@ -7,7 +7,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-GSD",
     "github": "https://github.com/surfacesyntacticud/SUD_French-GSD",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-GSD/issues/new",
     "parallels": [
       "UD_French-GSD@conv"
@@ -23,7 +23,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie",
     "github": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie/issues/new",
     "parallels": [
       "UD_French-Rhapsodie@conv"
@@ -52,7 +52,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-ParisStories",
     "github": "https://github.com/surfacesyntacticud/SUD_French-ParisStories",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-ParisStories/issues/new",
     "parallels": [
       "UD_French-ParisStories@conv"
@@ -66,7 +66,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Sequoia",
     "github": "https://github.com/surfacesyntacticud/SUD_French-Sequoia",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/fr/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-Sequoia/issues/new",
     "parallels": [
       "UD_French-Sequoia@conv"
@@ -80,7 +80,6 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Haitian_Creole-Autogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Haitian_Creole-Autogramm",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/hat/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Haitian_Creole-Autogramm/issues/new"
   },
 
@@ -116,7 +115,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Naija-NSC",
     "github": "https://github.com/surfacesyntacticud/SUD_Naija-NSC",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/pcm/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/naija/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Naija-NSC/issues/new",
     "parallels": [
       "UD_Naija-NSC@conv"
@@ -131,7 +130,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Zaar-Autogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm",
-    "guidelines": "https://surfacesyntacticud.github.io/guidelines/say/",
+    "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/zaar/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm/issues/new",
     "parallels": [
       "UD_Zaar-Autogramm@conv"
