@@ -200,7 +200,8 @@
     "lang": "ht",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
     "src": "SUD_Haitian_Creole-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs": "${GRSROOT}/converter/grs/ht_SUD_to_UD.grs",
+    "strat": "ht_SUD_to_UD_main",
     "parallels": [
       "SUD_Haitian_Creole-Autogramm@latest"
     ]
