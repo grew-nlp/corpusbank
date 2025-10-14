@@ -201,6 +201,7 @@
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
     "src": "SUD_Haitian_Creole-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/ht_SUD_to_UD.grs",
+    "grs_config": "sud",
     "strat": "ht_SUD_to_UD_main",
     "parallels": [
       "SUD_Haitian_Creole-Autogramm@latest"
@@ -280,8 +281,8 @@
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
     "src": "SUD_Northwest_Gbaya-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/gya_SUD_to_UD.grs",
-    "strat": "gya_SUD_to_UD_main",
     "grs_config": "sud",
+    "strat": "gya_SUD_to_UD_main",
     "parallels": [
       "mSUD_Northwest_Gbaya-Autogramm@latest",
       "SUD_Northwest_Gbaya-Autogramm@latest"
@@ -345,8 +346,8 @@
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-ChibErgIS",
     "src": "SUD_Pesh-ChibErgIS@latest",
     "grs": "${GRSROOT}/converter/grs/pay_SUD_to_UD.grs",
-    "strat": "pay_SUD_to_UD_main",
     "grs_config": "sud",
+    "strat": "pay_SUD_to_UD_main",
     "parallels": [
       "SUD_Pesh-ChibErgIS@latest",
       "mSUD_Pesh-ChibErgIS@latest",
