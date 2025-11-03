@@ -80,6 +80,14 @@
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_German-HDT"
     },
     {
+      "id": "UD_Italian-KIParlaForest@dev",
+      "lang": "it",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_Italian-KIParlaForest/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest"
+    },
+    {
       "id": "UD_Irish-IDT@dev",
       "lang": "ga",
       "config": "ud",
