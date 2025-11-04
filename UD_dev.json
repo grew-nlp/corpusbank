@@ -87,6 +87,24 @@
       "github": "https://github.com/UniversalDependencies/UD_Italian-KIParlaForest/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest"
     },
+
+    {
+      "id": "UniDive_kiparla",
+      "lang": "it",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniDive/SpLAn-UD/tree/main/co-construction/test/kiparla",
+      "directory": "${RESOURCES}/github.com/UniDive/SpLAn-UD/co-construction/test/kiparla"
+    },
+    {
+      "id": "UniDive_kiparla_db",
+      "lang": "it",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniDive/SpLAn-UD/tree/main/co-construction/test/kiparla_db",
+      "directory": "${RESOURCES}/github.com/UniDive/SpLAn-UD/co-construction/test/kiparla_db"
+    },
+
     {
       "id": "UD_Irish-IDT@dev",
       "lang": "ga",
