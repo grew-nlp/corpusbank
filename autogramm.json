@@ -27,17 +27,6 @@
     },
 
     {
-      "id": "Tundra_nenets",
-      "lang": "yrk",
-      "config": "sud",
-      "validation": "sud",
-      "dynamic": true,
-      "audio": true,
-      "github": "https://github.com/Autogramm/Tundra_nenets",
-      "directory": "${RESOURCES}/github.com/Autogramm/Tundra_nenets"
-    },
-
-    {
       "id": "Zaar",
       "lang": "say",
       "config": "sud",
