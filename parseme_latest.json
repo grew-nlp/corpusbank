@@ -25,6 +25,15 @@
     "gitlab": "https://gitlab.com/parseme/parseme_corpus_fa/-/tree/dev"
   },
   {
+    "id": "PARSEME-FR@dev",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_fr",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_fr/-/tree/dev",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/fr.html"
+  },
+  {
     "id": "PARSEME-GRC@dev",
     "config": "ud",
     "files": ".cupt",
@@ -58,14 +67,6 @@
     "gitlab": "https://gitlab.com/parseme/parseme_corpus_ka/-/tree/dev"
   },
   {
-    "id": "PARSEME-LT@dev",
-    "config": "ud",
-    "files": ".cupt",
-    "dynamic": true,
-    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_lt",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_lt/-/tree/dev"
-  },
-  {
     "id": "PARSEME-LV@dev",
     "config": "ud",
     "files": ".cupt",
@@ -74,12 +75,30 @@
     "gitlab": "https://gitlab.com/parseme/parseme_corpus_lv/-/tree/dev"
   },
   {
+    "id": "PARSEME-NL@dev",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_nl",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_nl/-/tree/dev",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/nl.html"
+  },
+  {
     "id": "PARSEME-PL@dev",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
     "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_pl",
     "gitlab": "https://gitlab.com/parseme/parseme_corpus_pl/-/tree/dev"
+  },
+  {
+    "id": "PARSEME-PT@dev",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_pt",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_pt/-/tree/dev",
+    "consistencyCheck": "https://grew.fr/download/PARSEME/pt.html"
   },
   {
     "id": "PARSEME-RO@dev",
@@ -96,14 +115,6 @@
     "dynamic": true,
     "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_sl",
     "gitlab": "https://gitlab.com/parseme/parseme_corpus_sl/-/tree/dev"
-  },
-  {
-    "id": "PARSEME-SQ@dev",
-    "config": "ud",
-    "files": ".cupt",
-    "dynamic": true,
-    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_sq",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_sq/-/tree/dev"
   },
   {
     "id": "PARSEME-SR@dev",
@@ -204,15 +215,6 @@
     "consistencyCheck": "https://grew.fr/download/PARSEME/eu.html"
   },
   {
-    "id": "PARSEME-FR@dev",
-    "config": "ud",
-    "files": ".cupt",
-    "dynamic": true,
-    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_fr",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_fr/-/tree/dev",
-    "consistencyCheck": "https://grew.fr/download/PARSEME/fr.html"
-  },
-  {
     "id": "PARSEME-GA@dev",
     "config": "ud",
     "files": ".cupt",
@@ -258,6 +260,14 @@
     "consistencyCheck": "https://grew.fr/download/PARSEME/it.html"
   },
   {
+    "id": "PARSEME-LT@dev",
+    "config": "ud",
+    "files": ".cupt",
+    "dynamic": true,
+    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_lt",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_lt/-/tree/dev"
+  },
+  {
     "id": "PARSEME-MT@dev",
     "config": "ud",
     "files": ".cupt",
@@ -267,22 +277,12 @@
     "consistencyCheck": "https://grew.fr/download/PARSEME/mt.html"
   },
   {
-    "id": "PARSEME-NL@dev",
+    "id": "PARSEME-SQ@dev",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
-    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_nl",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_nl/-/tree/dev",
-    "consistencyCheck": "https://grew.fr/download/PARSEME/nl.html"
-  },
-  {
-    "id": "PARSEME-PT@dev",
-    "config": "ud",
-    "files": ".cupt",
-    "dynamic": true,
-    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_pt",
-    "gitlab": "https://gitlab.com/parseme/parseme_corpus_pt/-/tree/dev",
-    "consistencyCheck": "https://grew.fr/download/PARSEME/pt.html"
+    "directory": "${RESOURCES}/gitlab.com/parseme/parseme_corpus_sq",
+    "gitlab": "https://gitlab.com/parseme/parseme_corpus_sq/-/tree/dev"
   },
   {
     "id": "PARSEME-TR@dev",
