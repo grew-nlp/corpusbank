@@ -338,7 +338,8 @@
     "parallels": [
       "SUD_Bokota-ChibErgIS@2.17",
       "mSUD_Bokota-ChibErgIS@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_Bororo-BDT@2.17",
@@ -1073,7 +1074,8 @@
     "github": "https://github.com/UniversalDependencies/UD_French-Rhapsodie",
     "parallels": [
       "SUD_French-Rhapsodie@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_French-Sequoia@2.17",
@@ -1363,7 +1365,8 @@
     "github": "https://github.com/UniversalDependencies/UD_Hausa-NorthernAutogramm",
     "parallels": [
       "SUD_Hausa-NorthernAutogramm@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_Hausa-SouthernAutogramm@2.17",
@@ -1373,7 +1376,8 @@
     "github": "https://github.com/UniversalDependencies/UD_Hausa-SouthernAutogramm",
     "parallels": [
       "SUD_Hausa-SouthernAutogramm@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_Hausa-WesternAutogramm@2.17",
@@ -1558,7 +1562,8 @@
     "parallels": [
       "SUD_Ika-ChibErgIS@2.17",
       "mSUD_Ika-ChibErgIS@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_Indonesian-CSUI@2.17",
@@ -2455,7 +2460,8 @@
     "parallels": [
       "SUD_Northwest_Gbaya-Autogramm@2.17",
       "mSUD_Northwest_Gbaya-Autogramm@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_Norwegian-Bokmaal@2.17",
@@ -2689,7 +2695,8 @@
     "parallels": [
       "SUD_Pesh-ChibErgIS@2.17",
       "mSUD_Pesh-ChibErgIS@2.17"
-    ]
+    ],
+    "audio": true
   },
   {
     "id": "UD_Phrygian-KUL@2.17",
@@ -2770,10 +2777,7 @@
     "config": "ud",
     "lang": "pt",
     "directory": "${RESOURCES}/ud-treebanks-v2.17/UD_Portuguese-CINTIL",
-    "github": "https://github.com/UniversalDependencies/UD_Portuguese-CINTIL",
-    "parallels": [
-      "SUD_Portuguese-CINTIL@2.17"
-    ]
+    "github": "https://github.com/UniversalDependencies/UD_Portuguese-CINTIL"
   },
   {
     "id": "UD_Portuguese-DANTEStocks@2.17",
@@ -3754,7 +3758,7 @@
   {
     "id": "UD_Yiddish-YiTB@2.17",
     "config": "ud",
-    "lang": "sah",
+    "lang": "yi",
     "directory": "${RESOURCES}/ud-treebanks-v2.17/UD_Yiddish-YiTB",
     "github": "https://github.com/UniversalDependencies/UD_Yiddish-YiTB",
     "parallels": [
