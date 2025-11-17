@@ -4,7 +4,7 @@
     "config": "sud",
     "lang": "bej",
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Beja-Autogramm",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Beja-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
     "parallels": [
       "SUD_Beja-Autogramm@2.17",
@@ -16,7 +16,7 @@
     "config": "sud",
     "lang": "sab",
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Bokota-ChibErgIS",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Bokota-ChibErgIS",
     "github": "https://github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS",
     "parallels": [
       "SUD_Bokota-ChibErgIS@2.17",
@@ -27,7 +27,7 @@
     "id": "mSUD_Chinese-Beginner@2.17",
     "config": "sud",
     "lang": "zh",
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Chinese-Beginner",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Chinese-Beginner",
     "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-Beginner",
     "parallels": [
       "SUD_Chinese-Beginner@2.17",
@@ -38,7 +38,7 @@
     "id": "mSUD_Chinese-PatentChar@2.17",
     "config": "sud",
     "lang": "zh",
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Chinese-PatentChar",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Chinese-PatentChar",
     "github": "https://github.com/surfacesyntacticud/mSUD_Chinese-PatentChar",
     "parallels": [
       "SUD_Chinese-PatentChar@2.17",
@@ -50,7 +50,7 @@
     "config": "sud",
     "lang": "arh",
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Ika-ChibErgIS",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Ika-ChibErgIS",
     "github": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
     "parallels": [
       "SUD_Ika-ChibErgIS@2.17",
@@ -61,7 +61,7 @@
     "id": "mSUD_Nenets-Tundra@2.17",
     "config": "sud",
     "lang": "yrk",
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Nenets-Tundra",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Nenets-Tundra",
     "github": "https://github.com/surfacesyntacticud/mSUD_Nenets-Tundra",
     "parallels": [
       "SUD_Nenets-Tundra@2.17",
@@ -73,7 +73,7 @@
     "config": "sud",
     "lang": "gya",
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Northwest_Gbaya-Autogramm",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Northwest_Gbaya-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm",
     "parallels": [
       "SUD_Northwest_Gbaya-Autogramm@2.17",
@@ -85,7 +85,7 @@
     "config": "sud",
     "lang": "pay",
     "audio": true,
-    "directory": "${RESOURCES}/sud-treebanks-v2.17/mSUD_Pesh-ChibErgIS",
+    "directory": "${RESOURCES}/msud-treebanks-v2.17/mSUD_Pesh-ChibErgIS",
     "github": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS",
     "parallels": [
       "SUD_Pesh-ChibErgIS@2.17",
