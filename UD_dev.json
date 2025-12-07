@@ -16,12 +16,12 @@
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Breton-KEB"
     },
     {
-      "id": "UD_Egyptian-UJaen@dev",
+      "id": "UD_Egyptian-PC@dev",
       "config": "ud",
       "lang": "en",
       "dynamic": true,
-      "github": "https://github.com/UniversalDependencies/UD_Egyptian-UJaen/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Egyptian-UJaen"
+      "github": "https://github.com/UniversalDependencies/UD_Egyptian-PC/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Egyptian-PC"
     },
     {
       "id": "UD_English-EWT@dev",
