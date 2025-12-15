@@ -48,6 +48,22 @@
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-FQB"
     },
     {
+      "id": "UD_French-GSD@dev",
+      "lang": "fr",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_French-GSD/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-GSD"
+    },
+    {
+      "id": "UD_French-ParisStories@dev",
+      "lang": "fr",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_French-ParisStories/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-ParisStories"
+    },
+    {
       "id": "UD_French-ParTUT@dev",
       "lang": "fr",
       "config": "ud",
@@ -63,6 +79,23 @@
       "github": "https://github.com/UniversalDependencies/UD_French-PUD/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-PUD"
     },
+    {
+      "id": "UD_French-Rhapsodie@dev",
+      "lang": "fr",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_French-Rhapsodie/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-Rhapsodie"
+    },
+    {
+      "id": "UD_French-Sequoia@dev",
+      "lang": "fr",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_French-Sequoia/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-Sequoia"
+    },
+
     {
       "id": "UD_German-GSD@dev",
       "lang": "de",
