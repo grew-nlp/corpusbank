@@ -290,6 +290,22 @@
     "text_from_tokens": true
   },
   {
+    "id": "UD_Hausa-EasternAutogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-EasternAutogramm",
+    "src": "SUD_Hausa-EasternAutogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/ha_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "ha_main",
+    "parallels": [
+      "SUD_Hausa-EasternAutogramm@latest"
+    ],
+    "text_from_tokens": true
+  },
+  {
     "id": "UD_Hausa-SouthernAutogramm@conv",
     "config": "ud",
     "validation": "ud",

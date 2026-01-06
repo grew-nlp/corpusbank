@@ -64,15 +64,15 @@
   },
 
   {
-    "id": "SUD_Hausa-WesternAutogramm@latest",
+    "id": "SUD_Hausa-EasternAutogramm@latest",
     "lang": "ha",
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm",
-    "github": "https://github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm",
-    "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm/issues/new",
-    "parallels": ["UD_Hausa-WesternAutogramm@conv"]
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm",
+    "github": "https://github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm/issues/new",
+    "parallels": ["UD_Hausa-EasternAutogramm@conv"]
   },
 
   {
