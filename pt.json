@@ -10,7 +10,6 @@
     "files": [
       "Merenre.conllu",
       "Neferkare.conllu",
-      "Neferirkare.conllu",
       "Neith.conllu",
       "Pepi.conllu",
       "Teti.conllu",
@@ -80,19 +79,6 @@
     "directory": "${RESOURCES}/github.com/bguil/pt/split",
     "files": [
       "Neferkare.conllu"
-    ]
-  },
-
-  {
-    "id": "PT_Neferirkare",
-    "config": "ud",
-    "lang": "egy",
-    "dynamic": true,
-    "png": "https://grew.fr/download/pt/Images",
-    "validation": "ud",
-    "directory": "${RESOURCES}/github.com/bguil/pt/split",
-    "files": [
-      "Neferirkare.conllu"
     ]
   },
 
