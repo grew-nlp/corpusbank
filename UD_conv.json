@@ -456,7 +456,27 @@
       "UD_Taigi-DiLSi@conv",
       "UD_Teochew-DiLSi@conv"
     ]
+  },
+
+
+
+  {
+    "id": "UD_French-Rhapsodie@db",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "audio": true,
+    "lang": "fr",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Rhapsodie_db",
+    "src": "SUD_French-Rhapsodie@db",
+    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "fr_main",
+    "parallels": [
+      "SUD_French-Rhapsodie@db"
+    ]
   }
+
 
 
 ]

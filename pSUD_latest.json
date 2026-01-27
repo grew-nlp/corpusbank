@@ -1,30 +1,31 @@
 [
   {
-    "id": "SUD_Naija-NSC-prosody",
+    "id": "SUD_Naija-NSC@prosody",
     "config": "sud",
     "lang": "pcm",
     "directory": "${RESOURCES}/sud-treebanks-latest/SUD_Naija-NSC-prosody",
     "audio": true,
     "dynamic": true,
-    "parallels": ["SUD_Naija-NSC@latest"]
+    "parallels": ["SUD_Naija-NSC@latest"],
+    "todo": "change name to pSUD_Naija-NSC@latest"
   },
 
   {
-    "id": "SUD_French-Rhapsodie-prosody",
+    "id": "pSUD_French-Rhapsodie@latest",
     "config": "sud",
     "lang": "fr",
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/prosody",
     "audio": true,
     "dynamic": true,
-    "parallels": ["SUD_French-Rhapsodie@audio"]
+    "parallels": ["SUD_French-Rhapsodie@latest"]
   },
   {
-    "id": "SUD_French-Rhapsodie-prosody_pauses",
+    "id": "pSUD_French-Rhapsodie@pauses",
     "config": "sud",
     "lang": "fr",
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/prosody_pauses",
     "audio": true,
     "dynamic": true,
-    "parallels": ["SUD_French-Rhapsodie@audio"]
+    "parallels": ["SUD_French-Rhapsodie@latest"]
   }
 ]

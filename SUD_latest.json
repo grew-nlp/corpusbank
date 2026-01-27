@@ -26,7 +26,10 @@
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie/issues/new",
     "parallels": [
-      "UD_French-Rhapsodie@conv"
+      "UD_French-Rhapsodie@conv",
+      "SUD_French-Rhapsodie@latest",
+      "SUD_French-Rhapsodie@prosody"
+
     ]
   },
   {
