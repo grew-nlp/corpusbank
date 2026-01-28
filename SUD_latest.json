@@ -28,7 +28,7 @@
     "parallels": [
       "UD_French-Rhapsodie@conv",
       "SUD_French-Rhapsodie@latest",
-      "SUD_French-Rhapsodie@prosody"
+      "pSUD_French-Rhapsodie@latest"
 
     ]
   },
@@ -42,7 +42,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/p_words",
     "parallels": [
       "SUD_French-Rhapsodie@latest",
-      "SUD_French-Rhapsodie@prosody"
+      "pSUD_French-Rhapsodie@latest"
     ]
   },
 
