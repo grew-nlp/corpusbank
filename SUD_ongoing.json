@@ -6,7 +6,8 @@
     "lang": "fr",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/SUD_French-Rhapsodie_db"
+    "directory": "${RESOURCES}/SUD_French-Rhapsodie_db",
+    "parallels": ["UD_French-Rhapsodie@db"]
   },
 
   {
