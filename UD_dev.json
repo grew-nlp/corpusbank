@@ -139,6 +139,24 @@
     },
 
     {
+      "id": "UD_Slovenian-SST@dev",
+      "lang": "sl",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_Slovenian-SST/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST",
+      "audio": true
+    },
+    {
+      "id": "UD_Slovenian-SST_db@dev",
+      "lang": "sl",
+      "config": "ud",
+      "dynamic": true,
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST/UD_Slovenian-SST_db",
+      "audio": true
+    },
+
+    {
       "id": "UD_Irish-IDT@dev",
       "lang": "ga",
       "config": "ud",
