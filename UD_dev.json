@@ -199,12 +199,12 @@
 
 
     {
-      "id": "diachronie_CRISCO@main",
+      "id": "CRISCO_CorAG@main",
       "lang": "fro",
       "config": "ud",
       "dynamic": true,
-      "github": "https://github.com/Corpus-Diachroniques-CRISCO/corpus/",
-      "directory": "${RESOURCES}/github.com/Corpus-Diachroniques-CRISCO/corpus"
+      "github": "https://github.com/Corpus-Diachroniques-CRISCO/CorAG",
+      "directory": "${RESOURCES}/github.com/Corpus-Diachroniques-CRISCO/CorAG"
     },
 
     {
