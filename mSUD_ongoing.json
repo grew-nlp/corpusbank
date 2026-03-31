@@ -120,6 +120,17 @@
       "SUD_Tuwari-Autogramm@latest",
       "UD_Tuwari-Autogramm@conv"
     ]
+  },
+
+  {
+    "id": "mSUD_Ginyanga-Autogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "ayg",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/bguil/ginyanga",
+    "github": "https://github.com/bguil/ginyanga",
+    "issue": "https://github.com/bguil/ginyanga/issues/new"
   }
 
 ]
