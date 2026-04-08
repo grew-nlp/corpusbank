@@ -9,7 +9,7 @@
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-Autogramm",
     "src": "SUD_Beja-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
-    "grs_config": "sud",
+    "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
       "mSUD_Beja-Autogramm@latest",
@@ -26,7 +26,7 @@
     "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-Autogramm",
     "src": "mSUD_Beja-Autogramm@latest",
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
-    "grs_config": "sud",
+    "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
       "mSUD_Beja-Autogramm@latest"

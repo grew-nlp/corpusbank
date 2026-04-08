@@ -1,7 +1,7 @@
 [
   {
     "id": "SUD_Beja-Autogramm@latest",
-    "config": "sud",
+    "config": "beja",
     "lang": "bej",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm",
