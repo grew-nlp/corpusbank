@@ -208,6 +208,20 @@
     ]
   },
   {
+    "id": "UD_French_Sign_Language-STKAutogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "fsl",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_French_Sign_Language-STKAutogramm",
+    "src": "SUD_French_Sign_Language-STKAutogramm@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_French_Sign_Language-STKAutogramm@latest"
+    ]
+  },
+  {
     "id": "UD_Naija-NSC@conv",
     "config": "ud",
     "validation": "ud",
