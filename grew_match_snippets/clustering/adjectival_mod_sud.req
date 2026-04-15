@@ -1,0 +1,1 @@
+pattern { X -[mod]-> Y; Y [upos=ADJ] }

@@ -1,0 +1,3 @@
+% Search for a given morphological feature
+
+pattern { X [Gender=Fem] }

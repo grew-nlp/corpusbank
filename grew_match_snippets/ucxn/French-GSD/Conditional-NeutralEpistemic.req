@@ -1,0 +1,23 @@
+pattern {
+  _anchor_-[advcl]->P;
+  P-[mark]->SI;
+  SI[lemma=si, upos=SCONJ]
+}
+without { P-[advmod]->M; M[lemma="même"] } % même si ...
+without {
+  _anchor_[Mood=Cnd];
+  P-[1=aux|cop]->A2;
+  A2[Tense=Imp]
+}
+without {
+  _anchor_-[1=aux|cop]->A1;
+  A1[Mood=Cnd];
+  P-[1=aux|cop]->A2;
+  A2[Tense=Imp]; 
+}
+
+% commands {
+%   _anchor_.Cxn = "Conditional-NeutralEpistemic";
+%   _anchor_.CxnElt = "Apodosis@p";
+%   P.CxnElt = "Protasis@f"
+% }

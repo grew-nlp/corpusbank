@@ -1,0 +1,5 @@
+% Search for a disjunction of relations.
+
+pattern {
+  X -[nsubj|obj]-> Y;
+}

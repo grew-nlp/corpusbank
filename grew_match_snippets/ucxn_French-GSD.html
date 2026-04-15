@@ -1,0 +1,31 @@
+<div class="navbar" id="right-navbar">
+  <div class="navbar-inner">
+    <ul class="nav nav-pills">
+
+      <li class="active"><a class="grew-label" href="#step1" data-toggle="tab">Cxn</a></li>
+      <li> <a class="grew-label" href="#step2" data-toggle="tab">Conditional</a></li>
+
+    </ul>
+  </div>
+</div>
+<div class="tab-content" id="snippets">
+
+  <div class="tab-pane active" id="step1">
+    <ul>
+      <li><a href="#" clustering="C.Cxn" snippet-file="ucxn/list.req" class="inter">List and count Cxn annotations</a></li>
+      <li><a href="#" clustering="X.upos" snippet-file="ucxn/list_with_anchor.req" class="inter">Cxn by upos of the anchor</a></li>
+      <li><a href="#" clustering="C.Cxn" clustering2="X.upos" snippet-file="ucxn/list_with_anchor.req" class="inter">Cxn by upos of the anchor wrt tag</a></li>
+      <li><a href="#" snippet-file="ucxn/shared_anchor.req" class="inter">Two Cxn with the same anchor</a></li>
+      <li><a href="#" clustering="C1.Cxn" clustering2="C2.Cxn" snippet-file="ucxn/shared_anchor.req" class="inter">Two Cxn with the same anchor, by tags</a></li>
+    </ul>
+  </div>
+
+  <div class="tab-pane" id="step2">
+    <ul>
+      <li><a href="#" snippet-file="ucxn/French-GSD/Conditional-NeutralEpistemic.req" class="inter">Conditional-NeutralEpistemic</a></li>
+      <li><a href="#" snippet-file="ucxn/French-GSD/Conditional-Reduced.req" class="inter">Conditional-Reduced</a></li>
+      <li><a href="#" snippet-file="ucxn/French-GSD/Conditional-NegativeEpistemic.req" class="inter">Conditional-NegativeEpistemic</a></li>
+      <li><a href="#" snippet-file="ucxn/French-GSD/Conditional-NegativeEpistemic_with_aux.req" class="inter">Conditional-NegativeEpistemic_with_aux</a></li>
+    </ul>
+  </div>
+</div>

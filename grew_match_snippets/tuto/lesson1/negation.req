@@ -1,0 +1,3 @@
+% Use negation on feature values
+
+pattern { X [ upos=VERB, VerbForm <> Fin|Inf ] }

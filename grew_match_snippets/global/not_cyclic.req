@@ -1,0 +1,3 @@
+% global filtering which keeps only graphs without any cycle
+
+pattern { global.is_not_cyclic }

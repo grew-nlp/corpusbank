@@ -1,0 +1,13 @@
+pattern {
+  _anchor_-[advcl]->P;
+  P-[mark]->SI;
+  SI[lemma=si, upos=SCONJ];
+}
+without { P-[advmod]->M; M[lemma="même"] }
+without { P->D }
+
+% commands {
+%   _anchor_.Cxn = "Conditional-NegativeEpistemic";
+%   _anchor_.CxnElt = "Apodosis@p";
+%   P.CxnElt = "Protasis@f"
+% }

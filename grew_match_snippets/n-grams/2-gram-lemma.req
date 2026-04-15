@@ -1,0 +1,3 @@
+% Search for bigrams of lemmas
+
+pattern { X1 [lemma="lemma1"]; X2 [lemma="lemma2"]; X1 < X2 }

@@ -1,0 +1,7 @@
+% a VMWE must contain at least 2 tokens
+
+pattern {
+  MWE [label <> NotMWE];
+  MWE -> X;
+}
+without { MWE -> Y }
