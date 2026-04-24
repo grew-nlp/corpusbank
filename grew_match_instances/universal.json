@@ -911,7 +911,17 @@
       "SUD_Ika@tree",
       "wSUD_Ika@tree",
 
-      "mSUD_Ginyanga-Autogramm@latest"
+      "mSUD_Ginyanga-Autogramm@latest",
+
+      "SUD_Efik-AfriSUD@latest",
+      "SUD_Hausa-AfriSUD@latest",
+      "SUD_isiXhosa-AfriSUD@latest",
+      "SUD_Kinyarwanda-AfriSUD@latest",
+      "SUD_Naija-AfriSUD@latest",
+      "SUD_Runyankore-AfriSUD@latest",
+      "SUD_Swahili-AfriSUD@latest",
+      "SUD_Wolof-AfriSUD@latest",
+      "SUD_Yoruba-AfriSUD@latest"
 
     ]
   },
@@ -957,7 +967,17 @@
       "UD_Mandarin-DiLSi@conv",
 
       "elexis-wsd-et",
-      "elexis-wsd-nl"
+      "elexis-wsd-nl",
+
+      "UD_Efik-AfriSUD@conv",
+      "UD_Hausa-AfriSUD@conv",
+      "UD_isiXhosa-AfriSUD@conv",
+      "UD_Kinyarwanda-AfriSUD@conv",
+      "UD_Naija-AfriSUD@conv",
+      "UD_Runyankore-AfriSUD@conv",
+      "UD_Swahili-AfriSUD@conv",
+      "UD_Wolof-AfriSUD@conv",
+      "UD_Yoruba-AfriSUD@conv"
     ]
   },
 

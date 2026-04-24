@@ -1,0 +1,146 @@
+[
+  {
+    "id": "UD_Efik-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "efi",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/efi",
+    "src": "SUD_Efik-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Efik-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "UD_Hausa-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "ha",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/hau",
+    "src": "SUD_Hausa-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Hausa-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "UD_isiXhosa-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "ud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/xho",
+    "src": "SUD_isiXhosa-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_isiXhosa-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+
+  {
+    "id": "UD_Kinyarwanda-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "ud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/kin",
+    "src": "SUD_Kinyarwanda-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Kinyarwanda-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "UD_Naija-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "pcm",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/pcm",
+    "src": "SUD_Naija-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Naija-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "UD_Runyankore-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "ud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/nyn",
+    "src": "SUD_Runyankore-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Runyankore-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "UD_Swahili-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "ud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/swa",
+    "src": "SUD_Swahili-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Swahili-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "SUD_Wolof-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "wo",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/wol",
+    "src": "SUD_Wolof-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Wolof-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  },
+
+  {
+    "id": "UD_Yoruba-AfriSUD@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "yo",
+    "dynamic": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/yor",
+    "src": "SUD_Yoruba-AfriSUD@latest",
+    "grs": "${GRSROOT}/converter/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Yoruba-AfriSUD@latest"
+    ],
+    "text_from_tokens": true
+  }
+]
