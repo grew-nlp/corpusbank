@@ -1,5 +1,20 @@
 [
   {
+    "id": "yarn",
+    "name": "YARN",
+    "mode": "semantics",
+    "style": "left_pane",
+    "snippets": "yarn",
+    "default": "yarn_pud_100",
+    "corpora": [
+      "yarn_pud_100",
+      "yarn_pmb_025",
+      "yarn_lpp",
+      "yarn_chap3",
+      "yarn_chap4"
+    ]
+  },
+  {
     "id": "amr",
     "name": "AMR",
     "mode": "semantics",
