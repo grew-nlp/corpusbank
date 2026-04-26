@@ -90,12 +90,12 @@
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-LinES"
     },
     {
-      "id": "UD_English-LittelPrince@dev",
+      "id": "UD_English-LittlePrince@dev",
       "lang": "en",
       "config": "ud",
       "dynamic": true,
-      "github": "https://github.com/UniversalDependencies/UD_English-LittelPrince/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-LittelPrince"
+      "github": "https://github.com/UniversalDependencies/UD_English-LittlePrince/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-LittlePrince"
     },
     {
       "id": "UD_English-ParTUT@dev",
