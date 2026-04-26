@@ -23,6 +23,40 @@
       "github": "https://github.com/UniversalDependencies/UD_Egyptian-PC/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Egyptian-PC"
     },
+
+
+    {
+      "id": "UD_English-Atis@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-Atis/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-Atis"
+    },
+    {
+      "id": "UD_English-CHILDES@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-CHILDES/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-CHILDES"
+    },
+    {
+      "id": "UD_English-CTeTex@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-CTeTex/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-CTeTex"
+    },
+    {
+      "id": "UD_English-ESLSpok@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-ESLSpok/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-ESLSpok"
+    },
     {
       "id": "UD_English-EWT@dev",
       "lang": "en",
@@ -32,6 +66,14 @@
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-EWT"
     },
     {
+      "id": "UD_English-GENTLE@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-GENTLE/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-GENTLE"
+    },
+    {
       "id": "UD_English-GUM@dev",
       "config": "ud",
       "lang": "en",
@@ -39,6 +81,48 @@
       "github": "https://github.com/UniversalDependencies/UD_English-GUM/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-GUM"
     },
+    {
+      "id": "UD_English-LinES@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-LinES/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-LinES"
+    },
+    {
+      "id": "UD_English-LittelPrince@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-LittelPrince/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-LittelPrince"
+    },
+    {
+      "id": "UD_English-ParTUT@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-ParTUT/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-ParTUT"
+    },
+    {
+      "id": "UD_English-Pronouns@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-Pronouns/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-Pronouns"
+    },
+    {
+      "id": "UD_English-PUD@dev",
+      "lang": "en",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_English-PUD/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_English-PUD"
+    },
+
+
     {
       "id": "UD_French-FQB@dev",
       "lang": "fr",
