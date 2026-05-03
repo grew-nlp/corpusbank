@@ -6,6 +6,7 @@
     "style": "left_pane",
     "snippets": "yarn",
     "default": "yarn_pud_100",
+    "yarn_display": true,
     "corpora": [
       "yarn_pud_100",
       "yarn_pmb_025",
