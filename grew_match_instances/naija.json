@@ -25,9 +25,9 @@
 		"id": "Naija prosody",
 		"mode": "syntax",
 		"snippets": "prosody",
-		"default": "SUD_Naija-NSC-prosody",
+		"default": "SUD_Naija-NSC@prosody",
 		"style": "single",
-		"corpora": [ "SUD_Naija-NSC-prosody" ]
+		"corpora": [ "SUD_Naija-NSC@prosody" ]
 	} 
 ]
 
