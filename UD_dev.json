@@ -300,6 +300,17 @@
       "gitlab": "https://gitlab.huma-num.fr/clle/ud_french-ecalm-coref/",
       "directory": "${RESOURCES}/gitlab.huma-num.fr/clle/ud_french-ecalm-coref"
     },
+
+    {
+      "id": "UD_French-ECALM@main",
+      "lang": "fr",
+      "config": "ud",
+      "validation": "ud",
+      "dynamic": true,
+      "gitlab": "https://gitlab.huma-num.fr/clle/UD_French-ECALM/",
+      "directory": "${RESOURCES}/gitlab.huma-num.fr/clle/UD_French-ECALM/conllu"
+    },
+
     {
       "id": "UD_Quechua_qwh",
       "lang": "qwh",
