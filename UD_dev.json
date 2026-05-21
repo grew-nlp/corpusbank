@@ -279,58 +279,5 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Wolof-WTB/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Wolof-WTB"
-    },
-
-
-    {
-      "id": "CRISCO_CorAG@main",
-      "lang": "fro",
-      "config": "ud",
-      "dynamic": true,
-      "github": "https://github.com/Corpus-Diachroniques-CRISCO/CorAG",
-      "directory": "${RESOURCES}/github.com/Corpus-Diachroniques-CRISCO/CorAG"
-    },
-
-    {
-      "id": "UD_French-ECALM-coref@main",
-      "lang": "fr",
-      "config": "ud",
-      "validation": "ud",
-      "dynamic": true,
-      "gitlab": "https://gitlab.huma-num.fr/clle/ud_french-ecalm-coref/",
-      "directory": "${RESOURCES}/gitlab.huma-num.fr/clle/ud_french-ecalm-coref"
-    },
-
-    {
-      "id": "UD_French-ECALM@main",
-      "lang": "fr",
-      "config": "ud",
-      "validation": "ud",
-      "dynamic": true,
-      "gitlab": "https://gitlab.huma-num.fr/clle/UD_French-ECALM/",
-      "directory": "${RESOURCES}/gitlab.huma-num.fr/clle/UD_French-ECALM/conllu"
-    },
-
-    {
-      "id": "UD_Quechua_qwh",
-      "lang": "qwh",
-      "config": "ud",
-      "validation": "ud",
-      "github": "https://github.com/rumiwarmi/UD_Quechua_qwh",
-      "directory": "${RESOURCES}/github.com/rumiwarmi/UD_Quechua_qwh"
-    },
-    {
-      "id": "UD_Hebrew-PostRab@dev",
-      "lang": "he",
-      "config": "ud",
-      "validation": "ud",
-      "dynamic": true,
-      "rtl": true,
-      "github": "https://github.com/ERC-Midrash/UD_Hebrew-PostRab#",
-      "directory": "${RESOURCES}/github.com/ERC-Midrash/UD_Hebrew-PostRab",
-      "parallels": [
-        "SUD_Hebrew-PostRab@conv"
-      ]
-
     }
   ]

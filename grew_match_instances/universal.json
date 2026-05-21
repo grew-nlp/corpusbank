@@ -800,6 +800,7 @@
       "CRISCO_CorAG@main",
       "UD_French-ECALM-coref@main",
       "UD_French-ECALM@main",
+      "LIDILEM_scoledit",
       "svt-2022_10K",
       "UD_Quechua_qwh",
       "UD_Hebrew-PostRab@dev",
