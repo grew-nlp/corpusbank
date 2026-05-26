@@ -106,6 +106,17 @@
   },
 
   {
+    "id": "SUD_Hausa-EasternAutogramm@latest",
+    "lang": "ha",
+    "config": "sud",
+    "validation": "sud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm",
+    "github": "https://github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm/issues/new",
+    "parallels": ["UD_Hausa-EasternAutogramm@conv"]
+  },
+  {
     "id": "SUD_Hausa-NorthernAutogramm@latest",
     "lang": "ha",
     "config": "sud",

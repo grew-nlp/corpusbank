@@ -1,4 +1,71 @@
 [
+
+
+
+
+  {
+    "id": "mSUD_Hausa-EasternAutogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "ha",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm/issues/new",
+    "parallels": [
+    ]
+  },
+  {
+    "id": "mSUD_Hausa-NorthernAutogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "ha",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm/issues/new",
+    "parallels": [
+    ]
+  },
+  {
+    "id": "mSUD_Hausa-SouthernAutogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "ha",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm/issues/new",
+    "parallels": [
+    ]
+  },
+  {
+    "id": "mSUD_Hausa-WesternAutogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "ha",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm/issues/new",
+    "parallels": [
+    ]
+  },
+
+  {
+    "id": "mSUD_Zaar-Autogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "say",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Zaar-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Zaar-Autogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Zaar-Autogramm/issues/new",
+    "parallels": [
+    ]
+  },
+
+
   {
     "id": "mSUD_Bokota-ChibErgIS@latest",
     "config": "sud",

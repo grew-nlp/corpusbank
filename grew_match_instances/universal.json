@@ -829,6 +829,7 @@
       "SUD_French-Sequoia@latest",
       "SUD_French_Sign_Language-STKAutogramm@latest",
       "SUD_Haitian_Creole-Autogramm@latest",
+      "SUD_Hausa-EasternAutogramm@latest",
       "SUD_Hausa-SouthernAutogramm@latest",
       "SUD_Hausa-NorthernAutogramm@latest",
       "SUD_Hausa-WesternAutogramm@latest",
@@ -842,6 +843,12 @@
       "wSUD_Pesh-ChibErgIS@latest",
       "SUD_Zaar-Autogramm@latest",
 
+      "mSUD_Hausa-EasternAutogramm@latest",
+      "mSUD_Hausa-SouthernAutogramm@latest",
+      "mSUD_Hausa-NorthernAutogramm@latest",
+      "mSUD_Hausa-WesternAutogramm@latest",
+      "mSUD_Zaar-Autogramm@latest",
+
       "mSUD_Bokota-ChibErgIS@latest",
       "SUD_Bokota-ChibErgIS@latest",
       "SUD_Darija-Autogramm@latest",
@@ -853,7 +860,6 @@
       "SUD_French-FTB@latest",
       "SEQ_French-FTB",
 
-      "SUD_Hausa-EasternAutogramm@latest",
       "SUD_Igbo-Masakhane",
       "mSUD_Ika-ChibErgIS@latest",
       "SUD_Ika-ChibErgIS@latest",
