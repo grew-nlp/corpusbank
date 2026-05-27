@@ -163,7 +163,6 @@
     "parallels": [
       "UD_Arabic-PADT@2.18"
     ],
-    "enhanced": true,
     "rtl": true
   },
   {
@@ -256,8 +255,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Belarusian-HSE",
     "parallels": [
       "UD_Belarusian-HSE@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Bengali-BRU@2.18",
@@ -311,8 +309,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bulgarian-BTB",
     "parallels": [
       "UD_Bulgarian-BTB@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Buryat-BDT@2.18",
@@ -357,8 +354,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Catalan-AnCora",
     "parallels": [
       "UD_Catalan-AnCora@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Cebuano-GJA@2.18",
@@ -430,8 +426,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chintang-CTNTB",
     "parallels": [
       "UD_Chintang-CTNTB@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Chukchi-HSE@2.18",
@@ -440,8 +435,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chukchi-HSE",
     "parallels": [
       "UD_Chukchi-HSE@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Classical_Armenian-CAVaL@2.18",
@@ -504,8 +498,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-CAC",
     "parallels": [
       "UD_Czech-CAC@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-CLTT@2.18",
@@ -514,8 +507,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-CLTT",
     "parallels": [
       "UD_Czech-CLTT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-FicTree@2.18",
@@ -524,8 +516,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-FicTree",
     "parallels": [
       "UD_Czech-FicTree@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-PDTC@2.18",
@@ -534,8 +525,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-PDTC",
     "parallels": [
       "UD_Czech-PDTC@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-Poetry@2.18",
@@ -553,8 +543,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-PUD",
     "parallels": [
       "UD_Czech-PUD@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Danish-DDT@2.18",
@@ -572,8 +561,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Dutch-Alpino",
     "parallels": [
       "UD_Dutch-Alpino@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Dutch-LassySmall@2.18",
@@ -582,8 +570,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Dutch-LassySmall",
     "parallels": [
       "UD_Dutch-LassySmall@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Egyptian-PC@2.18",
@@ -610,8 +597,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-CHILDES",
     "parallels": [
       "UD_English-CHILDES@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-CTeTex@2.18",
@@ -638,8 +624,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-EWT",
     "parallels": [
       "UD_English-EWT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-GENTLE@2.18",
@@ -648,8 +633,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-GENTLE",
     "parallels": [
       "UD_English-GENTLE@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-GUM@2.18",
@@ -658,8 +642,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-GUM",
     "parallels": [
       "UD_English-GUM@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-GUMReddit@2.18",
@@ -669,7 +652,6 @@
     "parallels": [
       "UD_English-GUMReddit@2.18"
     ],
-    "enhanced": true,
     "no_word": true
   },
   {
@@ -715,8 +697,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-PUD",
     "parallels": [
       "UD_English-PUD@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Erzya-JR@2.18",
@@ -752,8 +733,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Estonian-EDT",
     "parallels": [
       "UD_Estonian-EDT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Estonian-EWT@2.18",
@@ -762,8 +742,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Estonian-EWT",
     "parallels": [
       "UD_Estonian-EWT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Faroese-FarPaHC@2.18",
@@ -808,8 +787,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Finnish-PUD",
     "parallels": [
       "UD_Finnish-PUD@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Finnish-TDT@2.18",
@@ -818,8 +796,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Finnish-TDT",
     "parallels": [
       "UD_Finnish-TDT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_French-ALTS@2.18",
@@ -1129,8 +1106,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Highland_Puebla_Nahuatl-ITML",
     "parallels": [
       "UD_Highland_Puebla_Nahuatl-ITML@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Hindi-HDTB@2.18",
@@ -1265,8 +1241,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-ISDT",
     "parallels": [
       "UD_Italian-ISDT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Italian-KIParlaForest@2.18",
@@ -1293,8 +1268,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-Old",
     "parallels": [
       "UD_Italian-Old@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Italian-ParlaMint@2.18",
@@ -1485,8 +1459,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Khoekhoe-KDT",
     "parallels": [
       "UD_Khoekhoe-KDT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Kiche-IU@2.18",
@@ -1558,8 +1531,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Korean-LittlePrince",
     "parallels": [
       "UD_Korean-LittlePrince@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Korean-PUD@2.18",
@@ -1595,8 +1567,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latgalian-Cairo",
     "parallels": [
       "UD_Latgalian-Cairo@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Latin-CIRCSE@2.18",
@@ -1659,8 +1630,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latvian-Cairo",
     "parallels": [
       "UD_Latvian-Cairo@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Latvian-LVTB@2.18",
@@ -1669,8 +1639,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latvian-LVTB",
     "parallels": [
       "UD_Latvian-LVTB@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Ligurian-GLT@2.18",
@@ -1688,8 +1657,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Lithuanian-ALKSNIS",
     "parallels": [
       "UD_Lithuanian-ALKSNIS@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Lithuanian-HSE@2.18",
@@ -1869,8 +1837,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Naga-Suansu",
     "parallels": [
       "UD_Naga-Suansu@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Neapolitan-RB@2.18",
@@ -2162,8 +2129,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-LFG",
     "parallels": [
       "UD_Polish-LFG@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Polish-MPDT@2.18",
@@ -2172,8 +2138,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-MPDT",
     "parallels": [
       "UD_Polish-MPDT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Polish-PDB@2.18",
@@ -2182,8 +2147,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-PDB",
     "parallels": [
       "UD_Polish-PDB@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Polish-PUD@2.18",
@@ -2192,8 +2156,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-PUD",
     "parallels": [
       "UD_Polish-PUD@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Pomak-Philotis@2.18",
@@ -2247,8 +2210,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-Porttinari",
     "parallels": [
       "UD_Portuguese-Porttinari@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Portuguese-PUD@2.18",
@@ -2366,8 +2328,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Russian-SynTagRus",
     "parallels": [
       "UD_Russian-SynTagRus@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Russian-Taiga@2.18",
@@ -2385,8 +2346,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ruuli-RDT",
     "parallels": [
       "UD_Ruuli-RDT@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Sanskrit-UFAL@2.18",
@@ -2486,8 +2446,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Slovak-SNK",
     "parallels": [
       "UD_Slovak-SNK@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Slovenian-SSJ@2.18",
@@ -2543,8 +2502,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Spanish-AnCora",
     "parallels": [
       "UD_Spanish-AnCora@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Spanish-COSER@2.18",
@@ -2607,8 +2565,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-PUD",
     "parallels": [
       "UD_Swedish-PUD@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Swedish-SweLL@2.18",
@@ -2626,8 +2583,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-Talbanken",
     "parallels": [
       "UD_Swedish-Talbanken@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Tagalog-TRG@2.18",
@@ -2663,8 +2619,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tamil-TTB",
     "parallels": [
       "UD_Tamil-TTB@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Tatar-NMCTT@2.18",
@@ -2853,8 +2808,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ukrainian-IU",
     "parallels": [
       "UD_Ukrainian-IU@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Ukrainian-ParlaMint@2.18",
@@ -2992,8 +2946,7 @@
     "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Western_Sierra_Puebla_Nahuatl-MesoTree",
     "parallels": [
       "UD_Western_Sierra_Puebla_Nahuatl-MesoTree@2.18"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Wolof-WTB@2.18",
