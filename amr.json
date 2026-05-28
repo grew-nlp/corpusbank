@@ -166,5 +166,16 @@
 		"files": ["pinocchio_uk_ch1_amr_gold.txt"],
 		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/ukrainian",
 		"parallels": ["Pinocchio_uk_silver"]
+	},
+
+
+
+	{
+		"id": "Persian-AMR",
+		"directory": "${RESOURCES}/github.com/bguil/Persian-AMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["PAMR - Little Prince.txt"],
+		"url": "https://github.com/bguil/Persian-AMR"
 	}
 ]
