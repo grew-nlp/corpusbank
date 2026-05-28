@@ -93,5 +93,78 @@
 		"display": -1,
 		"files": ["ding1-1.amr"],
 		"url": "https://zenodo.org/records/15537426"
+	},
+
+
+
+
+
+
+
+	{
+		"id": "Pinocchio_bg_silver",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/bulgarian",
+		"kind": "amr",
+		"display": -1,
+		"files": ["bg_pinocchio_ch1_amr_bart-large.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/bulgarian",
+		"parallels": ["Pinocchio_bg_gold"]
+	},
+  {
+		"id": "Pinocchio_bg_gold",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/bulgarian",
+		"kind": "amr",
+		"display": -1,
+		"files": ["pinocchio_bg_ch1_amr_gold.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/bulgarian",
+		"parallels": ["Pinocchio_bg_silver"]
+	},
+
+
+	{
+		"id": "Pinocchio_en_silver",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/english",
+		"kind": "amr",
+		"display": -1,
+		"files": ["en_pinocchio_ch1_amr_bart-large.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/english"
+	},
+
+	{
+		"id": "Pinocchio_fr_silver",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/french",
+		"kind": "amr",
+		"display": -1,
+		"files": ["fr_pinocchio_ch1_amr_bart-large.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/french"
+	},
+
+	{
+		"id": "Pinocchio_hu_silver",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/hungarian",
+		"kind": "amr",
+		"display": -1,
+		"files": ["hu_pinocchio_ch1_amr_bart-large.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/hungarian"
+	},
+
+
+  {
+		"id": "Pinocchio_uk_silver",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/ukrainian",
+		"kind": "amr",
+		"display": -1,
+		"files": ["pinocchio_uk_ch1_amr_bart-large.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/ukrainian",
+		"parallels": ["Pinocchio_uk_gold"]
+	},
+  {
+		"id": "Pinocchio_uk_gold",
+		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/ukrainian",
+		"kind": "amr",
+		"display": -1,
+		"files": ["pinocchio_uk_ch1_amr_gold.txt"],
+		"url": "https://github.com/YARN-World/YARN_Pinocchio/tree/main/Pinocchio_AMR_Corpus/ukrainian",
+		"parallels": ["Pinocchio_uk_silver"]
 	}
 ]
