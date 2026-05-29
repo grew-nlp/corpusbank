@@ -1,4 +1,17 @@
 [
+
+
+  {
+    "id": "SUD_Samba_Leko-Autogramm@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "ndi",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Samba_Leko-Autogramm",
+    "parallels": []
+  },
+
   {
     "id": "SUD_French-Rhapsodie@db",
     "config": "sud",
