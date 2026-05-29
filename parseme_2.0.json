@@ -1,0 +1,116 @@
+[
+  {
+    "id": "PARSEME-EGY@2.0",
+    "config": "ud",
+    "lang": "egy",
+    "directory": "${RESOURCES}/PARSEME/2.0/EGY",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-FA@2.0",
+    "config": "ud",
+    "lang": "fa",
+    "directory": "${RESOURCES}/PARSEME/2.0/FA",
+    "files": ".cupt",
+    "rtl": true
+  },
+  {
+    "id": "PARSEME-FR@2.0",
+    "config": "ud",
+    "lang": "fr",
+    "directory": "${RESOURCES}/PARSEME/2.0/FR",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-GRC@2.0",
+    "config": "ud",
+    "lang": "grc",
+    "directory": "${RESOURCES}/PARSEME/2.0/GRC",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-HE@2.0",
+    "config": "ud",
+    "lang": "he",
+    "directory": "${RESOURCES}/PARSEME/2.0/HE",
+    "files": ".cupt",
+    "rtl": true
+  },
+  {
+    "id": "PARSEME-JA@2.0",
+    "config": "ud",
+    "lang": "ja",
+    "directory": "${RESOURCES}/PARSEME/2.0/JA",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-KA@2.0",
+    "config": "ud",
+    "lang": "ka",
+    "directory": "${RESOURCES}/PARSEME/2.0/KA",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-LV@2.0",
+    "config": "ud",
+    "lang": "lv",
+    "directory": "${RESOURCES}/PARSEME/2.0/LV",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-NL@2.0",
+    "config": "ud",
+    "lang": "nl",
+    "directory": "${RESOURCES}/PARSEME/2.0/NL",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-PL@2.0",
+    "config": "ud",
+    "lang": "pl",
+    "directory": "${RESOURCES}/PARSEME/2.0/PL",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-PT@2.0",
+    "config": "ud",
+    "lang": "pt",
+    "directory": "${RESOURCES}/PARSEME/2.0/PT",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-RO@2.0",
+    "config": "ud",
+    "lang": "ro",
+    "directory": "${RESOURCES}/PARSEME/2.0/RO",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-SL@2.0",
+    "config": "ud",
+    "lang": "sl",
+    "directory": "${RESOURCES}/PARSEME/2.0/SL",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-SR@2.0",
+    "config": "ud",
+    "lang": "sr",
+    "directory": "${RESOURCES}/PARSEME/2.0/SR",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-SV@2.0",
+    "config": "ud",
+    "lang": "sv",
+    "directory": "${RESOURCES}/PARSEME/2.0/SV",
+    "files": ".cupt"
+  },
+  {
+    "id": "PARSEME-UK@2.0",
+    "config": "ud",
+    "lang": "uk",
+    "directory": "${RESOURCES}/PARSEME/2.0/UK",
+    "files": ".cupt"
+  }
+]
