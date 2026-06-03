@@ -18,15 +18,5 @@
     "grs": "${GRSROOT}/rewrite/rm_mwt.grs",
     "dynamic": true,
     "parallels": ["SUD_French-GSD@latest"]
-  },
-  {
-    "id": "SUD_French-ParisStories@rm_mwt",
-    "config": "sud",
-    "lang": "fr",
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_French-ParisStories@rm_mwt",
-    "src": "SUD_French-ParisStories@latest",
-    "grs": "${GRSROOT}/rewrite/rm_mwt.grs",
-    "dynamic": true,
-    "parallels": ["SUD_French-ParisStories@latest"]
   }
 ]

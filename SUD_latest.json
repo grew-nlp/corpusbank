@@ -33,13 +33,13 @@
     ]
   },
   {
-    "id": "SUD_French-Rhapsodie@p_words",
+    "id": "SUD_French-Rhapsodie@s_words",
     "config": "sud",
     "validation": "sud",
     "lang": "fr",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/p_words",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/s_words",
     "parallels": [
       "SUD_French-Rhapsodie@latest",
       "pSUD_French-Rhapsodie@latest"
