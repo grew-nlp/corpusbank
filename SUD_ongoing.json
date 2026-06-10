@@ -9,6 +9,7 @@
     "audio": true,
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Samba_Leko-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/SUD_Samba_Leko-Autogramm",
     "parallels": []
   },
 
@@ -119,5 +120,16 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Breton-KEBAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Breton-KEBAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Breton-KEBAutogramm/issues/new"
+  },
+
+
+  {
+    "id": "SUD_French-Emotive",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "fr",
+    "dynamic": true,
+    "directory": "${RESOURCES}/SUD_French-Emotive"
   }
+
 ]
