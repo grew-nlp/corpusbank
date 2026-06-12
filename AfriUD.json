@@ -113,7 +113,7 @@
   },
 
   {
-    "id": "SUD_Wolof-AfriSUD@conv",
+    "id": "UD_Wolof-AfriSUD@conv",
     "config": "ud",
     "validation": "ud",
     "lang": "wo",
