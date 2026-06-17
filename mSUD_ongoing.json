@@ -12,6 +12,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm/issues/new",
+    "arborator_grew": "mSUD_Hausa-EasternAutogramm",
     "parallels": [
     ]
   },
@@ -24,6 +25,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm/issues/new",
+    "arborator_grew": "mSUD_Hausa-NorthernAutogramm",
     "parallels": [
     ]
   },
@@ -36,6 +38,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm/issues/new",
+    "arborator_grew": "mSUD_Hausa-SouthernAutogramm",
     "parallels": [
     ]
   },
@@ -48,6 +51,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm/issues/new",
+    "arborator_grew": "mSUD_Hausa-WesternAutogramm",
     "parallels": [
     ]
   },
@@ -61,6 +65,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Zaar-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Zaar-Autogramm",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Zaar-Autogramm/issues/new",
+    "arborator_grew": "mSUD_Zaar-Autogramm",
     "parallels": [
     ]
   },

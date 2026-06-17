@@ -11,6 +11,7 @@
     "grs": "${GRSROOT}/converter/grs/bej_SUD_to_UD.grs",
     "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
+    "arborator_grew": "mSUD_Beja-Autogramm",
     "parallels": [
       "mSUD_Beja-Autogramm@latest",
       "SUD_Beja-Autogramm@latest"

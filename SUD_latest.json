@@ -9,6 +9,7 @@
     "github": "https://github.com/surfacesyntacticud/SUD_French-GSD",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-GSD/issues/new",
+    "arborator_grew": "SUD_French-GSD",
     "parallels": [
       "UD_French-GSD@conv"
     ]
@@ -25,6 +26,7 @@
     "github": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-Rhapsodie/issues/new",
+    "arborator_grew": "SUD-French-spoken-all",
     "parallels": [
       "UD_French-Rhapsodie@conv",
       "SUD_French-Rhapsodie@latest",
@@ -57,6 +59,7 @@
     "github": "https://github.com/surfacesyntacticud/SUD_French-ParisStories",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-ParisStories/issues/new",
+    "arborator_grew": "SUD-French-spoken-all",
     "parallels": [
       "UD_French-ParisStories@conv"
     ]
@@ -71,6 +74,7 @@
     "github": "https://github.com/surfacesyntacticud/SUD_French-Sequoia",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_French-Sequoia/issues/new",
+    "arborator_grew": "SUD_French-Sequoia",
     "parallels": [
       "UD_French-Sequoia@conv"
     ]
@@ -85,6 +89,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm/issues/new",
+    "arborator_grew": "LSF",
     "parallels": [
       "UD_French_Sign_Language-STKAutogramm@conv"
     ]
@@ -114,6 +119,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-EasternAutogramm/issues/new",
+    "arborator_grew": "SUD_Hausa-EasternAutogramm",
     "parallels": ["UD_Hausa-EasternAutogramm@conv"]
   },
   {
@@ -126,6 +132,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-NorthernAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Hausa-NorthernAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-NorthernAutogramm/issues/new",
+    "arborator_grew": "SUD_Hausa-NorthernAutogramm",
     "parallels": ["UD_Hausa-NorthernAutogramm@conv"]
   },
   {
@@ -137,6 +144,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-SouthernAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Hausa-SouthernAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-SouthernAutogramm/issues/new",
+    "arborator_grew": "SUD_Hausa-SouthernAutogramm",
     "parallels": ["UD_Hausa-SouthernAutogramm@conv"]
   },
   {
@@ -148,6 +156,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_Hausa-WesternAutogramm/issues/new",
+    "arborator_grew": "SUD_Hausa-WesternAutogramm",
     "parallels": ["UD_Hausa-WesternAutogramm@conv"]
   },
 
@@ -178,6 +187,7 @@
     "github": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/zaar/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm/issues/new",
+    "arborator": "SUD_Zaar-Autogramm",
     "parallels": [
       "UD_Zaar-Autogramm@conv"
     ]
