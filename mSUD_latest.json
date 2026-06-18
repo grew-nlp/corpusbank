@@ -10,6 +10,7 @@
     "github": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/beja/",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm/issues/new",
+    "arborator_grew": "mSUD_Beja-Autogramm",
     "parallels": [
       "UD_Beja-Autogramm@conv",
       "SUD_Beja-Autogramm@latest"

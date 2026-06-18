@@ -187,7 +187,7 @@
     "github": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/zaar/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Zaar-Autogramm/issues/new",
-    "arborator": "SUD_Zaar-Autogramm",
+    "arborator_grew": "SUD_Zaar-Autogramm",
     "parallels": [
       "UD_Zaar-Autogramm@conv"
     ]
