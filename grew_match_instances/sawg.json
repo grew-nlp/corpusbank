@@ -36,15 +36,6 @@
   },
   
   {
-    "id": "dmrs",
-    "name": "DMRS",
-    "mode": "semantics",
-    "style": "dropdown",
-    "default": "dmrs_appos",
-    "corpora": [ "dmrs_appos" ]
-  },
-  
-  {
     "id": "ln",
     "name": "Lexical Networks",
     "mode": "lexical_network",
@@ -70,15 +61,6 @@
       "UCCA_English-LPP",
       "UCCA_English-Wiki"
     ]
-  },
-  
-  {
-    "id": "tml",
-    "name": "FR-TimeBank",
-    "mode": "syntax",
-    "style": "dropdown",
-    "default": "FR-TimeBank",
-    "corpora": [ "FR-TimeBank" ]
   },
   
   {

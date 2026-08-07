@@ -65,21 +65,5 @@
     "files": [
       "lpp.drs.json"
     ]
-  },
-  
-  
-  
-  
-  {
-    "id": "dmrs_appos",
-    "kind": "dmrs",
-    "directory": "${RESOURCES}/semantics/dmrs"
-  },
-  
-  {
-    "id": "FR-TimeBank",
-    "kind": "json",
-    "directory": "${RESOURCES}/FR-TimeBank"
-  }
-  
+  }  
 ]
