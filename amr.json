@@ -177,5 +177,16 @@
 		"display": -1,
 		"files": ["PAMR - Little Prince.txt"],
 		"url": "https://github.com/bguil/Persian-AMR"
+	},
+
+	{
+		"id": "ParallelUD-AMR",
+		"lang": "en",
+		"directory": "${RESOURCES}/github.com/Orange-OpenSource/ParallelUD-AMR",
+		"kind": "amr",
+		"display": -1,
+		"files": ["data/parallelUD-AMR.txt"],
+		"url": "https://github.com/Orange-OpenSource/ParallelUD-AMR"
 	}
+
 ]
