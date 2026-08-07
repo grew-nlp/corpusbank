@@ -1,9 +1,9 @@
 [
   {
     "id": "SUD_Efik-AfriSUD@latest",
+    "lang": "efi",
     "config": "sud",
     "validation": "sud",
-    "lang": "efi",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/efi",
     "parallels": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "SUD_Hausa-AfriSUD@latest",
+    "lang": "ha",
     "config": "sud",
     "validation": "sud",
-    "lang": "ha",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/hau",
     "parallels": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "SUD_isiXhosa-AfriSUD@latest",
+    "lang": "xho",
     "config": "sud",
     "validation": "sud",
-    "lang": "xho",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/xho",
     "parallels": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "SUD_Kinyarwanda-AfriSUD@latest",
+    "lang": "kin",
     "config": "sud",
     "validation": "sud",
-    "lang": "kin",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/kin",
     "parallels": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "SUD_Naija-AfriSUD@latest",
+    "lang": "pcm",
     "config": "sud",
     "validation": "sud",
-    "lang": "pcm",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/pcm",
     "parallels": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "SUD_Runyankore-AfriSUD@latest",
+    "lang": "nyn",
     "config": "sud",
     "validation": "sud",
-    "lang": "nyn",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/nyn",
     "parallels": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "SUD_Swahili-AfriSUD@latest",
+    "lang": "sw",
     "config": "sud",
     "validation": "sud",
-    "lang": "sw",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/swa",
     "parallels": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "SUD_Wolof-AfriSUD@latest",
+    "lang": "wo",
     "config": "sud",
     "validation": "sud",
-    "lang": "wo",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/wol",
     "parallels": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "SUD_Yoruba-AfriSUD@latest",
+    "lang": "yo",
     "config": "sud",
     "validation": "sud",
-    "lang": "yo",
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/yor",
     "parallels": [

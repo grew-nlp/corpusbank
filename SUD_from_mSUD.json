@@ -1,8 +1,8 @@
 [
   {
     "id": "SUD_Beja-Autogramm@latest",
-    "config": "beja",
     "lang": "bej",
+    "config": "beja",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm_latest",
     "src": "mSUD_Beja-Autogramm@latest",
@@ -17,8 +17,8 @@
   },
   {
     "id": "SUD_Beja-Autogramm@extended",
-    "config": "beja",
     "lang": "bej",
+    "config": "beja",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm_extended",
     "src": "mSUD_Beja-Autogramm@extended",
@@ -34,8 +34,8 @@
 
   {
     "id": "SUD_Bokota-ChibErgIS@latest",
-    "config": "sud",
     "lang": "sab",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota-ChibErgIS",
     "src": "mSUD_Bokota-ChibErgIS@latest",
@@ -49,8 +49,8 @@
   },
   {
     "id": "SUD_Bokota@tree",
-    "config": "sud",
     "lang": "sab",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota_tree",
     "src": "mSUD_Bokota@tree",
@@ -65,8 +65,8 @@
   },
   {
     "id": "wSUD_Bokota@tree",
-    "config": "sud",
     "lang": "sab",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Bokota_tree",
     "src": "mSUD_Bokota@tree",
@@ -81,8 +81,8 @@
   },
   {
     "id": "SUD_Ika@tree",
-    "config": "sud",
     "lang": "arh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika_tree",
     "src": "mSUD_Ika@tree",
@@ -97,8 +97,8 @@
   },
   {
     "id": "wSUD_Ika@tree",
-    "config": "sud",
     "lang": "arh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Ika_tree",
     "src": "mSUD_Ika@tree",
@@ -114,8 +114,8 @@
 
   {
     "id": "SUD_Chinese-Beginner@latest",
-    "config": "sud",
     "lang": "zh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Chinese-Beginner",
     "src": "mSUD_Chinese-Beginner@latest",
@@ -129,8 +129,8 @@
   },
   {
     "id": "SUD_Chinese-PatentChar@latest",
-    "config": "sud",
     "lang": "zh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Chinese-PatentChar",
     "src": "mSUD_Chinese-PatentChar@latest",
@@ -144,8 +144,8 @@
   },
   {
     "id": "SUD_Ika-ChibErgIS@latest",
-    "config": "sud",
     "lang": "arh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika-ChibErgIS",
     "src": "mSUD_Ika-ChibErgIS@latest",
@@ -159,12 +159,12 @@
   },
   {
     "id": "SUD_Northwest_Gbaya-Autogramm@latest",
-    "config": "sud",
     "lang": "gya",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Northwest_Gbaya-Autogramm@latest",
     "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/gya_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/gya/gya_mSUD_to_SUD.grs",
     "strat": "main",
     "text_from_tokens": true,
     "parallels": [
@@ -174,8 +174,8 @@
   },
   {
     "id": "SUD_Pesh-ChibErgIS@latest",
-    "config": "sud",
     "lang": "pay",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Pesh-ChibErgIS",
     "src": "mSUD_Pesh-ChibErgIS@latest",
@@ -189,8 +189,8 @@
   },
   {
     "id": "wSUD_Pesh-ChibErgIS@latest",
-    "config": "sud",
     "lang": "pay",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Pesh-ChibErgIS",
     "src": "mSUD_Pesh-ChibErgIS@latest",
@@ -205,8 +205,8 @@
 
   {
     "id": "SUD_Nenets-Tundra@latest",
-    "config": "sud",
     "lang": "yrk",
+    "config": "sud",
     "dynamic": true,
     "audio": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Nenets-Tundra",
@@ -224,8 +224,8 @@
 
   {
     "id": "SUD_Tuwari-Autogramm@latest",
-    "config": "sud",
     "lang": "tww",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Tuwari-Autogramm",
     "src": "mSUD_Tuwari-Autogramm@latest",
@@ -240,8 +240,8 @@
 
   {
     "id": "SUD_Taigi-DiLSi@latest",
-    "config": "sud",
     "lang": "zh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Taigi-DiLSi",
     "src": "mSUD_Taigi-DiLSi@latest",
@@ -256,8 +256,8 @@
   },
   {
     "id": "SUD_Teochew-DiLSi@latest",
-    "config": "sud",
     "lang": "zh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Teochew-DiLSi",
     "src": "mSUD_Teochew-DiLSi@latest",
@@ -272,8 +272,8 @@
   },
   {
     "id": "SUD_Mandarin-DiLSi@latest",
-    "config": "sud",
     "lang": "zh",
+    "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Mandarin-DiLSi",
     "src": "mSUD_Mandarin-DiLSi@latest",

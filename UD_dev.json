@@ -1,24 +1,24 @@
 [
     {
       "id": "UD_Bambara-CRB@dev",
-      "config": "ud",
       "lang": "bm",
+      "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Bambara-CRB/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Bambara-CRB"
     },
     {
       "id": "UD_Breton-KEB@dev",
-      "config": "ud",
       "lang": "br",
+      "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Breton-KEB/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Breton-KEB"
     },
     {
       "id": "UD_Egyptian-PC@dev",
-      "config": "ud",
       "lang": "en",
+      "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Egyptian-PC/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Egyptian-PC"

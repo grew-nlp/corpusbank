@@ -1,5 +1,6 @@
 [{
   "id": "cefc-gold",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/cefc-gold/data",
   "files": ".orfeo"
@@ -9,6 +10,7 @@
 
 {
   "id": "fleuron",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/fleuron",
   "audio": true,
@@ -16,6 +18,7 @@
 },
 {
   "id": "ofrom",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/ofrom",
   "audio": true,
@@ -23,6 +26,7 @@
 },
 {
   "id": "valibel",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/valibel",
   "audio": true,
@@ -30,6 +34,7 @@
 },
 {
   "id": "frenchoralnarrative",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/frenchoralnarrative",
   "audio": true,
@@ -37,6 +42,7 @@
 },
 {
   "id": "crfp",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/crfp",
   "audio": true,
@@ -44,6 +50,7 @@
 },
 {
   "id": "cfpb",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/cfpb",
   "audio": true,
@@ -51,6 +58,7 @@
 },
 {
   "id": "cfpp",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/cfpp",
   "audio": true,
@@ -58,6 +66,7 @@
 },
 {
   "id": "coralrom",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/coralrom",
   "audio": true,
@@ -65,6 +74,7 @@
 },
 {
   "id": "clapi",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/clapi",
   "audio": true,
@@ -72,6 +82,7 @@
 },
 {
   "id": "tufs",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/tufs",
   "audio": true,
@@ -79,6 +90,7 @@
 },
 {
   "id": "reunions-de-travail",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/reunions-de-travail",
   "audio": true,
@@ -86,6 +98,7 @@
 },
 {
   "id": "tcof",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/with_audio/tcof",
   "audio": true,
@@ -96,36 +109,42 @@
 
 {
   "id": "annodis",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/annodis",
   "files": ".orfeo"
 },
 {
   "id": "comere",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/comere",
   "files": ".orfeo"
 },
 {
   "id": "frantext",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/frantext",
   "files": ".orfeo"
 },
 {
   "id": "scientext",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/scientext",
   "files": ".orfeo"
 },
 {
   "id": "est-republicain",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/est-republicain",
   "files": ".orfeo"
 },
 {
   "id": "chambers-rostand",
+  "lang": "fr",
   "columns": "ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC ORFEO:START ORFEO:STOP ORFEO:SPEAKER",
   "directory": "${RESOURCES}/orfeo/chambers-rostand",
   "files": ".orfeo"

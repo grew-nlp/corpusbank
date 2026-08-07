@@ -1,6 +1,7 @@
 [
   {
     "id": "rl-fr",
+		"lang": "fr",
     "directory": "${RESOURCES}/RLF",
     "kind": "json",
     "display": 2,
@@ -8,6 +9,7 @@
   },
   {
     "id": "rl-fr_voc",
+		"lang": "fr",
     "directory": "${RESOURCES}/RLF",
     "kind": "json",
     "display": 2,
@@ -15,6 +17,7 @@
   },
   {
     "id": "JDM16K",
+		"lang": "fr",
     "directory": "${RESOURCES}/JDM16K",
     "kind": "json",
     "display": 0,

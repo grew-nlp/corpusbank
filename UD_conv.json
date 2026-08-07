@@ -313,7 +313,7 @@
     "lang": "gya",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
     "src": "SUD_Northwest_Gbaya-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/gya_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/gya/gya_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "gya_SUD_to_UD_main",
     "parallels": [

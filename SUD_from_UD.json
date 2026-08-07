@@ -1,14 +1,15 @@
 [
   {
     "id": "SUD_Bambara-CRB@conv",
-    "config": "sud",
     "lang": "bm",
+    "config": "sud",
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bambara-CRB",
     "src": "UD_Bambara-CRB@dev",
     "grs": "${GRSROOT}/converter/grs/UD_to_SUD.grs"
   },
   {
     "id": "SUD_Breton-KEB@conv",
+    "lang": "br",
     "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Breton-KEB",
@@ -18,6 +19,7 @@
   },
   {
     "id": "SUD_German-GSD@conv",
+    "lang": "de",
     "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_German-GSD",
@@ -27,6 +29,7 @@
   },
   {
     "id": "SUD_Wolof-WTB@conv",
+    "lang": "wo",
     "config": "sud",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Wolof-WTB",
@@ -36,6 +39,7 @@
   },
   {
     "id": "SUD_Hebrew-PostRab@conv",
+    "lang": "he",
     "config": "sud",
     "dynamic": true,
     "rtl": true,

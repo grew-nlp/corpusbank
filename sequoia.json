@@ -1,6 +1,7 @@
 [
   { 
     "id": "Sequoia_S@current",
+    "lang": "fr",
     "config": "sequoia",
     "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
     "files": [ "trunk/sequoia.surf.conll" ]
@@ -8,6 +9,7 @@
 
   { 
     "id": "Sequoia_SD@current",
+    "lang": "fr",
     "config": "sequoia",
     "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
     "files": [ "trunk/sequoia.deep_and_surf.conll" ]
@@ -15,6 +17,7 @@
 
   {
     "id": "Sequoia_SPF@current",
+      "lang": "fr",
     "config": "sequoia",
     "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
     "files": [ "trunk/sequoia.surf.parseme.frsemcor" ]
@@ -22,6 +25,7 @@
 
   {
     "id": "Sequoia_SDPF@current",
+      "lang": "fr",
     "config": "sequoia",
     "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
     "files": [ "trunk/sequoia.deep_and_surf.parseme.frsemcor" ]
@@ -29,12 +33,14 @@
 
   {
     "id": "Sequoia_UD-S@current",
+      "lang": "fr",
     "config": "ud",
     "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
     "files": [ "trunk/sequoia-ud.conllu" ]
   },
   {
     "id": "Sequoia_UD-SPF@current",
+      "lang": "fr",
     "config": "ud",
     "directory": "${RESOURCES}/gitlab.inria.fr/sequoia/deep-sequoia",
     "files": [ "trunk/sequoia-ud.parseme.frsemcor" ]

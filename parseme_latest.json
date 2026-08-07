@@ -1,6 +1,7 @@
 [
   {
     "id": "PARSEME-EGY@dev",
+    "lang": "egy",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -9,6 +10,7 @@
   },
   {
     "id": "PARSEME-EL@dev",
+    "lang": "el",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -17,6 +19,7 @@
   },
   {
     "id": "PARSEME-FA@dev",
+    "lang": "fa",
     "config": "ud",
     "files": ".cupt",
     "rtl": true,
@@ -26,6 +29,7 @@
   },
   {
     "id": "PARSEME-FR@dev",
+    "lang": "fr",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -35,6 +39,7 @@
   },
   {
     "id": "PARSEME-GRC@dev",
+    "lang": "grc",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -43,6 +48,7 @@
   },
   {
     "id": "PARSEME-HE@dev",
+    "lang": "he",
     "config": "ud",
     "files": ".cupt",
     "rtl": true,
@@ -52,6 +58,7 @@
   },
   {
     "id": "PARSEME-JA@dev",
+    "lang": "ja",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -60,6 +67,7 @@
   },
   {
     "id": "PARSEME-KA@dev",
+    "lang": "ka",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -68,6 +76,7 @@
   },
   {
     "id": "PARSEME-LV@dev",
+    "lang": "lv",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -76,6 +85,7 @@
   },
   {
     "id": "PARSEME-NL@dev",
+    "lang": "nl",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -85,6 +95,7 @@
   },
   {
     "id": "PARSEME-PL@dev",
+    "lang": "pl",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -93,6 +104,7 @@
   },
   {
     "id": "PARSEME-PT@dev",
+    "lang": "pt",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -102,6 +114,7 @@
   },
   {
     "id": "PARSEME-RO@dev",
+    "lang": "ro",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -110,6 +123,7 @@
   },
   {
     "id": "PARSEME-SL@dev",
+    "lang": "sl",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -118,6 +132,7 @@
   },
   {
     "id": "PARSEME-SR@dev",
+    "lang": "sr",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -126,6 +141,7 @@
   },
   {
     "id": "PARSEME-SV@dev",
+    "lang": "sv",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -134,6 +150,7 @@
   },
   {
     "id": "PARSEME-UK@dev",
+    "lang": "uk",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -151,6 +168,7 @@
 
   {
     "id": "PARSEME-AR@dev",
+    "lang": "ar",
     "config": "ud",
     "files": ".cupt",
     "rtl": true,
@@ -161,6 +179,7 @@
   },
   {
     "id": "PARSEME-BG@dev",
+    "lang": "bg",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -170,6 +189,7 @@
   },
   {
     "id": "PARSEME-CS@dev",
+    "lang": "cs",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -180,6 +200,7 @@
   },
   {
     "id": "PARSEME-DE@dev",
+    "lang": "de",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -189,6 +210,7 @@
   },
   {
     "id": "PARSEME-EN@dev",
+    "lang": "en",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -198,6 +220,7 @@
   },
   {
     "id": "PARSEME-ES@dev",
+    "lang": "es",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -207,6 +230,7 @@
   },
   {
     "id": "PARSEME-EU@dev",
+    "lang": "eu",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -216,6 +240,7 @@
   },
   {
     "id": "PARSEME-GA@dev",
+    "lang": "ga",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -225,6 +250,7 @@
   },
   {
     "id": "PARSEME-HI@dev",
+    "lang": "hi",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -234,6 +260,7 @@
   },
   {
     "id": "PARSEME-HR@dev",
+    "lang": "hr",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -243,6 +270,7 @@
   },
   {
     "id": "PARSEME-HU@dev",
+    "lang": "hu",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -252,6 +280,7 @@
   },
   {
     "id": "PARSEME-IT@dev",
+    "lang": "it",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -261,6 +290,7 @@
   },
   {
     "id": "PARSEME-LT@dev",
+    "lang": "lt",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -269,6 +299,7 @@
   },
   {
     "id": "PARSEME-MT@dev",
+    "lang": "mt",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -278,6 +309,7 @@
   },
   {
     "id": "PARSEME-SQ@dev",
+    "lang": "sq",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -286,6 +318,7 @@
   },
   {
     "id": "PARSEME-TR@dev",
+    "lang": "tr",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,
@@ -295,6 +328,7 @@
   },
   {
     "id": "PARSEME-ZH@dev",
+    "lang": "zh",
     "config": "ud",
     "files": ".cupt",
     "dynamic": true,

@@ -5,6 +5,7 @@
   
   {
     "id": "FraCaS-AMR",
+    "lang": "en",
     "directory": "${RESOURCES}/AMR",
     "kind": "amr",
     "display": -1,
@@ -16,22 +17,26 @@
   
   {
     "id": "SUD-FraCaS-fr",
+    "lang": "fr",
     "directory": "${RESOURCES}/FraCas-fr/syntax",
     "files": ["fracas_french_sud.conll"]
   },
   {
     "id": "DSUD-FraCaS-fr",
+    "lang": "fr",
     "directory": "${RESOURCES}/FraCas-fr/syntax",
     "files": ["fracas_french_dsud.conll"]
   },
   {
     "id": "UD-FraCaS-fr",
+    "lang": "fr",
     "directory": "${RESOURCES}/FraCas-fr/syntax",
     "files": ["fracas_french_ud.conll"]
   },
   
   {
     "id": "UD-FraCaS-en",
+    "lang": "en",
     "directory": "${RESOURCES}/FraCas-en/syntax",
     "files": ["fracas_english_ud.conll"]
   },
@@ -40,6 +45,7 @@
   
   {
     "id": "pmb-3.0.0-sample_en_gold",
+    "lang": "en",
     "kind": "json",
     "directory": "${RESOURCES}/semantics/pmb",
     "desc": "first tentative for PMB conversion as graph (Clara's work)",
@@ -59,6 +65,7 @@
   },
   {
     "id": "The_little_prince_DRS",
+    "lang": "en",
     "kind": "json",
     "directory": "${RESOURCES}/semantics/pmb",
     "desc": "Parsing of LPP with neural DRS parser",

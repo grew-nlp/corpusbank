@@ -1,6 +1,7 @@
 [
 	{
 		"id": "yarn_pud_100",
+		"lang": "en",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/yarn/annotations/grew/pud_100",
@@ -9,6 +10,7 @@
 	},
 	{
 		"id": "yarn_pmb_025",
+		"lang": "en",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/yarn/annotations/grew/pmb_025",
@@ -17,6 +19,7 @@
 	},
 	{
 		"id": "yarn_lpp",
+		"lang": "en",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/yarn/annotations/grew/lpp",
@@ -25,6 +28,7 @@
 	},
 	{
 		"id": "yarn_chap3",
+		"lang": "en",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/yarn/annotations/grew/chap3",
@@ -33,6 +37,7 @@
 	},
 	{
 		"id": "yarn_chap4",
+		"lang": "en",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/gitlab.inria.fr/semagramme/yarn/annotations/grew/chap4",

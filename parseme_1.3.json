@@ -1,6 +1,7 @@
 [
   {
     "id": "PARSEME-AR@1.3",
+    "lang": "ar",
     "config": "ud",
     "rtl": true,
     "directory": "${RESOURCES}/PARSEME/1.3/AR",
@@ -9,6 +10,7 @@
   },
   {
     "id": "PARSEME-BG@1.3",
+    "lang": "bg",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/BG",
     "files": ".cupt",
@@ -16,6 +18,7 @@
   },
   {
     "id": "PARSEME-CS@1.3",
+    "lang": "cs",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/CS",
     "files": ".cupt",
@@ -23,6 +26,7 @@
   },
   {
     "id": "PARSEME-DE@1.3",
+    "lang": "de",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/DE",
     "files": ".cupt",
@@ -30,6 +34,7 @@
   },
   {
     "id": "PARSEME-EL@1.3",
+    "lang": "el",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/EL",
     "files": ".cupt",
@@ -37,6 +42,7 @@
   },
   {
     "id": "PARSEME-EN@1.3",
+    "lang": "en",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/EN",
     "files": ".cupt",
@@ -44,6 +50,7 @@
   },
   {
     "id": "PARSEME-ES@1.3",
+    "lang": "es",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/ES",
     "files": ".cupt",
@@ -51,6 +58,7 @@
   },
   {
     "id": "PARSEME-EU@1.3",
+    "lang": "eu",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/EU",
     "files": ".cupt",
@@ -58,6 +66,7 @@
   },
   {
     "id": "PARSEME-FA@1.3",
+    "lang": "fa",
     "config": "ud",
     "rtl": true,
     "directory": "${RESOURCES}/PARSEME/1.3/FA",
@@ -66,6 +75,7 @@
   },
   {
     "id": "PARSEME-FR@1.3",
+    "lang": "fr",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/FR",
     "files": ".cupt",
@@ -73,6 +83,7 @@
   },
   {
     "id": "PARSEME-GA@1.3",
+    "lang": "ga",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/GA",
     "files": ".cupt",
@@ -80,6 +91,7 @@
   },
   {
     "id": "PARSEME-HE@1.3",
+    "lang": "he",
     "config": "ud",
     "rtl": true,
     "directory": "${RESOURCES}/PARSEME/1.3/HE",
@@ -88,6 +100,7 @@
   },
   {
     "id": "PARSEME-HI@1.3",
+    "lang": "hi",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/HI",
     "files": ".cupt",
@@ -95,6 +108,7 @@
   },
   {
     "id": "PARSEME-HR@1.3",
+    "lang": "hr",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/HR",
     "files": ".cupt",
@@ -102,6 +116,7 @@
   },
   {
     "id": "PARSEME-HU@1.3",
+    "lang": "hu",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/HU",
     "files": ".cupt",
@@ -109,6 +124,7 @@
   },
   {
     "id": "PARSEME-IT@1.3",
+    "lang": "it",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/IT",
     "files": ".cupt",
@@ -116,6 +132,7 @@
   },
   {
     "id": "PARSEME-LT@1.3",
+    "lang": "lt",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/LT",
     "files": ".cupt",
@@ -123,6 +140,7 @@
   },
   {
     "id": "PARSEME-MT@1.3",
+    "lang": "mt",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/MT",
     "files": ".cupt",
@@ -130,6 +148,7 @@
   },
   {
     "id": "PARSEME-PL@1.3",
+    "lang": "pl",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/PL",
     "files": ".cupt",
@@ -137,6 +156,7 @@
   },
   {
     "id": "PARSEME-PT@1.3",
+    "lang": "pt",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/PT",
     "files": ".cupt",
@@ -144,6 +164,7 @@
   },
   {
     "id": "PARSEME-RO@1.3",
+    "lang": "ro",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/RO",
     "files": ".cupt",
@@ -151,6 +172,7 @@
   },
   {
     "id": "PARSEME-SL@1.3",
+    "lang": "sl",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/SL",
     "files": ".cupt",
@@ -158,6 +180,7 @@
   },
   {
     "id": "PARSEME-SR@1.3",
+    "lang": "sr",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/SR",
     "files": ".cupt",
@@ -165,6 +188,7 @@
   },
   {
     "id": "PARSEME-SV@1.3",
+    "lang": "sv",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/SV",
     "files": ".cupt",
@@ -172,6 +196,7 @@
   },
   {
     "id": "PARSEME-TR@1.3",
+    "lang": "tr",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/TR",
     "files": ".cupt",
@@ -179,6 +204,7 @@
   },
   {
     "id": "PARSEME-ZH@1.3",
+    "lang": "zh",
     "config": "ud",
     "directory": "${RESOURCES}/PARSEME/1.3/ZH",
     "files": ".cupt",

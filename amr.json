@@ -1,6 +1,7 @@
 [
 	{
 		"id": "Little_Prince",
+		"lang": "en",
 		"directory": "${RESOURCES}/AMR",
 		"kind": "amr",
 		"display": -1,
@@ -8,6 +9,7 @@
 	},
 	{
 		"id": "Bio_AMR_Corpus",
+		"lang": "en",
 		"directory": "${RESOURCES}/AMR",
 		"kind": "amr",
 		"display": -1,
@@ -15,6 +17,7 @@
 	},
 	{
 		"id": "AMR_dict",
+		"lang": "en",
 		"directory": "${RESOURCES}/AMR",
 		"kind": "amr",
 		"display": -1,
@@ -22,6 +25,7 @@
 	},
 	{
 		"id": "Spec_1.2.6",
+		"lang": "en",
 		"directory": "${RESOURCES}/AMR",
 		"kind": "amr",
 		"display": -1,
@@ -29,6 +33,7 @@
 	},
 	{
 		"id": "CAMR_V0.5_A",
+		"lang": "zh",
 		"directory": "${RESOURCES}/AMR/Chinese",
 		"kind": "amr",
 		"display": -1,
@@ -38,6 +43,7 @@
 	},
 	{
 		"id": "CAMR_V0.5_B",
+		"lang": "zh",
 		"directory": "${RESOURCES}/AMR/Chinese",
 		"kind": "amr",
 		"display": -1,
@@ -47,6 +53,7 @@
 	},
 	{
 		"id": "CAMR_V1.0",
+		"lang": "zh",
 		"directory": "${RESOURCES}/AMR/Chinese",
 		"kind": "amr",
 		"display": -1,
@@ -56,6 +63,7 @@
 	},
 	{
 		"id": "DeAMR",
+		"lang": "de",
 		"directory": "${RESOURCES}/AMR/DeAMR",
 		"kind": "amr",
 		"display": -1,
@@ -64,6 +72,7 @@
 	},
 	{
 		"id": "amr-br",
+		"lang": "br",
 		"directory": "${RESOURCES}/AMR/amr-br",
 		"kind": "amr",
 		"display": -1,
@@ -72,6 +81,7 @@
 	},
 	{
 		"id": "turkish-amr-imst",
+		"lang": "tr",
 		"directory": "${RESOURCES}/AMR/turkish-amr-corpus",
 		"kind": "amr",
 		"display": -1,
@@ -80,6 +90,7 @@
 	},
 	{
 		"id": "turkish-amr-little-prince",
+		"lang": "tr",
 		"directory": "${RESOURCES}/AMR/turkish-amr-corpus",
 		"kind": "amr",
 		"display": -1,
@@ -88,6 +99,7 @@
 	},
 	{
 		"id": "ding-01",
+		"lang": "fr",
 		"directory": "${RESOURCES}/DING",
 		"kind": "amr",
 		"display": -1,
@@ -103,6 +115,7 @@
 
 	{
 		"id": "Pinocchio_bg_silver",
+		"lang": "bg",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/bulgarian",
 		"kind": "amr",
 		"display": -1,
@@ -112,6 +125,7 @@
 	},
   {
 		"id": "Pinocchio_bg_gold",
+		"lang": "bg",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/bulgarian",
 		"kind": "amr",
 		"display": -1,
@@ -123,6 +137,7 @@
 
 	{
 		"id": "Pinocchio_en_silver",
+		"lang": "en",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/english",
 		"kind": "amr",
 		"display": -1,
@@ -132,6 +147,7 @@
 
 	{
 		"id": "Pinocchio_fr_silver",
+		"lang": "fr",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/french",
 		"kind": "amr",
 		"display": -1,
@@ -141,6 +157,7 @@
 
 	{
 		"id": "Pinocchio_hu_silver",
+		"lang": "hu",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/hungarian",
 		"kind": "amr",
 		"display": -1,
@@ -151,6 +168,7 @@
 
   {
 		"id": "Pinocchio_uk_silver",
+		"lang": "uk",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/ukrainian",
 		"kind": "amr",
 		"display": -1,
@@ -160,6 +178,7 @@
 	},
   {
 		"id": "Pinocchio_uk_gold",
+		"lang": "uk",
 		"directory": "${RESOURCES}/github.com/YARN-World/YARN_Pinocchio/Pinocchio_AMR_Corpus/ukrainian",
 		"kind": "amr",
 		"display": -1,
@@ -172,6 +191,7 @@
 
 	{
 		"id": "Persian-AMR",
+		"lang": "fa",
 		"directory": "${RESOURCES}/github.com/bguil/Persian-AMR",
 		"kind": "amr",
 		"display": -1,

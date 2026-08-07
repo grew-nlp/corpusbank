@@ -1,6 +1,7 @@
 [
 	{
 		"id": "en_gold@4.0.0",
+		"lang": "en",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/semantics/pmb/en_gold",
@@ -8,6 +9,7 @@
 	},
 	{
 		"id": "it_gold@4.0.0",
+		"lang": "it",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/semantics/pmb/it_gold",
@@ -15,6 +17,7 @@
 	},
 	{
 		"id": "de_gold@4.0.0",
+		"lang": "de",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/semantics/pmb/de_gold",
@@ -22,6 +25,7 @@
 	},
 	{
 		"id": "nl_gold@4.0.0",
+		"lang": "nl",
 		"kind": "json",
 		"display": -1,
 		"directory": "${RESOURCES}/semantics/pmb/nl_gold",

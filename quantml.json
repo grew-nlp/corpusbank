@@ -1,6 +1,7 @@
 [
   {
     "id": "TiCC",
+    "lang": "en",
     "kind": "json",
     "display": -1,
     "directory": "${RESOURCES}/semantics/quantml/TiCC",
@@ -8,6 +9,7 @@
   },
   {
     "id": "ISA_17",
+    "lang": "en",
     "kind": "json",
     "display": -1,
     "directory": "${RESOURCES}/semantics/quantml/ISA_17",
