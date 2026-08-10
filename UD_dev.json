@@ -213,14 +213,6 @@
       "github": "https://github.com/UniDive/SpLAn-UD/tree/main/co-construction/test/kiparla",
       "directory": "${RESOURCES}/github.com/UniDive/SpLAn-UD/co-construction/test/kiparla"
     },
-    {
-      "id": "UniDive_kiparla_db",
-      "lang": "it",
-      "config": "ud",
-      "dynamic": true,
-      "github": "https://github.com/UniDive/SpLAn-UD/tree/main/co-construction/test/kiparla_db",
-      "directory": "${RESOURCES}/github.com/UniDive/SpLAn-UD/co-construction/test/kiparla_db"
-    },
 
     {
       "id": "UD_Slovenian-SST@dev",
@@ -229,14 +221,6 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Slovenian-SST/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST",
-      "audio": true
-    },
-    {
-      "id": "UD_Slovenian-SST_db@dev",
-      "lang": "sl",
-      "config": "ud",
-      "dynamic": true,
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST/UD_Slovenian-SST_db",
       "audio": true
     },
 

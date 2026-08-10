@@ -1,0 +1,40 @@
+[
+  {
+    "id": "SUD_French-Rhapsodie@db",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "fr",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/SUD_French-Rhapsodie@db",
+    "parallels": ["UD_French-Rhapsodie@db"]
+  },
+
+  {
+    "id": "UD_French-Rhapsodie@db",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "audio": true,
+    "lang": "fr",
+    "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-Rhapsodie/UD_French-Rhapsodie@db",
+    "parallels": [ "SUD_French-Rhapsodie@db" ]
+  },
+
+	{
+		"id": "UD_Italian-KIParlaForest@db",
+		"lang": "it",
+		"config": "ud",
+		"dynamic": true,
+    "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest/UD_Italian-KIParlaForest@db"
+	},
+
+	{
+		"id": "UD_Slovenian-SST@db",
+		"lang": "sl",
+		"config": "ud",
+		"dynamic": true,
+		"directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST/UD_Slovenian-SST@db",
+		"audio": true
+	}
+]

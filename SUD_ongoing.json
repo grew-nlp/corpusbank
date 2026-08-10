@@ -14,17 +14,6 @@
   },
 
   {
-    "id": "SUD_French-Rhapsodie@db",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "fr",
-    "audio": true,
-    "dynamic": true,
-    "directory": "${RESOURCES}/SUD_French-Rhapsodie_db",
-    "parallels": ["UD_French-Rhapsodie@db"]
-  },
-
-  {
     "id": "SUD_Thai-Autogramm@latest",
     "config": "sud",
     "validation": "sud",
