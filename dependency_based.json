@@ -7,34 +7,56 @@
     "audio": true,
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/SUD_French-Rhapsodie@db",
-    "parallels": ["UD_French-Rhapsodie@db"]
+    "parallels": ["SUD_French-Rhapsodie@dbi"]
   },
 
   {
-    "id": "UD_French-Rhapsodie@db",
-    "config": "ud",
-    "validation": "ud",
-    "dynamic": true,
-    "audio": true,
+    "id": "SUD_French-Rhapsodie@dbi",
+    "config": "sud",
     "lang": "fr",
-    "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_French-Rhapsodie/UD_French-Rhapsodie@db",
-    "parallels": [ "SUD_French-Rhapsodie@db" ]
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French-Rhapsodie/SUD_French-Rhapsodie@dbi",
+    "parallels": ["SUD_French-Rhapsodie@db"]
   },
 
 	{
 		"id": "UD_Italian-KIParlaForest@db",
 		"lang": "it",
 		"config": "ud",
+    "validation": "ud",
 		"dynamic": true,
-    "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest/UD_Italian-KIParlaForest@db"
+    "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest/UD_Italian-KIParlaForest@db",
+    "parallels": ["UD_Italian-KIParlaForest@dbi"]
+	},
+
+  {
+		"id": "UD_Italian-KIParlaForest@dbi",
+		"lang": "it",
+		"config": "ud",
+		"dynamic": true,
+    "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest/UD_Italian-KIParlaForest@dbi",
+    "parallels": ["UD_Italian-KIParlaForest@db"]
 	},
 
 	{
 		"id": "UD_Slovenian-SST@db",
 		"lang": "sl",
 		"config": "ud",
+    "validation": "ud",
+    "audio": true,
 		"dynamic": true,
 		"directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST/UD_Slovenian-SST@db",
-		"audio": true
+    "parallels": ["UD_Slovenian-SST@dbi"]
+	},
+
+  {
+		"id": "UD_Slovenian-SST@dbi",
+		"lang": "sl",
+    "audio": true,
+		"config": "ud",
+		"dynamic": true,
+		"directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Slovenian-SST/UD_Slovenian-SST@dbi",
+    "parallels": ["UD_Slovenian-SST@db"]
 	}
 ]
