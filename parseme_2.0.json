@@ -7,6 +7,13 @@
     "files": ".cupt"
   },
   {
+    "id": "PARSEME-EL@2.0",
+    "config": "ud",
+    "lang": "el",
+    "directory": "${RESOURCES}/PARSEME/2.0/EL",
+    "files": ".cupt"
+  },
+  {
     "id": "PARSEME-FA@2.0",
     "config": "ud",
     "lang": "fa",
