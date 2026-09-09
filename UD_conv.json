@@ -188,9 +188,10 @@
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-Rhapsodie",
     "src": "SUD_French-Rhapsodie@latest",
-    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/fr_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "fr_main",
+    "text_from_tokens": true,
     "parallels": [
       "SUD_French-Rhapsodie@latest"
     ]
@@ -204,7 +205,7 @@
     "lang": "fr",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_French-ParisStories",
     "src": "SUD_French-ParisStories@latest",
-    "grs": "${GRSROOT}/converter/grs/fr_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/fr_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "fr_main",
     "parallels": [
