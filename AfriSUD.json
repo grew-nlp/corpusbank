@@ -1,22 +1,12 @@
 [
   {
-    "id": "SUD_Efik-AfriSUD@latest",
-    "lang": "efi",
-    "config": "sud",
-    "validation": "sud",
-    "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/efi",
-    "parallels": [
-      "UD_Efik-AfriSUD@conv"
-    ]
-  },
-  {
     "id": "SUD_Hausa-AfriSUD@latest",
     "lang": "ha",
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/hau",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/hau",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Hausa-AfriSUD@conv"
     ]
@@ -27,7 +17,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/xho",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/xho",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_isiXhosa-AfriSUD@conv"
     ]
@@ -38,7 +29,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/kin",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/kin",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Kinyarwanda-AfriSUD@conv"
     ]
@@ -49,7 +41,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/pcm",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/pcm",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Naija-AfriSUD@conv"
     ]
@@ -60,7 +53,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/nyn",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/nyn",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Runyankore-AfriSUD@conv"
     ]
@@ -71,7 +65,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/swa",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/swa",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Swahili-AfriSUD@conv"
     ]
@@ -82,7 +77,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/wol",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/wol",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Wolof-AfriSUD@conv"
     ]
@@ -93,7 +89,8 @@
     "config": "sud",
     "validation": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/Buzaabah/AfriSUD/data/yor",
+    "directory": "${RESOURCES}/huggingface.co/datasets/Lugha-Models/AfriSUD/yor",
+    "url": "https://huggingface.co/datasets/Lugha-Models/AfriSUD",
     "parallels": [
       "UD_Yoruba-AfriSUD@conv"
     ]

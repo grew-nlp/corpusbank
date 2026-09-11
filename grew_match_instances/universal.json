@@ -918,7 +918,6 @@
 
       "mSUD_Ginyanga-Autogramm@latest",
 
-      "SUD_Efik-AfriSUD@latest",
       "SUD_Hausa-AfriSUD@latest",
       "SUD_isiXhosa-AfriSUD@latest",
       "SUD_Kinyarwanda-AfriSUD@latest",
@@ -972,7 +971,6 @@
       "elexis-wsd-et",
       "elexis-wsd-nl",
 
-      "UD_Efik-AfriSUD@conv",
       "UD_Hausa-AfriSUD@conv",
       "UD_isiXhosa-AfriSUD@conv",
       "UD_Kinyarwanda-AfriSUD@conv",
