@@ -8,7 +8,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/hau",
     "src": "SUD_Hausa-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Hausa-AfriSUD@latest"
@@ -25,7 +25,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/xho",
     "src": "SUD_isiXhosa-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_isiXhosa-AfriSUD@latest"
@@ -43,7 +43,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/kin",
     "src": "SUD_Kinyarwanda-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Kinyarwanda-AfriSUD@latest"
@@ -60,7 +60,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/pcm",
     "src": "SUD_Naija-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Naija-AfriSUD@latest"
@@ -77,7 +77,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/nyn",
     "src": "SUD_Runyankore-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Runyankore-AfriSUD@latest"
@@ -94,7 +94,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/swa",
     "src": "SUD_Swahili-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Swahili-AfriSUD@latest"
@@ -111,7 +111,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/wol",
     "src": "SUD_Wolof-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Wolof-AfriSUD@latest"
@@ -128,7 +128,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/AfriSUD/yor",
     "src": "SUD_Yoruba-AfriSUD@latest",
-    "grs": "${CONVERSIONS}/grs//SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
     "grs_config": "sud",
     "parallels": [
       "SUD_Yoruba-AfriSUD@latest"

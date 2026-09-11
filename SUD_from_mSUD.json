@@ -6,7 +6,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm_latest",
     "src": "mSUD_Beja-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/bej_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/bej_mSUD_to_SUD.grs",
     "grs_config": "beja",
     "strat": "bej_mSUD_to_SUD_main",
     "text_from_tokens": true,
@@ -22,7 +22,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm_extended",
     "src": "mSUD_Beja-Autogramm@extended",
-    "grs": "${GRSROOT}/converter/grs/bej_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/bej_mSUD_to_SUD.grs",
     "grs_config": "beja",
     "strat": "bej_mSUD_to_SUD_main",
     "text_from_tokens": true,
@@ -39,7 +39,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota-ChibErgIS",
     "src": "mSUD_Bokota-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -54,7 +54,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bokota_tree",
     "src": "mSUD_Bokota@tree",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -70,7 +70,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Bokota_tree",
     "src": "mSUD_Bokota@tree",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_wSUD.grs",
     "strat": "main",
     "text_from_tokens": true,
     "parallels": [
@@ -86,7 +86,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika_tree",
     "src": "mSUD_Ika@tree",
-    "grs": "${GRSROOT}/converter/grs/arh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/arh_mSUD_to_SUD.grs",
     "strat": "arh_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -102,7 +102,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Ika_tree",
     "src": "mSUD_Ika@tree",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_wSUD.grs",
     "strat": "main",
     "text_from_tokens": true,
     "parallels": [
@@ -119,7 +119,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Chinese-Beginner",
     "src": "mSUD_Chinese-Beginner@latest",
-    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/zh_mSUD_to_SUD.grs",
     "strat": "zh_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -134,7 +134,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Chinese-PatentChar",
     "src": "mSUD_Chinese-PatentChar@latest",
-    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/zh_mSUD_to_SUD.grs",
     "strat": "zh_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -149,7 +149,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika-ChibErgIS",
     "src": "mSUD_Ika-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/arh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/arh_mSUD_to_SUD.grs",
     "strat": "arh_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -164,7 +164,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Northwest_Gbaya-Autogramm@latest",
     "src": "mSUD_Northwest_Gbaya-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/gya_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/gya_mSUD_to_SUD.grs",
     "strat": "main",
     "text_from_tokens": true,
     "parallels": [
@@ -179,7 +179,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Pesh-ChibErgIS",
     "src": "mSUD_Pesh-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/pay_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/pay_mSUD_to_SUD.grs",
     "strat": "pay_mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Pesh-ChibErgIS@latest",
@@ -194,7 +194,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Pesh-ChibErgIS",
     "src": "mSUD_Pesh-ChibErgIS@latest",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_wSUD.grs",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_wSUD.grs",
     "strat": "main",
     "parallels": [
       "mSUD_Pesh-ChibErgIS@latest",
@@ -211,7 +211,7 @@
     "audio": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Nenets-Tundra",
     "src": "mSUD_Nenets-Tundra@latest",
-    "grs": "${GRSROOT}/converter/grs/yrk_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/yrk_mSUD_to_SUD.grs",
     "strat": "yrk_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
@@ -229,7 +229,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Tuwari-Autogramm",
     "src": "mSUD_Tuwari-Autogramm@latest",
-    "grs": "${GRSROOT}/converter/grs/mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Tuwari-Autogramm@latest",
@@ -245,7 +245,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Taigi-DiLSi",
     "src": "mSUD_Taigi-DiLSi@latest",
-    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/zh_mSUD_to_SUD.grs",
     "strat": "zh_mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Taigi-DiLSi@latest",
@@ -261,7 +261,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Teochew-DiLSi",
     "src": "mSUD_Teochew-DiLSi@latest",
-    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/zh_mSUD_to_SUD.grs",
     "strat": "zh_mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Teochew-DiLSi@latest",
@@ -277,7 +277,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Mandarin-DiLSi",
     "src": "mSUD_Mandarin-DiLSi@latest",
-    "grs": "${GRSROOT}/converter/grs/zh_mSUD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/zh_mSUD_to_SUD.grs",
     "strat": "zh_mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Mandarin-DiLSi@latest",

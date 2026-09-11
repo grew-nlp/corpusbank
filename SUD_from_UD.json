@@ -5,7 +5,7 @@
     "config": "sud",
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bambara-CRB",
     "src": "UD_Bambara-CRB@dev",
-    "grs": "${GRSROOT}/converter/grs/UD_to_SUD.grs"
+    "grs": "${CONVERSIONS}/grs/UD_to_SUD.grs"
   },
   {
     "id": "SUD_Breton-KEB@conv",
@@ -14,7 +14,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Breton-KEB",
     "src": "UD_Breton-KEB@dev",
-    "grs": "${GRSROOT}/converter/grs/br_UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/br_UD_to_SUD.grs",
     "strat": "br_main"
   },
   {
@@ -24,7 +24,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_German-GSD",
     "src": "UD_German-GSD@dev",
-    "grs": "${GRSROOT}/converter/grs/de_UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/de_UD_to_SUD.grs",
     "strat": "de_main"
   },
   {
@@ -34,7 +34,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Wolof-WTB",
     "src": "UD_Wolof-WTB@dev",
-    "grs": "${GRSROOT}/converter/grs/wo_UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/wo_UD_to_SUD.grs",
     "strat": "wo_main"
   },
   {
@@ -45,7 +45,7 @@
     "rtl": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/UD_Hebrew-PostRab",
     "src": "UD_Hebrew-PostRab@dev",
-    "grs": "${GRSROOT}/converter/grs/UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/UD_to_SUD.grs",
     "strat": "main",
     "parallels": [
       "UD_Hebrew-PostRab@dev"
