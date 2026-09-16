@@ -993,8 +993,7 @@
       "SUD_German-GSD@conv",
       "SUD_Wolof-WTB@conv",
       "SUD_Hebrew-PostRab@conv",
-      "SUD_French-GSD@fix_typo",
-      "SUD_French-GSD@rm_mwt"
+      "SUD_French-GSD@fix_typo"
     ]
   }
 ]

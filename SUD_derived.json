@@ -8,15 +8,5 @@
     "grs": "${GRSROOT}/rewrite/fix_typo.grs",
     "dynamic": true,
     "parallels": ["SUD_French-GSD@latest"]
-  },
-  {
-    "id": "SUD_French-GSD@rm_mwt",
-    "lang": "fr",
-    "config": "sud",
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_French-GSD@rm_mwt",
-    "src": "SUD_French-GSD@latest",
-    "grs": "${GRSROOT}/rewrite/rm_mwt.grs",
-    "dynamic": true,
-    "parallels": ["SUD_French-GSD@latest"]
   }
 ]
