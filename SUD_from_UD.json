@@ -15,7 +15,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Breton-KEB",
     "src": "UD_Breton-KEB@dev",
-    "grs": "${CONVERSIONS}/grs/br_UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/br/br_UD_to_SUD.grs",
     "strat": "br_UD_to_SUD_main"
   },
   {
@@ -25,7 +25,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_German-GSD",
     "src": "UD_German-GSD@dev",
-    "grs": "${CONVERSIONS}/grs/de_UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/de/de_UD_to_SUD.grs",
     "strat": "de_UD_to_SUD_main"
   },
   {
@@ -35,7 +35,7 @@
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Wolof-WTB",
     "src": "UD_Wolof-WTB@dev",
-    "grs": "${CONVERSIONS}/grs/wo_UD_to_SUD.grs",
+    "grs": "${CONVERSIONS}/grs/wo/wo_UD_to_SUD.grs",
     "strat": "wo_UD_to_SUD_main"
   },
   {

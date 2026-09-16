@@ -8,7 +8,7 @@
     "lang": "bej",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-Autogramm_latest",
     "src": "SUD_Beja-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/bej_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/bej/bej_SUD_to_UD.grs",
     "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
@@ -26,7 +26,7 @@
     "lang": "bej",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-Autogramm_extended",
     "src": "SUD_Beja-Autogramm@extended",
-    "grs": "${CONVERSIONS}/grs/bej_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/bej/bej_SUD_to_UD.grs",
     "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
@@ -44,7 +44,7 @@
     "lang": "bej",
     "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-Autogramm",
     "src": "mSUD_Beja-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/bej_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/bej/bej_SUD_to_UD.grs",
     "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
@@ -59,7 +59,7 @@
     "lang": "sab",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota-ChibErgIS",
     "src": "SUD_Bokota-ChibErgIS@latest",
-    "grs": "${CONVERSIONS}/grs/sab_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/sab/sab_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "sab_SUD_to_UD_main",
     "parallels": [
@@ -75,7 +75,7 @@
     "lang": "sab",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Bokota_tree",
     "src": "SUD_Bokota@tree",
-    "grs": "${CONVERSIONS}/grs/sab_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/sab/sab_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "sab_SUD_to_UD_main",
       "parallels": [
@@ -92,7 +92,7 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-Beginner",
     "src": "SUD_Chinese-Beginner@latest",
-    "grs": "${CONVERSIONS}/grs/zh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/zh/zh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
@@ -108,7 +108,7 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chinese-PatentChar",
     "src": "SUD_Chinese-PatentChar@latest",
-    "grs": "${CONVERSIONS}/grs/zh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/zh/zh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
@@ -124,7 +124,7 @@
     "lang": "arh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika-ChibErgIS",
     "src": "SUD_Ika-ChibErgIS@latest",
-    "grs": "${CONVERSIONS}/grs/arh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/arh/arh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "arh_SUD_to_UD_main",
     "parallels": [
@@ -140,7 +140,7 @@
     "lang": "arh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_tree",
     "src": "SUD_Ika@tree",
-    "grs": "${CONVERSIONS}/grs/arh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/arh/arh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "arh_SUD_to_UD_main",
     "parallels": [
@@ -220,7 +220,7 @@
     "lang": "ht",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
     "src": "SUD_Haitian_Creole-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/ht_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/ht/ht_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ht_SUD_to_UD_main",
     "parallels": [
@@ -251,7 +251,7 @@
     "lang": "pcm",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Naija-NSC",
     "src": "SUD_Naija-NSC@latest",
-    "grs": "${CONVERSIONS}/grs/pcm_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/pcm/pcm_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "pcm_SUD_to_UD_main",
     "parallels": [
@@ -267,7 +267,7 @@
     "audio": true,
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Nenets-Tundra",
     "src": "SUD_Nenets-Tundra@latest",
-    "grs": "${CONVERSIONS}/grs/yrk_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/yrk/yrk_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "yrk_SUD_to_UD_main",
     "parallels": [
@@ -284,7 +284,7 @@
     "lang": "say",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Zaar-Autogramm",
     "src": "SUD_Zaar-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/say_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/say/say_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "say_SUD_to_UD_main",
     "parallels": [
@@ -333,7 +333,7 @@
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-EasternAutogramm",
     "src": "SUD_Hausa-EasternAutogramm@latest",
-    "grs": "${CONVERSIONS}/grs/ha_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
     "parallels": [
@@ -349,7 +349,7 @@
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-SouthernAutogramm",
     "src": "SUD_Hausa-SouthernAutogramm@latest",
-    "grs": "${CONVERSIONS}/grs/ha_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
     "parallels": [
@@ -365,7 +365,7 @@
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-NorthernAutogramm",
     "src": "SUD_Hausa-NorthernAutogramm@latest",
-    "grs": "${CONVERSIONS}/grs/ha_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
     "parallels": [
@@ -381,7 +381,7 @@
     "lang": "ha",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Hausa-WesternAutogramm",
     "src": "SUD_Hausa-WesternAutogramm@latest",
-    "grs": "${CONVERSIONS}/grs/ha_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
     "parallels": [
@@ -397,7 +397,7 @@
     "lang": "pay",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-ChibErgIS",
     "src": "SUD_Pesh-ChibErgIS@latest",
-    "grs": "${CONVERSIONS}/grs/pay_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/pay/pay_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "pay_SUD_to_UD_main",
     "parallels": [
@@ -449,7 +449,7 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Taigi-DiLSi",
     "src": "SUD_Taigi-DiLSi@latest",
-    "grs": "${CONVERSIONS}/grs/zh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/zh/zh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
@@ -467,7 +467,7 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Teochew-DiLSi",
     "src": "SUD_Teochew-DiLSi@latest",
-    "grs": "${CONVERSIONS}/grs/zh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/zh/zh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
@@ -485,7 +485,7 @@
     "lang": "zh",
     "directory": "${RESOURCES}/ud-treebanks-conv/UD_Mandarin-DiLSi",
     "src": "SUD_Mandarin-DiLSi@latest",
-    "grs": "${CONVERSIONS}/grs/zh_SUD_to_UD.grs",
+    "grs": "${CONVERSIONS}/grs/zh/zh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "zh_SUD_to_UD_main",
     "parallels": [
