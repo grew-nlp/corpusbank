@@ -978,7 +978,14 @@
       "UD_Runyankore-AfriSUD@conv",
       "UD_Swahili-AfriSUD@conv",
       "UD_Wolof-AfriSUD@conv",
-      "UD_Yoruba-AfriSUD@conv"
+      "UD_Yoruba-AfriSUD@conv",
+
+      "UD_Hausa-EasternAutogramm@from_mSUD",
+      "UD_Hausa-SouthernAutogramm@from_mSUD",
+      "UD_Hausa-NorthernAutogramm@from_mSUD",
+      "UD_Hausa-WesternAutogramm@from_mSUD",
+      "UD_Zaar-Autogramm@from_mSUD"
+
     ]
   },
 
@@ -993,7 +1000,14 @@
       "SUD_German-GSD@conv",
       "SUD_Wolof-WTB@conv",
       "SUD_Hebrew-PostRab@conv",
-      "SUD_French-GSD@fix_typo"
+      "SUD_French-GSD@fix_typo",
+
+      "SUD_Hausa-EasternAutogramm@from_mSUD",
+      "SUD_Hausa-SouthernAutogramm@from_mSUD",
+      "SUD_Hausa-NorthernAutogramm@from_mSUD",
+      "SUD_Hausa-WesternAutogramm@from_mSUD",
+      "SUD_Zaar-Autogramm@from_mSUD"
+
     ]
   }
 ]

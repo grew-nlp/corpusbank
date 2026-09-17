@@ -1,0 +1,193 @@
+[
+  {
+    "id": "SUD_Hausa-EasternAutogramm@from_mSUD",
+    "lang": "ha",
+    "config": "sud",
+    "validation": "sud",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/WIP_from_mSUD/SUD_Hausa-EasternAutogramm",
+    "src": "mSUD_Hausa-EasternAutogramm@latest",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Hausa-EasternAutogramm@latest",
+      "UD_Hausa-EasternAutogramm@from_mSUD",
+      "SUD_Hausa-EasternAutogramm@latest",
+      "UD_Hausa-EasternAutogramm@conv"
+    ]
+  },
+  {
+    "id": "UD_Hausa-EasternAutogramm@from_mSUD",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/WIP_from_mSUD/UD_Hausa-EasternAutogramm",
+    "src": "SUD_Hausa-EasternAutogramm@from_mSUD",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "ha_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Hausa-EasternAutogramm@latest",
+      "SUD_Hausa-EasternAutogramm@from_mSUD",
+      "SUD_Hausa-EasternAutogramm@latest",
+      "UD_Hausa-EasternAutogramm@conv"
+    ]
+  },
+
+  {
+    "id": "SUD_Hausa-SouthernAutogramm@from_mSUD",
+    "lang": "ha",
+    "config": "sud",
+    "validation": "sud",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/WIP_from_mSUD/SUD_Hausa-SouthernAutogramm",
+    "src": "mSUD_Hausa-SouthernAutogramm@latest",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Hausa-SouthernAutogramm@latest",
+      "UD_Hausa-SouthernAutogramm@from_mSUD",
+      "SUD_Hausa-SouthernAutogramm@latest",
+      "UD_Hausa-SouthernAutogramm@conv"
+    ]
+  },
+  {
+    "id": "UD_Hausa-SouthernAutogramm@from_mSUD",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/WIP_from_mSUD/UD_Hausa-SouthernAutogramm",
+    "src": "SUD_Hausa-SouthernAutogramm@from_mSUD",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "ha_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Hausa-SouthernAutogramm@latest",
+      "SUD_Hausa-SouthernAutogramm@from_mSUD",
+      "SUD_Hausa-SouthernAutogramm@latest",
+      "UD_Hausa-SouthernAutogramm@conv"
+    ]
+  },
+
+  {
+    "id": "SUD_Hausa-NorthernAutogramm@from_mSUD",
+    "lang": "ha",
+    "config": "sud",
+    "validation": "sud",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/WIP_from_mSUD/SUD_Hausa-NorthernAutogramm",
+    "src": "mSUD_Hausa-NorthernAutogramm@latest",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Hausa-NorthernAutogramm@latest",
+      "UD_Hausa-NorthernAutogramm@from_mSUD",
+      "SUD_Hausa-NorthernAutogramm@latest",
+      "UD_Hausa-NorthernAutogramm@conv"
+    ]
+  },
+  {
+    "id": "UD_Hausa-NorthernAutogramm@from_mSUD",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/WIP_from_mSUD/UD_Hausa-NorthernAutogramm",
+    "src": "SUD_Hausa-NorthernAutogramm@from_mSUD",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "ha_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Hausa-NorthernAutogramm@latest",
+      "SUD_Hausa-NorthernAutogramm@from_mSUD",
+      "SUD_Hausa-NorthernAutogramm@latest",
+      "UD_Hausa-NorthernAutogramm@conv"
+    ]
+  },
+
+  {
+    "id": "SUD_Hausa-WesternAutogramm@from_mSUD",
+    "lang": "ha",
+    "config": "sud",
+    "validation": "sud",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/WIP_from_mSUD/SUD_Hausa-WesternAutogramm",
+    "src": "mSUD_Hausa-WesternAutogramm@latest",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Hausa-WesternAutogramm@latest",
+      "UD_Hausa-WesternAutogramm@from_mSUD",
+      "SUD_Hausa-WesternAutogramm@latest",
+      "UD_Hausa-WesternAutogramm@conv"
+    ]
+  },
+  {
+    "id": "UD_Hausa-WesternAutogramm@from_mSUD",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "ha",
+    "directory": "${RESOURCES}/WIP_from_mSUD/UD_Hausa-WesternAutogramm",
+    "src": "SUD_Hausa-WesternAutogramm@from_mSUD",
+    "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "ha_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Hausa-WesternAutogramm@latest",
+      "SUD_Hausa-WesternAutogramm@from_mSUD",
+      "SUD_Hausa-WesternAutogramm@latest",
+      "UD_Hausa-WesternAutogramm@conv"
+    ]
+  },
+
+  {
+    "id": "SUD_Zaar-Autogramm@from_mSUD",
+    "lang": "say",
+    "config": "sud",
+    "validation": "sud",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/WIP_from_mSUD/SUD_Zaar-Autogramm",
+    "src": "mSUD_Zaar-Autogramm@latest",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
+    "parallels": [
+      "mSUD_Zaar-Autogramm@latest",
+      "UD_Zaar-Autogramm@from_mSUD",
+      "SUD_Zaar-Autogramm@latest",
+      "UD_Zaar-Autogramm@conv"
+    ]
+  },
+  {
+    "id": "UD_Zaar-Autogramm@from_mSUD",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "say",
+    "directory": "${RESOURCES}/WIP_from_mSUD/UD_Zaar-Autogramm",
+    "src": "SUD_Zaar-Autogramm@from_mSUD",
+    "grs": "${CONVERSIONS}/grs/say/say_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "say_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Zaar-Autogramm@latest",
+      "SUD_Zaar-Autogramm@from_mSUD",
+      "SUD_Zaar-Autogramm@latest",
+      "UD_Zaar-Autogramm@conv"
+    ]
+  }
+
+
+]
