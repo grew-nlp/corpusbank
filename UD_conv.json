@@ -419,6 +419,7 @@
     "strat": "SUD_to_UD_main",
     "grs_config": "sud",
     "parallels": [
+      "mSUD_Tunisian_Arabic-NAxLAT@latest",
       "SUD_Tunisian_Arabic-NAxLAT@latest"
     ]
   },
