@@ -77,7 +77,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm/issues/new",
-    "arborator_grew": "LSF",
+    "arborator_grew": "SUD_French_Sign_Language-STKAutogramm",
     "files": [
       "entretien_étudiant_souvenir.conllu",
       "entretien_étudiant_trajet.conllu",
@@ -99,7 +99,7 @@
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm/issues/new",
-    "arborator_grew": "LSF",
+    "arborator_grew": "SUD_French_Sign_Language-STKAutogramm",
     "files": [
       "entretien_étudiant_souvenir.conllu",
       "entretien_étudiant_trajet.conllu",
