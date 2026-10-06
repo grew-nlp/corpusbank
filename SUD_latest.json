@@ -66,6 +66,7 @@
       "UD_French-Sequoia@conv"
     ]
   },
+   
   {
     "id": "SUD_French_Sign_Language-STKAutogramm@latest",
     "config": "sud",
@@ -77,11 +78,45 @@
     "github": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
     "issue": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm/issues/new",
     "arborator_grew": "LSF",
+    "files": [
+      "entretien_étudiant_souvenir.conllu",
+      "entretien_étudiant_trajet.conllu",
+      "LS-Colin_champignon.conllu",
+      "LS-Colin_cheval.conllu",
+      "STK_vacances-sud.conllu"
+    ],
     "parallels": [
       "UD_French_Sign_Language-STKAutogramm@conv"
     ]
-
   },
+  {
+    "id": "SUD_French_Sign_Language-STKAutogramm@extended",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "fsl",
+    "audio": true,
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
+    "github": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm",
+    "issue": "https://github.com/surfacesyntacticud/SUD_French_Sign_Language-STKAutogramm/issues/new",
+    "arborator_grew": "LSF",
+    "files": [
+      "entretien_étudiant_souvenir.conllu",
+      "entretien_étudiant_trajet.conllu",
+      "LS-Colin_champignon.conllu",
+      "LS-Colin_cheval.conllu",
+      "présentation-CAP-petite-enfance.conllu",
+      "présentation-primaire-populaire.conllu",
+      "STK_vacances-sud.conllu"
+    ],
+    "parallels": [
+      "UD_French_Sign_Language-STKAutogramm@conv"
+    ]
+  },
+
+
+
+
   {
     "id": "SUD_Haitian_Creole-Autogramm@latest",
     "config": "sud",

@@ -254,6 +254,7 @@
     "grs": "${CONVERSIONS}/grs/pcm/pcm_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "pcm_SUD_to_UD_main",
+    "no-warnings": true,
     "parallels": [
       "SUD_Naija-NSC@latest"
     ]
@@ -494,6 +495,22 @@
       "SUD_Mandarin-DiLSi@latest",
       "UD_Taigi-DiLSi@conv",
       "UD_Teochew-DiLSi@conv"
+    ]
+  },
+
+  {
+    "id": "UD_Samba_Leko-Autogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "ndi",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Samba_Leko-Autogramm",
+    "src": "SUD_Samba_Leko-Autogramm@latest",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "SUD_to_UD_main",
+    "parallels": [
+      "SUD_Samba_Leko-Autogramm@latest"
     ]
   }
 

@@ -10,7 +10,9 @@
     "dynamic": true,
     "directory": "${RESOURCES}/github.com/surfacesyntacticud/SUD_Samba_Leko-Autogramm",
     "github": "https://github.com/surfacesyntacticud/SUD_Samba_Leko-Autogramm",
-    "parallels": []
+    "parallels": [
+      "UD_Samba_Leko-Autogramm@conv"
+    ]
   },
 
   {
