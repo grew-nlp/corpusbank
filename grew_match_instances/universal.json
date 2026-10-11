@@ -938,7 +938,7 @@
     "default": "UD_French-GSD@conv",
     "corpora": [
       "UD_Beja-Autogramm@conv",
-      "UD_Beja-Autogramm@conv_filter",
+      "UD_Beja-Autogramm@filter",
       "UD_Chinese-Beginner@conv",
       "UD_Chinese-PatentChar@conv",
       "UD_French-GSD@conv",
