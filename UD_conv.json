@@ -1,6 +1,6 @@
 [
   {
-    "id": "UD_Beja-Autogramm@conv_latest",
+    "id": "UD_Beja-Autogramm@conv",
     "config": "ud",
     "validation": "ud",
     "audio": true,
@@ -17,40 +17,25 @@
     ]
   },
 
+
   {
-    "id": "UD_Beja-Autogramm@conv_extended",
+    "id": "UD_Beja-Autogramm@filter",
     "config": "ud",
     "validation": "ud",
     "audio": true,
     "dynamic": true,
     "lang": "bej",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-Autogramm_extended",
-    "src": "SUD_Beja-Autogramm@extended",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Beja-Autogramm_filter",
+    "src": "SUD_Beja-Autogramm@filter",
     "grs": "${CONVERSIONS}/grs/bej/bej_SUD_to_UD.grs",
     "grs_config": "beja",
     "strat": "bej_SUD_to_UD_main",
     "parallels": [
-      "mSUD_Beja-Autogramm@extended",
-      "SUD_Beja-Autogramm@extended"
+      "mSUD_Beja-Autogramm@filter",
+      "SUD_Beja-Autogramm@filter"
     ]
   },
 
-  {
-    "id": "mUD_Beja-Autogramm@conv",
-    "config": "ud",
-    "validation": "ud",
-    "audio": true,
-    "dynamic": true,
-    "lang": "bej",
-    "directory": "${RESOURCES}/ud-treebanks-conv/mUD_Beja-Autogramm",
-    "src": "mSUD_Beja-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/bej/bej_SUD_to_UD.grs",
-    "grs_config": "beja",
-    "strat": "bej_SUD_to_UD_main",
-    "parallels": [
-      "mSUD_Beja-Autogramm@latest"
-    ]
-  },
   {
     "id": "UD_Bokota-ChibErgIS@conv",
     "config": "ud",

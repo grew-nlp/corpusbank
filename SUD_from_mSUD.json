@@ -12,25 +12,29 @@
     "text_from_tokens": true,
     "parallels": [
       "mSUD_Beja-Autogramm@latest",
-      "UD_Beja-Autogramm@conv_latest"
+      "UD_Beja-Autogramm@conv"
     ]
   },
   {
-    "id": "SUD_Beja-Autogramm@extended",
+    "id": "SUD_Beja-Autogramm@filter",
     "lang": "bej",
     "config": "beja",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm_extended",
-    "src": "mSUD_Beja-Autogramm@extended",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Beja-Autogramm_filter",
+    "src": "mSUD_Beja-Autogramm@filter",
     "grs": "${CONVERSIONS}/grs/bej/bej_mSUD_to_SUD.grs",
     "grs_config": "beja",
     "strat": "bej_mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
-      "mSUD_Beja-Autogramm@extended",
-      "UD_Beja-Autogramm@conv_extended"
+      "mSUD_Beja-Autogramm@filter",
+      "UD_Beja-Autogramm@filter"
     ]
   },
+
+
+
+
 
   {
     "id": "SUD_Bokota-ChibErgIS@latest",

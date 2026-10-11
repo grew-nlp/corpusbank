@@ -845,8 +845,8 @@
     "corpora": [
       "mSUD_Beja-Autogramm@latest",
       "SUD_Beja-Autogramm@latest",
-      "mSUD_Beja-Autogramm@extended",
-      "SUD_Beja-Autogramm@extended",
+      "mSUD_Beja-Autogramm@filter",
+      "SUD_Beja-Autogramm@filter",
       "mSUD_Chinese-Beginner@latest",
       "SUD_Chinese-Beginner@latest",
       "mSUD_Chinese-PatentChar@latest",
@@ -937,8 +937,8 @@
     "style": "left_pane",
     "default": "UD_French-GSD@conv",
     "corpora": [
-      "UD_Beja-Autogramm@conv_latest",
-      "UD_Beja-Autogramm@conv_extended",
+      "UD_Beja-Autogramm@conv",
+      "UD_Beja-Autogramm@conv_filter",
       "UD_Chinese-Beginner@conv",
       "UD_Chinese-PatentChar@conv",
       "UD_French-GSD@conv",

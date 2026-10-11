@@ -12,47 +12,27 @@
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/beja/",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm/issues/new",
     "arborator_grew": "mSUD_Beja-Autogramm",
-    "files": [
-      "BEJ_MV_NARR_01_SHELTER.conllu",
-      "BEJ_MV_NARR_02_FARMER.conllu",
-      "BEJ_MV_NARR_03_CAMEL.conllu",
-      "BEJ_MV_NARR_04_DJINN.conllu",
-      "BEJ_MV_NARR_05_ERITREA.conllu",
-      "BEJ_MV_NARR_06_FOREIGNER.conllu",
-      "BEJ_MV_NARR_07_COLD.conllu",
-      "BEJ_MV_NARR_08_DRUNKARD.conllu",
-      "BEJ_MV_NARR_09_JEWEL.conllu",
-      "BEJ_MV_NARR_10_RABBIT.conllu",
-      "BEJ_MV_NARR_11_COFFEE.conllu",
-      "BEJ_MV_NARR_12_WITCH.conllu",
-      "BEJ_MV_NARR_13_GRAVE.conllu",
-      "BEJ_MV_NARR_14_SIJADOK.conllu",
-      "BEJ_MV_NARR_15_LEOPARD.conllu",
-      "BEJ_MV_NARR_16_PROPHET_FOX.conllu",
-      "BEJ_MV_NARR_17_SHOEMAKER.conllu",
-      "BEJ_MV_NARR_18_ADAM_DEVIL.conllu"
-    ],
     "parallels": [
       "SUD_Beja-Autogramm@latest",
-      "UD_Beja-Autogramm@conv_latest"
+      "UD_Beja-Autogramm@conv"
     ]
   },
   {
-    "id": "mSUD_Beja-Autogramm@extended",
-    "desc": "all files release 2.18 + new files added in 2026",
+    "id": "mSUD_Beja-Autogramm@filter",
+    "desc": "sub corpora with only fully annotated sentences",
     "config": "beja",
     "validation": "sud",
     "lang": "bej",
     "audio": true,
     "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Beja-Autogramm/filter/mSUD_Beja-Autogramm",
     "github": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm",
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/beja/",
     "issue": "https://github.com/surfacesyntacticud/mSUD_Beja-Autogramm/issues/new",
     "arborator_grew": "mSUD_Beja-Autogramm",
     "parallels": [
-      "SUD_Beja-Autogramm@extended",
-      "UD_Beja-Autogramm@conv_extended"
+      "SUD_Beja-Autogramm@filter",
+      "UD_Beja-Autogramm@filter"
     ]
   },
 
