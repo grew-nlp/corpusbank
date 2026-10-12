@@ -847,29 +847,43 @@
       "SUD_Beja-Autogramm@latest",
       "mSUD_Beja-Autogramm@filter",
       "SUD_Beja-Autogramm@filter",
+
+      "mSUD_Bokota-ChibErgIS@latest",
+      "SUD_Bokota-ChibErgIS@latest",
+      "mSUD_Bokota-ChibErgIS@filter",
+      "SUD_Bokota-ChibErgIS@filter",
+
       "mSUD_Chinese-Beginner@latest",
       "SUD_Chinese-Beginner@latest",
       "mSUD_Chinese-PatentChar@latest",
       "SUD_Chinese-PatentChar@latest",
+
       "SUD_French-GSD@latest",
       "SUD_French-ParisStories@latest",
       "SUD_French-Rhapsodie@latest",
       "SUD_French-Sequoia@latest",
       "SUD_French_Sign_Language-STKAutogramm@latest",
       "SUD_French_Sign_Language-STKAutogramm@extended",
+
       "SUD_Haitian_Creole-Autogramm@latest",
+
       "SUD_Hausa-EasternAutogramm@latest",
       "SUD_Hausa-SouthernAutogramm@latest",
       "SUD_Hausa-NorthernAutogramm@latest",
       "SUD_Hausa-WesternAutogramm@latest",
+
       "SUD_Naija-NSC@latest",
+
       "mSUD_Nenets-Tundra@latest",
       "SUD_Nenets-Tundra@latest",
+
       "mSUD_Northwest_Gbaya-Autogramm@latest",
       "SUD_Northwest_Gbaya-Autogramm@latest",
+
       "mSUD_Pesh-ChibErgIS@latest",
       "SUD_Pesh-ChibErgIS@latest",
       "wSUD_Pesh-ChibErgIS@latest",
+
       "SUD_Zaar-Autogramm@latest",
 
       "SUD_Samba_Leko-Autogramm@latest",
@@ -880,8 +894,6 @@
       "mSUD_Hausa-WesternAutogramm@latest",
       "mSUD_Zaar-Autogramm@latest",
 
-      "mSUD_Bokota-ChibErgIS@latest",
-      "SUD_Bokota-ChibErgIS@latest",
       "SUD_Darija-Autogramm@latest",
       "SUD_Egyptian_Arabic-Autogramm@latest",
       "pSUD_French-Rhapsodie@latest",
@@ -910,9 +922,6 @@
       "SUD_Teochew-DiLSi@latest",
       "SUD_Mandarin-DiLSi@latest",
 
-      "mSUD_Bokota@tree",
-      "SUD_Bokota@tree",
-      "wSUD_Bokota@tree",
       "mSUD_Ika@tree",
       "SUD_Ika@tree",
       "wSUD_Ika@tree",

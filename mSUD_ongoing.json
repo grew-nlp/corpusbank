@@ -70,34 +70,6 @@
     ]
   },
 
-
-  {
-    "id": "mSUD_Bokota-ChibErgIS@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "sab",
-    "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Bokota-ChibErgIS/issues/new",
-    "parallels": [
-      "UD_Bokota-ChibErgIS@conv",
-      "SUD_Bokota-ChibErgIS@latest"
-    ]
-  },
-  {
-    "id": "mSUD_Bokota@tree",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "sab",
-    "dynamic": true,
-    "directory": "${RESOURCES}/mSUD_Bokota_tree",
-    "parallels": [
-      "UD_Bokota@tree",
-      "SUD_Bokota@tree",
-      "wSUD_Bokota@tree"
-    ]
-  },
   {
     "id": "mSUD_Ika@tree",
     "config": "sud",
