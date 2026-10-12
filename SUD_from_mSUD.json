@@ -69,38 +69,39 @@
 
 
 
+
   {
-    "id": "SUD_Ika@tree",
+    "id": "SUD_Ika-ChibErgIS@latest",
     "lang": "arh",
     "config": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika_tree",
-    "src": "mSUD_Ika@tree",
-    "grs": "${CONVERSIONS}/grs/arh/arh_mSUD_to_SUD.grs",
-    "strat": "arh_mSUD_to_SUD_main",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika-ChibErgIS",
+    "src": "mSUD_Ika-ChibErgIS@latest",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
-      "mSUD_Ika@tree",
-      "wSUD_Ika@tree",
-      "UD_Ika@tree"
+      "mSUD_Ika-ChibErgIS@latest",
+      "UD_Ika-ChibErgIS@conv"
     ]
   },
   {
-    "id": "wSUD_Ika@tree",
+    "id": "SUD_Ika-ChibErgIS@filter",
     "lang": "arh",
     "config": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Ika_tree",
-    "src": "mSUD_Ika@tree",
-    "grs": "${CONVERSIONS}/grs/mSUD_to_wSUD.grs",
-    "strat": "mSUD_to_wSUD_main",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika-ChibErgIS_filter",
+    "src": "mSUD_Ika-ChibErgIS@filter",
+    "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
+    "strat": "mSUD_to_SUD_main",
     "text_from_tokens": true,
     "parallels": [
-      "mSUD_Ika@tree",
-      "SUD_Ika@tree",
-      "UD_Ika@tree"
+      "mSUD_Ika-ChibErgIS@filter",
+      "UD_Ika-ChibErgIS@filter"
     ]
   },
+
+
 
   {
     "id": "SUD_Chinese-Beginner@latest",
@@ -135,21 +136,6 @@
     ]
   },
   {
-    "id": "SUD_Ika-ChibErgIS@latest",
-    "lang": "arh",
-    "config": "sud",
-    "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Ika-ChibErgIS",
-    "src": "mSUD_Ika-ChibErgIS@latest",
-    "grs": "${CONVERSIONS}/grs/arh/arh_mSUD_to_SUD.grs",
-    "strat": "arh_mSUD_to_SUD_main",
-    "text_from_tokens": true,
-    "parallels": [
-      "mSUD_Ika-ChibErgIS@latest",
-      "UD_Ika-ChibErgIS@conv"
-    ]
-  },
-  {
     "id": "SUD_Northwest_Gbaya-Autogramm@latest",
     "lang": "gya",
     "config": "sud",
@@ -165,6 +151,24 @@
     ]
   },
   {
+    "id": "SUD_Northwest_Gbaya-Autogramm@filter",
+    "lang": "bej",
+    "config": "beja",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Northwest_Gbaya-Autogramm_filter",
+    "src": "mSUD_Northwest_Gbaya-Autogramm@filter",
+    "grs": "${CONVERSIONS}/grs/gya/gya_mSUD_to_SUD.grs",
+    "strat": "gya_mSUD_to_SUD_main",
+    "text_from_tokens": true,
+    "parallels": [
+      "mSUD_Northwest_Gbaya-Autogramm@filter",
+      "UD_Northwest_Gbaya-Autogramm@filter"
+    ]
+  },
+
+
+
+  {
     "id": "SUD_Pesh-ChibErgIS@latest",
     "lang": "pay",
     "config": "sud",
@@ -175,23 +179,22 @@
     "strat": "pay_mSUD_to_SUD_main",
     "parallels": [
       "mSUD_Pesh-ChibErgIS@latest",
-      "wSUD_Pesh-ChibErgIS@latest",
       "UD_Pesh-ChibErgIS@conv"
     ]
   },
   {
-    "id": "wSUD_Pesh-ChibErgIS@latest",
+    "id": "SUD_Pesh-ChibErgIS@filter",
     "lang": "pay",
     "config": "sud",
     "dynamic": true,
-    "directory": "${RESOURCES}/sud-treebanks-auto/wSUD_Pesh-ChibErgIS",
-    "src": "mSUD_Pesh-ChibErgIS@latest",
-    "grs": "${CONVERSIONS}/grs/mSUD_to_wSUD.grs",
-    "strat": "mSUD_to_wSUD_main",
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Pesh-ChibErgIS_filter",
+    "src": "mSUD_Pesh-ChibErgIS@filter",
+    "grs": "${CONVERSIONS}/grs/pay/pay_mSUD_to_SUD.grs",
+    "strat": "pay_mSUD_to_SUD_main",
+    "text_from_tokens": true,
     "parallels": [
-      "mSUD_Pesh-ChibErgIS@latest",
-      "SUD_Pesh-ChibErgIS@latest",
-      "UD_Pesh-ChibErgIS@conv"
+      "mSUD_Pesh-ChibErgIS@filter",
+      "UD_Pesh-ChibErgIS@filter"
     ]
   },
 

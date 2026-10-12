@@ -862,6 +862,7 @@
       "SUD_French-ParisStories@latest",
       "SUD_French-Rhapsodie@latest",
       "SUD_French-Sequoia@latest",
+
       "SUD_French_Sign_Language-STKAutogramm@latest",
       "SUD_French_Sign_Language-STKAutogramm@extended",
 
@@ -871,6 +872,11 @@
       "SUD_Hausa-SouthernAutogramm@latest",
       "SUD_Hausa-NorthernAutogramm@latest",
       "SUD_Hausa-WesternAutogramm@latest",
+
+      "mSUD_Ika-ChibErgIS@latest",
+      "SUD_Ika-ChibErgIS@latest",
+      "mSUD_Ika-ChibErgIS@filter",
+      "SUD_Ika-ChibErgIS@filter",
 
       "SUD_Naija-NSC@latest",
 
@@ -882,9 +888,12 @@
 
       "mSUD_Pesh-ChibErgIS@latest",
       "SUD_Pesh-ChibErgIS@latest",
-      "wSUD_Pesh-ChibErgIS@latest",
+      "mSUD_Pesh-ChibErgIS@filter",
+      "SUD_Pesh-ChibErgIS@filter",
 
       "SUD_Zaar-Autogramm@latest",
+
+
 
       "SUD_Samba_Leko-Autogramm@latest",
 
@@ -905,8 +914,6 @@
       "SUD_French-Emotive",
 
       "SUD_Igbo-Masakhane",
-      "mSUD_Ika-ChibErgIS@latest",
-      "SUD_Ika-ChibErgIS@latest",
       "SUD_PS_2023@latest",
       "SUD_Thai-Autogramm@latest",
       "mSUD_Tunisian_Arabic-NAxLAT@latest",
@@ -921,10 +928,6 @@
       "SUD_Taigi-DiLSi@latest",
       "SUD_Teochew-DiLSi@latest",
       "SUD_Mandarin-DiLSi@latest",
-
-      "mSUD_Ika@tree",
-      "SUD_Ika@tree",
-      "wSUD_Ika@tree",
 
       "mSUD_Ginyanga-Autogramm@latest",
 
@@ -948,31 +951,48 @@
     "corpora": [
       "UD_Beja-Autogramm@conv",
       "UD_Beja-Autogramm@filter",
+
+      "UD_Bokota-ChibErgIS@conv",
+      "UD_Bokota-ChibErgIS@filter",
+
       "UD_Chinese-Beginner@conv",
       "UD_Chinese-PatentChar@conv",
+
       "UD_French-GSD@conv",
       "UD_French-ParisStories@conv",
       "UD_French-Rhapsodie@conv",
       "UD_French-Sequoia@conv",
+
       "UD_French_Sign_Language-STKAutogramm@conv",
+
       "UD_Haitian_Creole-Autogramm@conv",
+
       "UD_Hausa-EasternAutogramm@conv",
       "UD_Hausa-SouthernAutogramm@conv",
       "UD_Hausa-NorthernAutogramm@conv",
       "UD_Hausa-WesternAutogramm@conv",
+
+      "UD_Ika-ChibErgIS@conv",
+      "UD_Ika-ChibErgIS@filter",
+
       "UD_Naija-NSC@conv",
+
       "UD_Nenets-Tundra@conv",
+
       "UD_Northwest_Gbaya-Autogramm@conv",
+
       "UD_Pesh-ChibErgIS@conv",
+
       "UD_Zaar-Autogramm@conv",
 
-      "UD_Bokota-ChibErgIS@conv",
-      "UD_Bokota@tree",
+
+
       "UD_Egyptian_Arabic-Autogramm@conv",
+
       "UD_Samba_Leko-Autogramm@conv",
-      "UD_Ika-ChibErgIS@conv",
-      "UD_Ika@tree",
+
       "UD_Tunisian_Arabic-NAxLAT@conv",
+
       "UD_Tuwari-Autogramm@conv",
 
       "UD_Taigi-DiLSi@conv",

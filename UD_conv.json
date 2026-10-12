@@ -35,7 +35,6 @@
   },
 
 
-
   {
     "id": "UD_Bokota-ChibErgIS@conv",
     "config": "ud",
@@ -102,6 +101,9 @@
       "mSUD_Chinese-PatentChar@latest"
     ]
   },
+
+
+
   {
     "id": "UD_Ika-ChibErgIS@conv",
     "config": "ud",
@@ -119,22 +121,25 @@
     ]
   },
   {
-    "id": "UD_Ika@tree",
+    "id": "UD_Ika-ChibErgIS@filter",
     "config": "ud",
     "validation": "ud",
     "dynamic": true,
     "lang": "arh",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika_tree",
-    "src": "SUD_Ika@tree",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Ika-ChibErgIS",
+    "src": "SUD_Ika-ChibErgIS@filter",
     "grs": "${CONVERSIONS}/grs/arh/arh_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "arh_SUD_to_UD_main",
     "parallels": [
-      "SUD_Ika@tree",
-      "mSUD_Ika@tree",
-      "wSUD_Ika@tree"
+      "SUD_Ika-ChibErgIS@filter",
+      "mSUD_Ika-ChibErgIS@filter"
     ]
   },
+
+
+
+
   {
     "id": "UD_French-GSD@conv",
     "config": "ud",
@@ -198,21 +203,8 @@
       "SUD_French-ParisStories@latest"
     ]
   },
-  {
-    "id": "UD_Haitian_Creole-Autogramm@conv",
-    "config": "ud",
-    "validation": "ud",
-    "dynamic": true,
-    "lang": "ht",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
-    "src": "SUD_Haitian_Creole-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/ht/ht_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "ht_SUD_to_UD_main",
-    "parallels": [
-      "SUD_Haitian_Creole-Autogramm@latest"
-    ]
-  },
+
+
   {
     "id": "UD_French_Sign_Language-STKAutogramm@conv",
     "config": "ud",
@@ -228,90 +220,25 @@
       "SUD_French_Sign_Language-STKAutogramm@latest"
     ]
   },
+
+
   {
-    "id": "UD_Naija-NSC@conv",
+    "id": "UD_Haitian_Creole-Autogramm@conv",
     "config": "ud",
     "validation": "ud",
-    "audio": true,
     "dynamic": true,
-    "lang": "pcm",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Naija-NSC",
-    "src": "SUD_Naija-NSC@latest",
-    "grs": "${CONVERSIONS}/grs/pcm/pcm_SUD_to_UD.grs",
+    "lang": "ht",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Haitian_Creole-Autogramm",
+    "src": "SUD_Haitian_Creole-Autogramm@latest",
+    "grs": "${CONVERSIONS}/grs/ht/ht_SUD_to_UD.grs",
     "grs_config": "sud",
-    "strat": "pcm_SUD_to_UD_main",
-    "no-warnings": true,
+    "strat": "ht_SUD_to_UD_main",
     "parallels": [
-      "SUD_Naija-NSC@latest"
-    ]
-  },
-  {
-    "id": "UD_Nenets-Tundra@conv",
-    "config": "ud",
-    "validation": "ud",
-    "lang": "yrk",
-    "dynamic": true,
-    "audio": true,
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Nenets-Tundra",
-    "src": "SUD_Nenets-Tundra@latest",
-    "grs": "${CONVERSIONS}/grs/yrk/yrk_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "yrk_SUD_to_UD_main",
-    "parallels": [
-      "mSUD_Nenets-Tundra@latest",
-      "SUD_Nenets-Tundra@latest"
-    ]
-  },
-  {
-    "id": "UD_Zaar-Autogramm@conv",
-    "config": "ud",
-    "validation": "ud",
-    "audio": true,
-    "dynamic": true,
-    "lang": "say",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Zaar-Autogramm",
-    "src": "SUD_Zaar-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/say/say_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "say_SUD_to_UD_main",
-    "parallels": [
-      "SUD_Zaar-Autogramm@latest"
+      "SUD_Haitian_Creole-Autogramm@latest"
     ]
   },
 
 
-  {
-    "id": "UD_Egyptian_Arabic-Autogramm@conv",
-    "config": "ud",
-    "validation": "ud",
-    "dynamic": true,
-    "lang": "arz",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Egyptian_Arabic-Autogramm",
-    "src": "SUD_Egyptian_Arabic-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
-    "strat": "SUD_to_UD_main",
-    "grs_config": "sud",
-    "parallels": [
-      "SUD_Egyptian_Arabic-Autogramm@latest"
-    ]
-  },
-  {
-    "id": "UD_Northwest_Gbaya-Autogramm@conv",
-    "config": "ud",
-    "validation": "ud",
-    "dynamic": true,
-    "lang": "gya",
-    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
-    "src": "SUD_Northwest_Gbaya-Autogramm@latest",
-    "grs": "${CONVERSIONS}/grs/gya/gya_SUD_to_UD.grs",
-    "grs_config": "sud",
-    "strat": "gya_SUD_to_UD_main",
-    "parallels": [
-      "mSUD_Northwest_Gbaya-Autogramm@latest",
-      "SUD_Northwest_Gbaya-Autogramm@latest"
-    ],
-    "text_from_tokens": true
-  },
   {
     "id": "UD_Hausa-EasternAutogramm@conv",
     "config": "ud",
@@ -376,6 +303,99 @@
     ],
     "text_from_tokens": true
   },
+
+
+  {
+    "id": "UD_Naija-NSC@conv",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "pcm",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Naija-NSC",
+    "src": "SUD_Naija-NSC@latest",
+    "grs": "${CONVERSIONS}/grs/pcm/pcm_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "pcm_SUD_to_UD_main",
+    "no-warnings": true,
+    "parallels": [
+      "SUD_Naija-NSC@latest"
+    ]
+  },
+
+
+  {
+    "id": "UD_Nenets-Tundra@conv",
+    "config": "ud",
+    "validation": "ud",
+    "lang": "yrk",
+    "dynamic": true,
+    "audio": true,
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Nenets-Tundra",
+    "src": "SUD_Nenets-Tundra@latest",
+    "grs": "${CONVERSIONS}/grs/yrk/yrk_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "yrk_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Nenets-Tundra@latest",
+      "SUD_Nenets-Tundra@latest"
+    ]
+  },
+
+
+  {
+    "id": "UD_Northwest_Gbaya-Autogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "gya",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm",
+    "src": "SUD_Northwest_Gbaya-Autogramm@latest",
+    "grs": "${CONVERSIONS}/grs/gya/gya_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "gya_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Northwest_Gbaya-Autogramm@latest",
+      "SUD_Northwest_Gbaya-Autogramm@latest"
+    ],
+    "text_from_tokens": true
+  },
+  {
+    "id": "UD_Northwest_Gbaya-Autogramm@filter",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "bej",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Northwest_Gbaya-Autogramm_filter",
+    "src": "SUD_Northwest_Gbaya-Autogramm@filter",
+    "grs": "${CONVERSIONS}/grs/gya/gya_SUD_to_UD.grs",
+    "strat": "gya_SUD_to_UD_main",
+    "parallels": [
+      "mSUD_Northwest_Gbaya-Autogramm@filter",
+      "SUD_Northwest_Gbaya-Autogramm@filter"
+    ]
+  },
+
+
+  {
+    "id": "UD_Zaar-Autogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "audio": true,
+    "dynamic": true,
+    "lang": "say",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Zaar-Autogramm",
+    "src": "SUD_Zaar-Autogramm@latest",
+    "grs": "${CONVERSIONS}/grs/say/say_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "say_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Zaar-Autogramm@latest"
+    ]
+  },
+
+
   {
     "id": "UD_Pesh-ChibErgIS@conv",
     "config": "ud",
@@ -389,11 +409,45 @@
     "strat": "pay_SUD_to_UD_main",
     "parallels": [
       "SUD_Pesh-ChibErgIS@latest",
-      "mSUD_Pesh-ChibErgIS@latest",
-      "wSUD_Pesh-ChibErgIS@latest"
+      "mSUD_Pesh-ChibErgIS@latest"
     ],
     "text_from_tokens": true
   },
+  {
+    "id": "UD_Pesh-ChibErgIS@filter",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "pay",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Pesh-ChibErgIS",
+    "src": "SUD_Pesh-ChibErgIS@filter",
+    "grs": "${CONVERSIONS}/grs/pay/pay_SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "pay_SUD_to_UD_main",
+    "parallels": [
+      "SUD_Pesh-ChibErgIS@filter",
+      "mSUD_Pesh-ChibErgIS@filter"
+    ]
+  },
+
+
+  {
+    "id": "UD_Egyptian_Arabic-Autogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "arz",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Egyptian_Arabic-Autogramm",
+    "src": "SUD_Egyptian_Arabic-Autogramm@latest",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
+    "strat": "SUD_to_UD_main",
+    "grs_config": "sud",
+    "parallels": [
+      "SUD_Egyptian_Arabic-Autogramm@latest"
+    ]
+  },
+
+
   {
     "id": "UD_Tunisian_Arabic-NAxLAT@conv",
     "config": "ud",

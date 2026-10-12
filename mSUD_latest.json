@@ -54,6 +54,7 @@
   },
   {
     "id": "mSUD_Bokota-ChibErgIS@filter",
+    "desc": "sub corpora with only fully annotated sentences",
     "config": "sud",
     "validation": "sud",
     "lang": "sab",
@@ -97,6 +98,8 @@
       "UD_Chinese-PatentChar@conv"
     ]
   },
+
+
   {
     "id": "mSUD_Northwest_Gbaya-Autogramm@latest",
     "config": "sud",
@@ -113,6 +116,54 @@
     ]
   },
   {
+    "id": "mSUD_Northwest_Gbaya-Autogramm@filter",
+    "desc": "sub corpora with only fully annotated sentences",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "gya",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/filter/mSUD_Northwest_Gbaya-Autogramm",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Northwest_Gbaya-Autogramm/issues/new",
+    "parallels": [
+      "UD_Northwest_Gbaya-Autogramm@filter",
+      "SUD_Northwest_Gbaya-Autogramm@filter"
+    ]
+  },
+
+
+  {
+    "id": "mSUD_Ika-ChibErgIS@latest",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "arh",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS/issues/new",
+    "parallels": [
+      "UD_Ika-ChibErgIS@conv",
+      "SUD_Ika-ChibErgIS@latest"
+    ]
+  },
+  {
+    "id": "mSUD_Ika-ChibErgIS@filter",
+    "desc": "sub corpora with only fully annotated sentences",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "arh",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS/filter/mSUD_Ika-ChibErgIS",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS/issues/new",
+    "parallels": [
+      "UD_Ika-ChibErgIS@filter",
+      "SUD_Ika-ChibErgIS@filter"
+    ]
+  },
+
+
+  {
     "id": "mSUD_Pesh-ChibErgIS@latest",
     "config": "sud",
     "validation": "sud",
@@ -123,8 +174,22 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS/issues/new",
     "parallels": [
       "SUD_Pesh-ChibErgIS@latest",
-      "wSUD_Pesh-ChibErgIS@latest",
       "UD_Pesh-ChibErgIS@conv"
+    ]
+  },
+  {
+    "id": "mSUD_Pesh-ChibErgIS@filter",
+    "desc": "sub corpora with only fully annotated sentences",
+    "config": "sud",
+    "validation": "sud",
+    "lang": "pay",
+    "dynamic": true,
+    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS/filter/mSUD_Pesh-ChibErgIS",
+    "github": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS",
+    "issue": "https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS/issues/new",
+    "parallels": [
+      "UD_Pesh-ChibErgIS@filter",
+      "SUD_Pesh-ChibErgIS@filter"
     ]
   },
 

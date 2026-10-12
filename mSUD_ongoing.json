@@ -70,35 +70,6 @@
     ]
   },
 
-  {
-    "id": "mSUD_Ika@tree",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "arh",
-    "dynamic": true,
-    "directory": "${RESOURCES}/mSUD_Ika_tree",
-    "parallels": [
-      "UD_Ika@tree",
-      "SUD_Ika@tree",
-      "wSUD_Ika@tree"
-    ]
-  },
-
-  {
-    "id": "mSUD_Ika-ChibErgIS@latest",
-    "config": "sud",
-    "validation": "sud",
-    "lang": "arh",
-    "dynamic": true,
-    "directory": "${RESOURCES}/github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
-    "github": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS",
-    "issue": "https://github.com/surfacesyntacticud/mSUD_Ika-ChibErgIS/issues/new",
-    "parallels": [
-      "UD_Ika-ChibErgIS@conv",
-      "SUD_Ika-ChibErgIS@latest"
-    ]
-  },
-
 
   {
     "id": "mSUD_Taigi-DiLSi@latest",
