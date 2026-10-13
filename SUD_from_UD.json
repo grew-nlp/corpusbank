@@ -29,6 +29,16 @@
     "strat": "de_UD_to_SUD_main"
   },
   {
+    "id": "SUD_Haitian_Creole-Adolphe@conv",
+    "lang": "ht",
+    "config": "sud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Haitian_Creole-Adolphe",
+    "src": "UD_Haitian_Creole-Adolphe@dev",
+    "grs": "${CONVERSIONS}/grs/ht/ht_UD_to_SUD.grs",
+    "strat": "ht_UD_to_SUD_main"
+  },
+  {
     "id": "SUD_Wolof-WTB@conv",
     "lang": "wo",
     "config": "sud",

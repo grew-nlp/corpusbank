@@ -181,6 +181,15 @@
     },
 
     {
+      "id": "UD_Haitian_Creole-Adolphe@dev",
+      "lang": "ht",
+      "config": "ud",
+      "dynamic": true,
+      "github": "https://github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe/tree/dev",
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe"
+    },
+
+    {
       "id": "UD_German-GSD@dev",
       "lang": "de",
       "config": "ud",

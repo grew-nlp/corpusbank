@@ -814,6 +814,7 @@
       "UD_French-PUD@dev",
       "UD_French-Rhapsodie@dev",
       "UD_French-Sequoia@dev",
+      "UD_Haitian_Creole-Adolphe@dev",
       "UD_German-GSD@dev",
       "UD_German-HDT@dev",
       "UD_Irish-IDT@dev",
@@ -1029,8 +1030,10 @@
       "SUD_Bambara-CRB@conv",
       "SUD_Breton-KEB@conv",
       "SUD_German-GSD@conv",
-      "SUD_Wolof-WTB@conv",
+      "SUD_Haitian_Creole-Adolphe@conv",
       "SUD_Hebrew-PostRab@conv",
+      "SUD_Wolof-WTB@conv",
+
       "SUD_French-GSD@fix_typo",
 
       "SUD_Hausa-EasternAutogramm@from_mSUD",
