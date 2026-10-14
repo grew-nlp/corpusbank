@@ -886,6 +886,8 @@
 
       "mSUD_Northwest_Gbaya-Autogramm@latest",
       "SUD_Northwest_Gbaya-Autogramm@latest",
+      "mSUD_Northwest_Gbaya-Autogramm@filter",
+      "SUD_Northwest_Gbaya-Autogramm@filter",
 
       "mSUD_Pesh-ChibErgIS@latest",
       "SUD_Pesh-ChibErgIS@latest",
@@ -981,6 +983,7 @@
       "UD_Nenets-Tundra@conv",
 
       "UD_Northwest_Gbaya-Autogramm@conv",
+      "UD_Northwest_Gbaya-Autogramm@filter",
 
       "UD_Pesh-ChibErgIS@conv",
 
