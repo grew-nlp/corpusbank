@@ -6,7 +6,7 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Bambara-CRB/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Bambara-CRB",
-      "parallel": [
+      "parallels": [
         "SUD_Bambara-CRB@conv"
       ]
     },
@@ -17,7 +17,7 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Breton-KEB/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Breton-KEB",
-      "parallel": [
+      "parallels": [
         "SUD_Breton-KEB@conv"
       ]
     },
@@ -192,7 +192,7 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe",
-      "parallel": [
+      "parallels": [
         "SUD_Haitian_Creole-Adolphe@conv"
       ]
     },
@@ -274,7 +274,7 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Wolof-WTB/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Wolof-WTB",
-      "parallel": [
+      "parallels": [
         "SUD_Wolof-WTB@conv"
       ]
     }
