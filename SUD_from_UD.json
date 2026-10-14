@@ -6,7 +6,10 @@
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Bambara-CRB",
     "src": "UD_Bambara-CRB@dev",
     "grs": "${CONVERSIONS}/grs/UD_to_SUD.grs",
-    "strat": "UD_to_SUD_main"
+    "strat": "UD_to_SUD_main",
+    "parallels": [
+      "UD_Bambara-CRB@dev"
+    ]
   },
   {
     "id": "SUD_Breton-KEB@conv",
@@ -16,7 +19,10 @@
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Breton-KEB",
     "src": "UD_Breton-KEB@dev",
     "grs": "${CONVERSIONS}/grs/br/br_UD_to_SUD.grs",
-    "strat": "br_UD_to_SUD_main"
+    "strat": "br_UD_to_SUD_main",
+    "parallels": [
+      "UD_Breton-KEB@dev"
+    ]
   },
   {
     "id": "SUD_German-GSD@conv",
@@ -26,7 +32,10 @@
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_German-GSD",
     "src": "UD_German-GSD@dev",
     "grs": "${CONVERSIONS}/grs/de/de_UD_to_SUD.grs",
-    "strat": "de_UD_to_SUD_main"
+    "strat": "de_UD_to_SUD_main",
+    "parallels": [
+      "UD_German-GSD@dev"
+    ]
   },
   {
     "id": "SUD_Haitian_Creole-Adolphe@conv",
@@ -36,7 +45,11 @@
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Haitian_Creole-Adolphe",
     "src": "UD_Haitian_Creole-Adolphe@dev",
     "grs": "${CONVERSIONS}/grs/ht/ht_UD_to_SUD.grs",
-    "strat": "ht_UD_to_SUD_main"
+    "strat": "ht_UD_to_SUD_main",
+    "parallels": [
+      "UD_Haitian_Creole-Adolphe@dev"
+    ]
+
   },
   {
     "id": "SUD_Wolof-WTB@conv",
@@ -46,7 +59,10 @@
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Wolof-WTB",
     "src": "UD_Wolof-WTB@dev",
     "grs": "${CONVERSIONS}/grs/wo/wo_UD_to_SUD.grs",
-    "strat": "wo_UD_to_SUD_main"
+    "strat": "wo_UD_to_SUD_main",
+    "parallels": [
+      "UD_Wolof-WTB@dev"
+    ]
   },
   {
     "id": "SUD_Hebrew-PostRab@conv",

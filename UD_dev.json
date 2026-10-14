@@ -5,7 +5,10 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Bambara-CRB/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Bambara-CRB"
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Bambara-CRB",
+      "parallel": [
+        "SUD_Bambara-CRB@conv"
+      ]
     },
     {
       "id": "UD_Breton-KEB@dev",
@@ -13,7 +16,10 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Breton-KEB/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Breton-KEB"
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Breton-KEB",
+      "parallel": [
+        "SUD_Breton-KEB@conv"
+      ]
     },
     {
       "id": "UD_Egyptian-PC@dev",
@@ -23,7 +29,6 @@
       "github": "https://github.com/UniversalDependencies/UD_Egyptian-PC/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Egyptian-PC"
     },
-
 
     {
       "id": "UD_English-Atis@dev",
@@ -186,7 +191,10 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe"
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Haitian_Creole-Adolphe",
+      "parallel": [
+        "SUD_Haitian_Creole-Adolphe@conv"
+      ]
     },
 
     {
@@ -195,7 +203,10 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_German-GSD/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_German-GSD"
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_German-GSD",
+      "parallels": [
+        "SUD_German-GSD@conv"
+      ]
     },
     {
       "id": "UD_German-HDT@dev",
@@ -212,15 +223,6 @@
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Italian-KIParlaForest/tree/dev",
       "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Italian-KIParlaForest"
-    },
-
-    {
-      "id": "UniDive_kiparla",
-      "lang": "it",
-      "config": "ud",
-      "dynamic": true,
-      "github": "https://github.com/UniDive/SpLAn-UD/tree/main/co-construction/test/kiparla",
-      "directory": "${RESOURCES}/github.com/UniDive/SpLAn-UD/co-construction/test/kiparla"
     },
 
     {
@@ -271,6 +273,9 @@
       "config": "ud",
       "dynamic": true,
       "github": "https://github.com/UniversalDependencies/UD_Wolof-WTB/tree/dev",
-      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Wolof-WTB"
+      "directory": "${RESOURCES}/github.com/UniversalDependencies/UD_Wolof-WTB",
+      "parallel": [
+        "SUD_Wolof-WTB@conv"
+      ]
     }
   ]
