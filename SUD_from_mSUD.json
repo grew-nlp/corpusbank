@@ -152,8 +152,7 @@
   },
   {
     "id": "SUD_Northwest_Gbaya-Autogramm@filter",
-    "lang": "bej",
-    "config": "beja",
+    "lang": "gya",
     "dynamic": true,
     "directory": "${RESOURCES}/sud-treebanks-auto/SUD_Northwest_Gbaya-Autogramm_filter",
     "src": "mSUD_Northwest_Gbaya-Autogramm@filter",
