@@ -10,6 +10,7 @@
     "src": "mSUD_Hausa-EasternAutogramm@latest",
     "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-EasternAutogramm@latest",
       "UD_Hausa-EasternAutogramm@from_mSUD",
@@ -29,6 +30,7 @@
     "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-EasternAutogramm@latest",
       "SUD_Hausa-EasternAutogramm@from_mSUD",
@@ -48,6 +50,7 @@
     "src": "mSUD_Hausa-SouthernAutogramm@latest",
     "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-SouthernAutogramm@latest",
       "UD_Hausa-SouthernAutogramm@from_mSUD",
@@ -67,6 +70,7 @@
     "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-SouthernAutogramm@latest",
       "SUD_Hausa-SouthernAutogramm@from_mSUD",
@@ -86,6 +90,7 @@
     "src": "mSUD_Hausa-NorthernAutogramm@latest",
     "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-NorthernAutogramm@latest",
       "UD_Hausa-NorthernAutogramm@from_mSUD",
@@ -105,6 +110,7 @@
     "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-NorthernAutogramm@latest",
       "SUD_Hausa-NorthernAutogramm@from_mSUD",
@@ -124,6 +130,7 @@
     "src": "mSUD_Hausa-WesternAutogramm@latest",
     "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-WesternAutogramm@latest",
       "UD_Hausa-WesternAutogramm@from_mSUD",
@@ -143,6 +150,7 @@
     "grs": "${CONVERSIONS}/grs/ha/ha_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "ha_SUD_to_UD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Hausa-WesternAutogramm@latest",
       "SUD_Hausa-WesternAutogramm@from_mSUD",
@@ -162,6 +170,7 @@
     "src": "mSUD_Zaar-Autogramm@latest",
     "grs": "${CONVERSIONS}/grs/mSUD_to_SUD.grs",
     "strat": "mSUD_to_SUD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Zaar-Autogramm@latest",
       "UD_Zaar-Autogramm@from_mSUD",
@@ -181,6 +190,7 @@
     "grs": "${CONVERSIONS}/grs/say/say_SUD_to_UD.grs",
     "grs_config": "sud",
     "strat": "say_SUD_to_UD_main",
+    "text_from_tokens": true,
     "parallels": [
       "mSUD_Zaar-Autogramm@latest",
       "SUD_Zaar-Autogramm@from_mSUD",

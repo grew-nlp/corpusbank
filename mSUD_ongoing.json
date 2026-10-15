@@ -14,6 +14,10 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-EasternAutogramm/issues/new",
     "arborator_grew": "mSUD_Hausa-EasternAutogramm",
     "parallels": [
+      "SUD_Hausa-EasternAutogramm@from_mSUD",
+      "UD_Hausa-EasternAutogramm@from_mSUD",
+      "SUD_Hausa-EasternAutogramm@latest",
+      "UD_Hausa-EasternAutogramm@conv"
     ]
   },
   {
@@ -27,6 +31,10 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-NorthernAutogramm/issues/new",
     "arborator_grew": "mSUD_Hausa-NorthernAutogramm",
     "parallels": [
+      "SUD_Hausa-NorthernAutogramm@from_mSUD",
+      "UD_Hausa-NorthernAutogramm@from_mSUD",
+      "SUD_Hausa-NorthernAutogramm@latest",
+      "UD_Hausa-NorthernAutogramm@conv"
     ]
   },
   {
@@ -40,6 +48,10 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-SouthernAutogramm/issues/new",
     "arborator_grew": "mSUD_Hausa-SouthernAutogramm",
     "parallels": [
+      "SUD_Hausa-SouthernAutogramm@from_mSUD",
+      "UD_Hausa-SouthernAutogramm@from_mSUD",
+      "SUD_Hausa-SouthernAutogramm@latest",
+      "UD_Hausa-SouthernAutogramm@conv"
     ]
   },
   {
@@ -53,6 +65,10 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Hausa-WesternAutogramm/issues/new",
     "arborator_grew": "mSUD_Hausa-WesternAutogramm",
     "parallels": [
+      "SUD_Hausa-WesternAutogramm@from_mSUD",
+      "UD_Hausa-WesternAutogramm@from_mSUD",
+      "SUD_Hausa-WesternAutogramm@latest",
+      "UD_Hausa-WesternAutogramm@conv"
     ]
   },
 
@@ -67,6 +83,10 @@
     "issue": "https://github.com/surfacesyntacticud/mSUD_Zaar-Autogramm/issues/new",
     "arborator_grew": "mSUD_Zaar-Autogramm",
     "parallels": [
+      "SUD_Zaar-Autogramm@from_mSUD",
+      "UD_Zaar-Autogramm@from_mSUD",
+      "SUD_Zaar-Autogramm@latest",
+      "UD_Zaar-Autogramm@conv"
     ]
   },
 
