@@ -10,6 +10,11 @@
     "guidelines": "https://guidelines.surfacesyntacticud.org/docs/language/french/",
     "issue": "https://github.com/surfacesyntacticud/SUD_Chikunda-OrikundaAutogramm/issues/new",
     "arborator_grew": "SUD_Chikunda-OrikundaAutogramm",
+    "files": [
+      "kdn.zim.ka_mon03.sud.conllu",
+      "kdn.moz.zb_mon03.sud.conllu",
+      "kdn.moz.zb_mon02.sud.conllu"
+    ],
     "parallels": [
       "UD_Chikunda-OrikundaAutogramm@conv"
     ]
