@@ -139,6 +139,23 @@
 
 
 
+  {
+    "id": "UD_Chikunda-OrikundaAutogramm@conv",
+    "config": "ud",
+    "validation": "ud",
+    "dynamic": true,
+    "lang": "kdn",
+    "directory": "${RESOURCES}/ud-treebanks-conv/UD_Chikunda-OrikundaAutogramm",
+    "src": "SUD_Chikunda-OrikundaAutogramm@latest",
+    "grs": "${CONVERSIONS}/grs/SUD_to_UD.grs",
+    "grs_config": "sud",
+    "strat": "SUD_to_UD_main",
+    "parallels": [
+      "SUD_Chikunda-OrikundaAutogramm@latest"
+    ]
+  },
+
+
 
   {
     "id": "UD_French-GSD@conv",
