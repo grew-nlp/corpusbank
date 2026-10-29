@@ -25,6 +25,20 @@
     ]
   },
   {
+    "id": "SUD_English-EWT@conv",
+    "lang": "en",
+    "config": "sud",
+    "validation": "sud",
+    "dynamic": true,
+    "directory": "${RESOURCES}/sud-treebanks-auto/SUD_English-EWT",
+    "src": "UD_English-EWT@dev",
+    "grs": "${CONVERSIONS}/grs/UD_to_SUD.grs",
+    "strat": "UD_to_SUD_main",
+    "parallels": [
+      "UD_English-EWT@dev"
+    ]
+  },
+  {
     "id": "SUD_German-GSD@conv",
     "lang": "de",
     "config": "sud",

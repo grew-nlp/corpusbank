@@ -1037,6 +1037,7 @@
     "corpora": [
       "SUD_Bambara-CRB@conv",
       "SUD_Breton-KEB@conv",
+      "SUD_English-EWT@conv",
       "SUD_German-GSD@conv",
       "SUD_Haitian_Creole-Adolphe@conv",
       "SUD_Hebrew-PostRab@conv",
