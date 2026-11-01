@@ -277,5 +277,14 @@
       "parallels": [
         "SUD_Wolof-WTB@conv"
       ]
+    },
+    {
+      "id": "SPS-Dislocated-UD@dev",
+      "lang": "fa",
+      "config": "ud",
+      "rtl": true,
+      "dynamic": true,
+      "github": "https://github.com/Behnooshn/SPS-Dislocated-UD/tree/main",
+      "directory": "${RESOURCES}/github.com/Behnooshn/SPS-Dislocated-UD/data/"
     }
   ]

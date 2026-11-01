@@ -834,7 +834,9 @@
       "LIDILEM_scoledit",
       "svt-2022_10K",
       "UD_Quechua_qwh",
-      "UD_Hebrew-PostRab@dev"
+      "UD_Hebrew-PostRab@dev",
+
+      "SPS-Dislocated-UD@dev"
     ]
   },
 
