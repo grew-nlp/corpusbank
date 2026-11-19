@@ -181,7 +181,6 @@
     "parallels": [
       "UD_Arabic-PADT@2.19"
     ],
-    "enhanced": true,
     "rtl": true
   },
   {
@@ -294,8 +293,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Belarusian-HSE",
     "parallels": [
       "UD_Belarusian-HSE@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Bengali-BRU@2.19",
@@ -365,8 +363,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Bulgarian-BTB",
     "parallels": [
       "UD_Bulgarian-BTB@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Buryat-BDT@2.19",
@@ -416,8 +413,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Catalan-AnCora",
     "parallels": [
       "UD_Catalan-AnCora@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Cebuano-GJA@2.19",
@@ -507,8 +503,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Chintang-CTNTB",
     "parallels": [
       "UD_Chintang-CTNTB@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Chukchi-HSE@2.19",
@@ -518,8 +513,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Chukchi-HSE",
     "parallels": [
       "UD_Chukchi-HSE@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Classical_Armenian-CAVaL@2.19",
@@ -599,8 +593,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Czech-CAC",
     "parallels": [
       "UD_Czech-CAC@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-CLTT@2.19",
@@ -610,8 +603,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Czech-CLTT",
     "parallels": [
       "UD_Czech-CLTT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-CzeSL@2.19",
@@ -631,8 +623,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Czech-FicTree",
     "parallels": [
       "UD_Czech-FicTree@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-PDTC@2.19",
@@ -642,8 +633,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Czech-PDTC",
     "parallels": [
       "UD_Czech-PDTC@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Czech-Poetry@2.19",
@@ -663,8 +653,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Czech-PUD",
     "parallels": [
       "UD_Czech-PUD@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Danish-DDT@2.19",
@@ -714,8 +703,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Dutch-Alpino",
     "parallels": [
       "UD_Dutch-Alpino@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Dutch-LassySmall@2.19",
@@ -725,8 +713,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Dutch-LassySmall",
     "parallels": [
       "UD_Dutch-LassySmall@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Egyptian-PC@2.19",
@@ -756,8 +743,7 @@
     "github": "https://github.com/UniversalDependencies/UD_English-CHILDES",
     "parallels": [
       "UD_English-CHILDES@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-CTeTex@2.19",
@@ -798,8 +784,7 @@
     "github": "https://github.com/UniversalDependencies/UD_English-EWT",
     "parallels": [
       "UD_English-EWT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-GENTLE@2.19",
@@ -809,8 +794,7 @@
     "github": "https://github.com/UniversalDependencies/UD_English-GENTLE",
     "parallels": [
       "UD_English-GENTLE@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-GUM@2.19",
@@ -820,8 +804,7 @@
     "github": "https://github.com/UniversalDependencies/UD_English-GUM",
     "parallels": [
       "UD_English-GUM@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_English-GUMReddit@2.19",
@@ -832,7 +815,6 @@
     "parallels": [
       "UD_English-GUMReddit@2.19"
     ],
-    "enhanced": true,
     "no_word": true
   },
   {
@@ -883,8 +865,7 @@
     "github": "https://github.com/UniversalDependencies/UD_English-PUD",
     "parallels": [
       "UD_English-PUD@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Erzya-JR@2.19",
@@ -924,8 +905,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Estonian-EDT",
     "parallels": [
       "UD_Estonian-EDT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Estonian-EWT@2.19",
@@ -935,8 +915,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Estonian-EWT",
     "parallels": [
       "UD_Estonian-EWT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Even-GDUD@2.19",
@@ -1006,8 +985,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Finnish-PUD",
     "parallels": [
       "UD_Finnish-PUD@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Finnish-TDT@2.19",
@@ -1017,8 +995,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Finnish-TDT",
     "parallels": [
       "UD_Finnish-TDT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_French-ALTS@2.19",
@@ -1412,8 +1389,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Highland_Puebla_Nahuatl-ITML",
     "parallels": [
       "UD_Highland_Puebla_Nahuatl-ITML@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Hindi-HDTB@2.19",
@@ -1563,8 +1539,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Italian-ISDT",
     "parallels": [
       "UD_Italian-ISDT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Italian-KIParlaForest@2.19",
@@ -1594,8 +1569,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Italian-Old",
     "parallels": [
       "UD_Italian-Old@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Italian-ParlaMint@2.19",
@@ -1828,8 +1802,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Khoekhoe-KDT",
     "parallels": [
       "UD_Khoekhoe-KDT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Kiche-IU@2.19",
@@ -1909,8 +1882,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Korean-LittlePrince",
     "parallels": [
       "UD_Korean-LittlePrince@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Korean-PUD@2.19",
@@ -1960,8 +1932,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Latgalian-Cairo",
     "parallels": [
       "UD_Latgalian-Cairo@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Latin-CIRCSE@2.19",
@@ -2031,8 +2002,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Latvian-Cairo",
     "parallels": [
       "UD_Latvian-Cairo@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Latvian-LVTB@2.19",
@@ -2042,8 +2012,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Latvian-LVTB",
     "parallels": [
       "UD_Latvian-LVTB@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Laz-BOUN@2.19",
@@ -2303,8 +2272,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Naga-Suansu",
     "parallels": [
       "UD_Naga-Suansu@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Nanai-GDUD@2.19",
@@ -2708,8 +2676,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Polish-LFG",
     "parallels": [
       "UD_Polish-LFG@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Polish-MPDT@2.19",
@@ -2719,8 +2686,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Polish-MPDT",
     "parallels": [
       "UD_Polish-MPDT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Polish-PDB@2.19",
@@ -2730,8 +2696,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Polish-PDB",
     "parallels": [
       "UD_Polish-PDB@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Polish-PUD@2.19",
@@ -2741,8 +2706,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Polish-PUD",
     "parallels": [
       "UD_Polish-PUD@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Pomak-Philotis@2.19",
@@ -2822,8 +2786,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Portuguese-Porttinari",
     "parallels": [
       "UD_Portuguese-Porttinari@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Portuguese-PPrincipe@2.19",
@@ -2984,8 +2947,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Russian-SynTagRus",
     "parallels": [
       "UD_Russian-SynTagRus@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Russian-Taiga@2.19",
@@ -3005,8 +2967,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Ruuli-RDT",
     "parallels": [
       "UD_Ruuli-RDT@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Sanskrit-UFAL@2.19",
@@ -3137,8 +3098,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Slovak-SNK",
     "parallels": [
       "UD_Slovak-SNK@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Slovenian-SSJ@2.19",
@@ -3200,8 +3160,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Spanish-AnCora",
     "parallels": [
       "UD_Spanish-AnCora@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Spanish-COSER@2.19",
@@ -3281,8 +3240,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Swedish-PUD",
     "parallels": [
       "UD_Swedish-PUD@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Swedish-SweLL@2.19",
@@ -3302,8 +3260,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Swedish-Talbanken",
     "parallels": [
       "UD_Swedish-Talbanken@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Tagabawa-GJA@2.19",
@@ -3353,8 +3310,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Tamil-TTB",
     "parallels": [
       "UD_Tamil-TTB@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Tangut-MiCA@2.19",
@@ -3614,8 +3570,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Ukrainian-IU",
     "parallels": [
       "UD_Ukrainian-IU@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Ukrainian-ParlaMint@2.19",
@@ -3798,8 +3753,7 @@
     "github": "https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-MesoTree",
     "parallels": [
       "UD_Western_Sierra_Puebla_Nahuatl-MesoTree@2.19"
-    ],
-    "enhanced": true
+    ]
   },
   {
     "id": "SUD_Wolof-WTB@2.19",
